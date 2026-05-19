@@ -114,7 +114,7 @@ def read_json(filename: str):
         return json.load(f)
 
 
-def fetch_with_backoff(url, headers=get_random_user_agent(), cookies=None, max_retries=5, base_delay=2):
+def fetch_with_backoff(url, headers=get_random_user_agent(), cookies=None, data=None, max_retries=5, base_delay=2):
     for attempt in range(max_retries):
         try:
             # Using curl_cffi to mimic a real browser (e.g., Chrome)

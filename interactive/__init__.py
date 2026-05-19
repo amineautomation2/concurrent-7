@@ -22,7 +22,7 @@ def get_funds_keywords(driver: WebDriver, funds: list[dict]) -> list[dict]:
         f = dict(name=fund["name"], isin=fund["isin"],
                  url=fund["url"], keyword=keyword)
         data.append(f)
-        delay(0.5, 2)
+        delay(2, 3)
     return data
 
 
