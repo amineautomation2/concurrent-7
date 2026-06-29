@@ -5,7 +5,9 @@ from utils import (
     delay,
     get_random_user_agent,
     get_xlsx_filepath,
+    save_xlsx,
 )
+from worker import get_data_by_worker_id, get_xlsx_data, write_csv_by_id
 
 from .etf import funds_etf
 from .it import funds_investment
@@ -42,7 +44,7 @@ def create_fresh_browser(playwright_ctx):
 
 
 def get_funds_keywords_playwright(
-    playwright_ctx, funds: list[dict], batch_size: int = 50
+    playwright_ctx, funds: list[dict], sheet: str, batch_size: int = 50
 ) -> list[dict]:
     data = []
 
@@ -88,7 +90,14 @@ def get_funds_keywords_playwright(
                     delay(1, 2)
 
         # Append data matching your dictionary schema
-        f = dict(name=fund["name"], isin=fund["isin"], url=fund["url"], keyword=keyword)
+        f = dict(
+            index=fund.get("index"),
+            name=fund.get("name"),
+            isin=fund.get("isin"),
+            url=fund.get("url"),
+            keyword=keyword,
+            sheet=sheet,
+        )
         data.append(f)
 
         # Mimic your original delay(2, 3) if you need pacing
@@ -117,7 +126,7 @@ def write_spreadsheet(filepath: str, sheet: str, data: list[dict]) -> None:
     wb.close()
 
 
-def interactive_runner(sheet: str):
+def get_urls(sheet: str) -> None:
     headers = {
         "accept": "application/json;charset=UTF-8",
         "accept-encoding": "gzip, deflate, br",
@@ -130,29 +139,41 @@ def interactive_runner(sheet: str):
     ua = get_random_user_agent()
     headers.update(ua)
     xlsx_path = get_xlsx_filepath("interactive_investor.xlsx")
-
-    with sync_playwright() as pw_ctx:
+    data = []
+    cols = ["name", "isin", "url"]
+    for sheet in ["Investment", "ETF", "MF"]:
         if sheet == "Investment":
-            it_data = funds_investment(headers)
-            it_data = get_funds_keywords_playwright(pw_ctx, it_data)
-            write_spreadsheet(xlsx_path, "Investment", it_data)
+            data = funds_investment(headers)
+            save_xlsx(xlsx_path, data, cols, sheet)
 
         if sheet == "ETF":
-            etf_data = funds_etf(headers)
-            etf_data = get_funds_keywords_playwright(pw_ctx, etf_data)
-            write_spreadsheet(xlsx_path, "ETF", etf_data)
+            data = funds_etf(headers)
+            save_xlsx(xlsx_path, data, cols, sheet)
 
         if sheet == "MF":
             total_mf = get_total_funds_mf(headers)
             total_inc = total_mf["inc"]
             total_acc = total_mf["acc"]
             mf_data_inc = funds_mf(headers, total_inc, "inc")
-            mf_data_inc = get_funds_keywords_playwright(pw_ctx, mf_data_inc)
-
             mf_data_acc = funds_mf(headers, total_acc, "acc")
-            mf_data_acc = get_funds_keywords_playwright(pw_ctx, mf_data_acc)
-            mf_data = mf_data_inc + mf_data_acc
-            write_spreadsheet(xlsx_path, "MF", mf_data)
+            data = mf_data_acc + mf_data_inc
+            print("acc: ", len(mf_data_acc))
+            print("inc: ", len(mf_data_inc))
+            print("sum:", len(data))
+            save_xlsx(xlsx_path, data, cols, sheet)
+    return
+
+
+def interactive_runner(id_worker: int, max_worker: int, sheet: str):
+    xlsx_path = get_xlsx_filepath("interactive_investor.xlsx")
+    funds_data = get_xlsx_data(xlsx_path, sheet)
+    worker_data = get_data_by_worker_id(id_worker, max_worker, funds_data)
+    out_csv = f"ii_{id_worker}_{sheet.lower()}.csv"
+    fields = ["index", "name", "isin", "url", "keyword", "sheet"]
+
+    with sync_playwright() as pw_ctx:
+        worker_data = get_funds_keywords_playwright(pw_ctx, worker_data, sheet)
+        write_csv_by_id(out_csv, worker_data, fields)
 
 
 def funds_dedup(funds: list[dict]) -> list[dict]:

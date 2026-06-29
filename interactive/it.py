@@ -34,4 +34,7 @@ def funds_investment(headers: dict) -> list[dict]:
                 isin = fund["isin"]
                 data.append(dict(name=name, isin=isin, url=url))
             delay(1.5, 3)
+        # REMOVE
+        break
+        ###############
     return data
