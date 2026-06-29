@@ -35,6 +35,6 @@ def funds_etf(headers: dict):
             delay(0.5, 1.5)
 
         # REMOVE
-        break
+        # break
         ###############
     return data

@@ -57,6 +57,6 @@ def funds_mf(headers: dict, total: int, type: str) -> list[dict]:
                     data.append(dict(name=name, isin=isin, url=url))
         sleep(uniform(0.5, 1.5))
         # REMOVE
-        break
+        # break
         ###############
     return data

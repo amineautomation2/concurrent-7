@@ -10,7 +10,7 @@ from time import sleep
 import openpyxl
 import ua_generator
 from curl_cffi import requests
-from openpyxl.styles import Font, PatternFill
+from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 from ua_generator.data.version import VersionRange
 from ua_generator.options import Options as OptionsUA
@@ -125,8 +125,10 @@ def save_xlsx(
                 cell = ws.cell(start, col, fund.get(val))
                 cell.style = "Hyperlink"
                 cell.hyperlink = fund.get(val)
+                cell.alignment = Alignment(wrap_text=True)
                 continue
-            ws.cell(start, col, fund.get(val))
+            cell = ws.cell(start, col, fund.get(val))
+            cell.alignment = Alignment(wrap_text=True)
         start += 1
     wb.save(xlsx_path)
     wb.close()

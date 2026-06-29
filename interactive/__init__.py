@@ -157,9 +157,6 @@ def get_urls(sheet: str) -> None:
             mf_data_inc = funds_mf(headers, total_inc, "inc")
             mf_data_acc = funds_mf(headers, total_acc, "acc")
             data = mf_data_acc + mf_data_inc
-            print("acc: ", len(mf_data_acc))
-            print("inc: ", len(mf_data_inc))
-            print("sum:", len(data))
             save_xlsx(xlsx_path, data, cols, sheet)
     return
 
