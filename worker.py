@@ -80,7 +80,7 @@ def merge_csv_to_xlsx(xlsx_out: str, fields: list[str], sheet: str):
     combined_data = []
     csv_dir = os.path.join(os.getcwd(), "csv")
     for filename in os.listdir(csv_dir):
-        if filename.endswith(f"{sheet.lower()}.csv"):
+        if filename.endswith(f"{sheet}.csv"):
             file_path = os.path.join(csv_dir, filename)
             data = read_csv(file_path)
             if data:

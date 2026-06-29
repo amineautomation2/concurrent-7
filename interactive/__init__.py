@@ -168,7 +168,7 @@ def interactive_runner(id_worker: int, max_worker: int, sheet: str):
     xlsx_path = get_xlsx_filepath("interactive_investor.xlsx")
     funds_data = get_xlsx_data(xlsx_path, sheet)
     worker_data = get_data_by_worker_id(id_worker, max_worker, funds_data)
-    out_csv = f"ii_{id_worker}_{sheet.lower()}.csv"
+    out_csv = f"ii_{id_worker}_{sheet}.csv"
     fields = ["index", "name", "isin", "url", "keyword", "sheet"]
 
     with sync_playwright() as pw_ctx:
