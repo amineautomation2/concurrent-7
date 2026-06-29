@@ -25,7 +25,7 @@ jobs:
         uses: actions/upload-artifact@v6
         with:
           name: base-investment
-          path: spreadsheet/hl.xlsx
+          path: spreadsheet/interactive_investor.xlsx
           if-no-files-found: error
 
       - name: Commit and push changes
