@@ -6,7 +6,6 @@ on:
 
 env:
   max_workers: 5
-  sheet_csv: 'etf'
   sheet: 'ETF'
 
 jobs:
@@ -19,10 +18,10 @@ jobs:
     
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v4
         with:
           python-version: '3.12.3'
 
@@ -40,16 +39,16 @@ jobs:
           playwright install chromium --with-deps
 
       - name: Cleanup CSV
-        run: rm -rf csv/*_${{env.sheet_csv}}.csv
+        run: rm -rf csv/*_${{env.sheet}}.csv
 
       - name: Run Scraper Chunk
         run: python main.py --id ${{ matrix.chunk }} --max ${{env.max_workers}} --sheet ${{env.sheet}}
 
       - name: Upload Partial Data
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
-          name: results-${{env.sheet_csv}}-csv-${{matrix.chunk}}
-          path: csv/ii_${{matrix.chunk}}_${{env.sheet_csv}}.csv
+          name: results-${{env.sheet}}-csv-${{matrix.chunk}}
+          path: csv/ii_${{matrix.chunk}}_${{env.sheet}}.csv
           if-no-files-found: error
 
   merge-results:
@@ -57,7 +56,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Pull latest changes
         run: |
@@ -66,7 +65,7 @@ jobs:
           git pull --rebase origin main
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v4
         with:
           python-version: '3.12.3'
 
@@ -74,19 +73,19 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Download All Artifacts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v4
         with:
           path: csv
-          pattern: results-${{env.sheet_csv}}-csv-*
+          pattern: results-${{env.sheet}}-csv-*
           merge-multiple: true
 
       - name: Merge and Commit
         run: python main.py --merge --sheet ${{env.sheet}}
 
       - name: Upload Spreadsheet
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
-          name: ii-${{env.sheet_csv}}
+          name: ii-${{env.sheet}}
           path: spreadsheet
           if-no-files-found: error
 
