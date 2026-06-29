@@ -27,6 +27,10 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright Browsers and System Dependencies
+        run: |
+          playwright install chromium --with-deps
+
       - name: Run Scraper Chunk
         run: python main.py --sheet ETF
 
