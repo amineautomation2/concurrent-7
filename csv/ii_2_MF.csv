@@ -1,0 +1,782 @@
+index,name,isin,url,keyword,sheet
+4,Fundsmith Equity I Acc,GB00B41YBW71,https://www.ii.co.uk/funds/fundsmith-equity-i-acc/B41YBW7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+9,Vanguard LifeStrategy 60% Equity A Acc,GB00B3TYHH97,https://www.ii.co.uk/funds/vanguard-lifestrategy-60-equity-a-acc/B3TYHH9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+14,abrdn Global Govt Bond Tracker B GBP Acc,GB00BK80KQ76,https://www.ii.co.uk/funds/abrdn-global-govt-bond-tracker-b-gbp-acc/BK80KQ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+19,abrdn Global Corp Bd Scrnd Trckr B Acc,GB00BF473024,https://www.ii.co.uk/funds/abrdn-global-corp-bd-scrnd-trckr-b-acc/BF47302,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+24,abrdn American Equity Tracker N Acc,GB00BDFZ7321,https://www.ii.co.uk/funds/abrdn-american-equity-tracker-n-acc/BDFZ732,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+29,abrdn European Equity Tracker B Acc,GB00BGMK1394,https://www.ii.co.uk/funds/abrdn-european-equity-tracker-b-acc/BGMK139,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+34,abrdn Asia Pacific Eq Enh Idx N Acc,GB00BDFZ6G86,https://www.ii.co.uk/funds/abrdn-asia-pacific-eq-enh-idx-n-acc/BDFZ6G8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+39,abrdn Global High Yield Bd S Acc H GBP,LU2768794641,https://www.ii.co.uk/funds/abrdn-global-high-yield-bd-s-acc-h-gbp/BNM6FJ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+44,Fidelity Index UK A-Acc,GB0003875324,https://www.ii.co.uk/funds/fidelity-index-uk-a-acc/0387532,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+49,Vanguard FTSE UK Eq Inc Idx £ Acc,GB00B59G4H82,https://www.ii.co.uk/funds/vanguard-ftse-uk-eq-inc-idx-acc/B59G4H8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+54,LF Equity Income Z Sterling Acc,GB00BLRZQC88,https://www.ii.co.uk/funds/lf-equity-income-z-sterling-acc/BLRZQC8,"You can hold this fund in an ISA, JISA and Trading Account",MF
+59,Baillie Gifford Positive Change B Acc,GB00BYVGKV59,https://www.ii.co.uk/funds/baillie-gifford-positive-change-b-acc/BYVGKV5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+64,WS Blue Whale Growth I Sterling Acc,GB00BD6PG563,https://www.ii.co.uk/funds/ws-blue-whale-growth-i-sterling-acc/BD6PG56,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+69,Stewart Inv APAC Ldrs A GBP Acc,GB0033874214,https://www.ii.co.uk/funds/stewart-inv-apac-ldrs-a-gbp-acc/3387421,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+74,Smithson Equity Fund S GBP Acc,GB00BLBNK482,https://www.ii.co.uk/funds/smithson-equity-fund-s-gbp-acc/BLBNK48,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+79,iShares Emerging Mkts Eq Idx (UK) D Acc,GB00B84DY642,https://www.ii.co.uk/funds/ishares-emerging-mkts-eq-idx-uk-d-acc/B84DY64,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+84,L&G US Index C Acc,GB00BG0QPL51,https://www.ii.co.uk/funds/lg-us-index-c-acc/BG0QPL5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+89,HSBC FTSE 250 Index C Acc,GB00B80QG052,https://www.ii.co.uk/funds/hsbc-ftse-250-index-c-acc/B80QG05,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+94,Baillie Gifford Global Discovery B Acc,GB0006059330,https://www.ii.co.uk/funds/baillie-gifford-global-discovery-b-acc/0605933,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+99,Janus Henderson Glb Tech Leaders E Acc,GB00BJ0LFT96,https://www.ii.co.uk/funds/janus-henderson-glb-tech-leaders-e-acc/BJ0LFT9,You can hold this fund in a Trading Account,MF
+104,IFSL Marlborough UK Micro Cap Gr A Acc,GB00B02TPH60,https://www.ii.co.uk/funds/ifsl-marlborough-uk-micro-cap-gr-a-acc/B02TPH6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+109,Artemis SmartGARP Glb Eq I Acc GBP,GB00B2PLJP95,https://www.ii.co.uk/funds/artemis-smartgarp-glb-eq-i-acc-gbp/B2PLJP9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+114,Vanguard Glb Bd Idx £ H Acc,IE00B50W2R13,https://www.ii.co.uk/funds/vanguard-glb-bd-idx-h-acc/B50W2R1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+119,L&G Global Health & Pharma Index R Acc,GB0001955532,https://www.ii.co.uk/funds/lg-global-health-pharma-index-r-acc/0195553,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+124,HSBC European Index Institutional Acc,GB0000469303,https://www.ii.co.uk/funds/hsbc-european-index-institutional-acc/0046930,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+129,HSBC FTSE All Share Index C Acc,GB00B80QFX11,https://www.ii.co.uk/funds/hsbc-ftse-all-share-index-c-acc/B80QFX1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+134,Fidelity Index US A Acc,GB00B8G3MY63,https://www.ii.co.uk/funds/fidelity-index-us-a-acc/B8G3MY6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+139,Baillie Gifford Pacific B Acc,GB0006063233,https://www.ii.co.uk/funds/baillie-gifford-pacific-b-acc/0606323,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+144,JPM Natural Resources C Net Acc,GB00B88MP089,https://www.ii.co.uk/funds/jpm-natural-resources-c-net-acc/B88MP08,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+149,Vanguard LifeStrategy 20% Eq A Grs Acc,GB00B4NXY349,https://www.ii.co.uk/funds/vanguard-lifestrategy-20-eq-a-grs-acc/B4NXY34,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+154,Trojan Fund X Accumulation,GB00BZ6CNS31,https://www.ii.co.uk/funds/trojan-fund-x-accumulation/BZ6CNS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+159,BlackRock European Dynamic D Acc,GB00B5W2QB11,https://www.ii.co.uk/funds/blackrock-european-dynamic-d-acc/B5W2QB1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+164,CT European Select Rtl Acc GBP,GB0001529345,https://www.ii.co.uk/funds/ct-european-select-rtl-acc-gbp/0152934,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+169,Man Income Professional Acc C,GB00B0117C28,https://www.ii.co.uk/funds/man-income-professional-acc-c/B0117C2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+174,abrdn Asia Pacific Equity I Acc,GB00B0XWNG99,https://www.ii.co.uk/funds/abrdn-asia-pacific-equity-i-acc/B0XWNG9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+179,Jupiter European J Acc,GB00BJJQ4M13,https://www.ii.co.uk/funds/jupiter-european-j-acc/BJJQ4M1,"You can hold this fund in an ISA, JISA and Trading Account",MF
+184,Invesco UK Eq High Inc UK Z Acc,GB00B8N46L71,https://www.ii.co.uk/funds/invesco-uk-eq-high-inc-uk-z-acc/B8N46L7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+189,FSSA Greater China Growth B GBP Acc,GB0033874321,https://www.ii.co.uk/funds/fssa-greater-china-growth-b-gbp-acc/3387432,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+194,iShares 100 UK Equity Index (UK) D Acc,GB00B7W4GQ69,https://www.ii.co.uk/funds/ishares-100-uk-equity-index-uk-d-acc/B7W4GQ6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+199,BNY Mellon Global Income Instl W Acc,GB00B7S9KM94,https://www.ii.co.uk/funds/bny-mellon-global-income-instl-w-acc/B7S9KM9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+204,L&G Pacific Index C Acc,GB00BG0QPB53,https://www.ii.co.uk/funds/lg-pacific-index-c-acc/BG0QPB5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+209,Janus Henderson European Sel Opps I Acc,GB0032473653,https://www.ii.co.uk/funds/janus-henderson-european-sel-opps-i-acc/3247365,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+214,Fidelity Em Mkts W-Acc-GBP,LU1033662674,https://www.ii.co.uk/funds/fidelity-em-mkts-w-acc-gbp/BJVDYV9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+219,Polar Cptl PLC-Artfcl Intllgnc I Acc GBP,IE00BF0GL543,https://www.ii.co.uk/funds/polar-cptl-plc-artfcl-intllgnc-i-acc-gbp/BF0GL54,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+224,Vanguard Global Equity Income Acc,GB00BZ82ZW98,https://www.ii.co.uk/funds/vanguard-global-equity-income-acc/BZ82ZW9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+229,Man Continental Eurp Gr Prf Acc StlgH CH,GB00BYNRH370,https://www.ii.co.uk/funds/man-continental-eurp-gr-prf-acc-stlgh-ch/BYNRH37,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+234,CT Sustainable Universal MAP Gr 3 Acc,GB00BKV44977,https://www.ii.co.uk/funds/ct-sustainable-universal-map-gr-3-acc/BKV4497,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+239,BlackRock Continental Eurp Inc D Acc,GB00B3S9LG25,https://www.ii.co.uk/funds/blackrock-continental-eurp-inc-d-acc/B3S9LG2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+244,JOHCM UK Equity Income IP GBP Acc,GB00B8FCHK57,https://www.ii.co.uk/funds/johcm-uk-equity-income-ip-gbp-acc/B8FCHK5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+249,Polar Capital Global Ins I Acc,IE00B5339C57,https://www.ii.co.uk/funds/polar-capital-global-ins-i-acc/B5339C5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+254,Jupiter UK Smaller Companies I GBP Acc,GB00B1XG9599,https://www.ii.co.uk/funds/jupiter-uk-smaller-companies-i-gbp-acc/B1XG959,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+259,Fidelity Japan W Acc,GB00B882N041,https://www.ii.co.uk/funds/fidelity-japan-w-acc/B882N04,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+264,Schroder Global Healthcare Z Acc,GB00B76V7Q08,https://www.ii.co.uk/funds/schroder-global-healthcare-z-acc/B76V7Q0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+269,M&G Emerging Markets Bond GBP I-H Acc,GB00BZ0YDS58,https://www.ii.co.uk/funds/mg-emerging-markets-bond-gbp-i-h-acc/BZ0YDS5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+274,AXA Framlington American Gr Fund - Z Acc,GB00B5LXGG05,https://www.ii.co.uk/funds/axa-framlington-american-gr-fund-z-acc/B5LXGG0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+279,Invesco UK Opports (UK) Z (Acc),GB00B8N46S41,https://www.ii.co.uk/funds/invesco-uk-opports-uk-z-acc/B8N46S4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+284,WS Amati Strategic Metals B Acc,GB00BMD8NV62,https://www.ii.co.uk/funds/ws-amati-strategic-metals-b-acc/BMD8NV6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+289,Baillie Gifford European B Acc,GB0006058258,https://www.ii.co.uk/funds/baillie-gifford-european-b-acc/0605825,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+294,Artemis UK Special Situations I Acc,GB00B2PLJQ03,https://www.ii.co.uk/funds/artemis-uk-special-situations-i-acc/B2PLJQ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+299,Jupiter UK Mid Cap Z1 GBP Acc,GB00BHBX8L33,https://www.ii.co.uk/funds/jupiter-uk-mid-cap-z1-gbp-acc/BHBX8L3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+304,Polar Capital Smart Energy I Acc GBP,IE000GWLH680,https://www.ii.co.uk/funds/polar-capital-smart-energy-i-acc-gbp/BPF0PL5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+309,Fidelity Index Europe ex UK P Acc,GB00BHZK8B07,https://www.ii.co.uk/funds/fidelity-index-europe-ex-uk-p-acc/BHZK8B0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+314,Fidelity American Special Sits W Acc,GB00B89ST706,https://www.ii.co.uk/funds/fidelity-american-special-sits-w-acc/B89ST70,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+319,Schroder UK Dynamic Smaller Coms Z Acc,GB0007220360,https://www.ii.co.uk/funds/schroder-uk-dynamic-smaller-coms-z-acc/0722036,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+324,CT Sustainable Universal MAP Bal 3 Acc,GB00BKV44753,https://www.ii.co.uk/funds/ct-sustainable-universal-map-bal-3-acc/BKV4475,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+329,abrdn UK Income Equity I Acc,GB00B0XWN929,https://www.ii.co.uk/funds/abrdn-uk-income-equity-i-acc/B0XWN92,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+334,JPM US Small Cap Growth C Acc,GB00B8H99P30,https://www.ii.co.uk/funds/jpm-us-small-cap-growth-c-acc/B8H99P3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+339,Royal London UK Equity Income M Acc,GB00B8Y4ZB91,https://www.ii.co.uk/funds/royal-london-uk-equity-income-m-acc/B8Y4ZB9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+344,Baillie Gifford International G Acc,GB00BF8GML92,https://www.ii.co.uk/funds/baillie-gifford-international-g-acc/BF8GML9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+349,MI Chelverton UK Equity Growth B Acc,GB00BP855B75,https://www.ii.co.uk/funds/mi-chelverton-uk-equity-growth-b-acc/BP855B7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+354,Invesco Global Smaller Coms UK Z Acc,GB00B8N46D97,https://www.ii.co.uk/funds/invesco-global-smaller-coms-uk-z-acc/B8N46D9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+359,Invesco Global Equity UK (No Trail) Acc,GB00B3RS9Q62,https://www.ii.co.uk/funds/invesco-global-equity-uk-no-trail-acc/B3RS9Q6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+364,Schroder Managed Balanced Instl Acc,GB0002899846,https://www.ii.co.uk/funds/schroder-managed-balanced-instl-acc/0289984,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+369,Liontrust Special Situations I Acc,GB00BG0J2688,https://www.ii.co.uk/funds/liontrust-special-situations-i-acc/BG0J268,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+374,WS Guinness Global Energy I Acc,GB00B56FW078,https://www.ii.co.uk/funds/ws-guinness-global-energy-i-acc/B56FW07,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+379,BNY Mellon Mlt-Asst Balanced Inst W Acc,GB00B86LX253,https://www.ii.co.uk/funds/bny-mellon-mlt-asst-balanced-inst-w-acc/B86LX25,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+384,Algebris Financial Equity B GBP Acc,IE00BTLJYN96,https://www.ii.co.uk/funds/algebris-financial-equity-b-gbp-acc/BTLJYN9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+389,FTF Royce US Smaller Companies W Acc-H2,GB00BP9LKK88,https://www.ii.co.uk/funds/ftf-royce-us-smaller-companies-w-acc-h2/BP9LKK8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+394,CT European Smaller Coms Z Acc GBP,GB00B84CYY92,https://www.ii.co.uk/funds/ct-european-smaller-coms-z-acc-gbp/B84CYY9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+399,Jupiter Ecology I Acc,GB00B4KLC262,https://www.ii.co.uk/funds/jupiter-ecology-i-acc/B4KLC26,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+404,RGI UK Listed Smaller Coms B Acc,GB00B1DSZS09,https://www.ii.co.uk/funds/rgi-uk-listed-smaller-coms-b-acc/B1DSZS0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+409,Jupiter European Special Sit J GBP Acc,GB00BJJQ4R67,https://www.ii.co.uk/funds/jupiter-european-special-sit-j-gbp-acc/BJJQ4R6,"You can hold this fund in an ISA, JISA and Trading Account",MF
+414,M&G Strategic Corporate Bond GBP I Acc,GB00B7J4YT87,https://www.ii.co.uk/funds/mg-strategic-corporate-bond-gbp-i-acc/B7J4YT8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+419,abrdn Latin American Equity A Acc,GB00B41QSW23,https://www.ii.co.uk/funds/abrdn-latin-american-equity-a-acc/B41QSW2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+424,Artemis US Select I Acc GBP,GB00BMMV5105,https://www.ii.co.uk/funds/artemis-us-select-i-acc-gbp/BMMV510,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+429,M&G Global Macro Bond GBP I-H Acc,GB00BVYJ0Y38,https://www.ii.co.uk/funds/mg-global-macro-bond-gbp-i-h-acc/BVYJ0Y3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+434,Stewart Inv Asia Pac All Cap A GBP Acc,GB00B0TY6S22,https://www.ii.co.uk/funds/stewart-inv-asia-pac-all-cap-a-gbp-acc/B0TY6S2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+439,Guinness Global Innovators Z GBP ACC,IE00BQXX3N15,https://www.ii.co.uk/funds/guinness-global-innovators-z-gbp-acc/BQXX3N1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+444,FTF ClearBridge UK Mid Cap W Acc,GB00B7BXT545,https://www.ii.co.uk/funds/ftf-clearbridge-uk-mid-cap-w-acc/B7BXT54,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+449,Fidelity UK Select W Acc,GB00BFRT3942,https://www.ii.co.uk/funds/fidelity-uk-select-w-acc/BFRT394,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+454,Ninety One Global Environment A Acc,GB00BMXZ8565,https://www.ii.co.uk/funds/ninety-one-global-environment-a-acc/BMXZ856,You can hold this fund in a Trading Account,MF
+459,BNY Mellon Asian Income Instl W Acc,GB00B8KT3V48,https://www.ii.co.uk/funds/bny-mellon-asian-income-instl-w-acc/B8KT3V4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+464,Rathbone Income Fund I Acc,GB00B3Q9WG18,https://www.ii.co.uk/funds/rathbone-income-fund-i-acc/B3Q9WG1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+469,Schroder US Smaller Comp Z Acc,GB00B7LDL923,https://www.ii.co.uk/funds/schroder-us-smaller-comp-z-acc/B7LDL92,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+474,L&G MSCI Wld Sclly Rspnb Invmt SRI I Acc,GB00B0CNH940,https://www.ii.co.uk/funds/lg-msci-wld-sclly-rspnb-invmt-sri-i-acc/B0CNH94,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+479,Schroder Recovery Z Acc,GB00B3VVG600,https://www.ii.co.uk/funds/schroder-recovery-z-acc/B3VVG60,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+484,M&G Corporate Bond GBP A Acc,GB0031285785,https://www.ii.co.uk/funds/mg-corporate-bond-gbp-a-acc/3128578,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+489,Invesco High Yield UK Z Acc,GB00B8N45980,https://www.ii.co.uk/funds/invesco-high-yield-uk-z-acc/B8N4598,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+494,WS Ruffer Total Return C Acc,GB00B80L7V87,https://www.ii.co.uk/funds/ws-ruffer-total-return-c-acc/B80L7V8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+499,Janus Henderson Global Fncls I Acc,GB0031919235,https://www.ii.co.uk/funds/janus-henderson-global-fncls-i-acc/3191923,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+504,Vanguard Target Retirement 2050 Acc,GB00BZ6VKT06,https://www.ii.co.uk/funds/vanguard-target-retirement-2050-acc/BZ6VKT0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+509,Vanguard ActLife Clmt Awr 60-70% Eq Acc,GB00BZ830054,https://www.ii.co.uk/funds/vanguard-actlife-clmt-awr-60-70-eq-acc/BZ83005,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+514,Artemis Strategic Bond I Quarterly Acc,GB00B2PLJR10,https://www.ii.co.uk/funds/artemis-strategic-bond-i-quarterly-acc/B2PLJR1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+519,BlackRock Emerging Markets A Acc,GB0005860944,https://www.ii.co.uk/funds/blackrock-emerging-markets-a-acc/0586094,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+524,Liontrust Global Innovation A Acc GBP,GB0030679053,https://www.ii.co.uk/funds/liontrust-global-innovation-a-acc-gbp/3067905,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+529,T. Rowe Price Global Fcs Gr Eq C Acc 9,GB00BF0S8Y85,https://www.ii.co.uk/funds/t-rowe-price-global-fcs-gr-eq-c-acc-9/BF0S8Y8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+534,Trojan Income Fund X Accumulation,GB00BZ6CQ390,https://www.ii.co.uk/funds/trojan-income-fund-x-accumulation/BZ6CQ39,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+539,Jupiter UK Alpha U2 GBP Acc,GB00BFYN3W24,https://www.ii.co.uk/funds/jupiter-uk-alpha-u2-gbp-acc/BFYN3W2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+544,Royal London Global Equity Divers M Acc,GB00BF93WF36,https://www.ii.co.uk/funds/royal-london-global-equity-divers-m-acc/BF93WF3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+549,Baillie Gifford Developed Asia Pac B Acc,GB0030492044,https://www.ii.co.uk/funds/baillie-gifford-developed-asia-pac-b-acc/3049204,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+554,CT Latin America Z Acc GBP,GB00B8BQ6V57,https://www.ii.co.uk/funds/ct-latin-america-z-acc-gbp/B8BQ6V5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+559,Barings German Growth I GBP Acc,GB00B9M3QX41,https://www.ii.co.uk/funds/barings-german-growth-i-gbp-acc/B9M3QX4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+564,Baillie Gifford Rspnb Glb Eq Inc B Acc,GB00BFM4CT76,https://www.ii.co.uk/funds/baillie-gifford-rspnb-glb-eq-inc-b-acc/BFM4CT7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+569,Fidelity Sust European Equity A Acc,GB0003874913,https://www.ii.co.uk/funds/fidelity-sust-european-equity-a-acc/0387491,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+574,L&G Multi-Index 6 I Acc,GB00B95KML23,https://www.ii.co.uk/funds/lg-multi-index-6-i-acc/B95KML2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+579,Liontrust US Opportunities A Acc GBP,GB0032310129,https://www.ii.co.uk/funds/liontrust-us-opportunities-a-acc-gbp/3231012,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+584,L&G Multi-Index 5 I Acc,GB00B8VZ3F59,https://www.ii.co.uk/funds/lg-multi-index-5-i-acc/B8VZ3F5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+589,Aberforth UK Small Companies Acc,GB0000072727,https://www.ii.co.uk/funds/aberforth-uk-small-companies-acc/0007272,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+594,Vanguard UK Invm Grd Bd Idx £ Acc,IE00B1S74Q32,https://www.ii.co.uk/funds/vanguard-uk-invm-grd-bd-idx-acc/B1YQ4W0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+599,Liontrust Sust Fut Eurp Gr 2 Net Acc,GB0030029390,https://www.ii.co.uk/funds/liontrust-sust-fut-eurp-gr-2-net-acc/3002939,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+604,FP Foresight Global Rl Infras A GBP Acc,GB00BK0T9T82,https://www.ii.co.uk/funds/fp-foresight-global-rl-infras-a-gbp-acc/BK0T9T8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+609,Baillie Gifford Strategic Bond B Acc,GB0005947857,https://www.ii.co.uk/funds/baillie-gifford-strategic-bond-b-acc/0594785,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+614,Liontrust Global Alpha C Acc GBP,GB0031190555,https://www.ii.co.uk/funds/liontrust-global-alpha-c-acc-gbp/3119055,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+619,AXA Global Sustainable Mgd Fund -Z Acc,GB00B7MMHK16,https://www.ii.co.uk/funds/axa-global-sustainable-mgd-fund-z-acc/B7MMHK1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+624,Fidelity Global Dividend W-Acc-GBP,LU1033663052,https://www.ii.co.uk/funds/fidelity-global-dividend-w-acc-gbp/BJVDYY2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+629,Aviva Investors Intl Idx Tr 1 £ Acc,GB0004459912,https://www.ii.co.uk/funds/aviva-investors-intl-idx-tr-1-acc/0445991,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+634,Invesco Jpn Eq Advtg UK Z Acc,GB00B8N44W47,https://www.ii.co.uk/funds/invesco-jpn-eq-advtg-uk-z-acc/B8N44W4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+639,CT Universal MAP Adventurous C Acc,GB00BK5Z9G83,https://www.ii.co.uk/funds/ct-universal-map-adventurous-c-acc/BK5Z9G8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+644,Morgan Stanley Glb Brands Eq Inc I Acc,GB00BZ4CG420,https://www.ii.co.uk/funds/morgan-stanley-glb-brands-eq-inc-i-acc/BZ4CG42,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+649,BNY Mellon Emerging Income Inst W Acc,GB00B8GGF462,https://www.ii.co.uk/funds/bny-mellon-emerging-income-inst-w-acc/B8GGF46,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+654,Janus Henderson Em Mkts Asia I Acc,GB0007681603,https://www.ii.co.uk/funds/janus-henderson-em-mkts-asia-i-acc/0768160,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+659,L&G Future World UK Eq Fd I GBP Acc,GB00B8F72V68,https://www.ii.co.uk/funds/lg-future-world-uk-eq-fd-i-gbp-acc/B8F72V6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+664,FTF Franklin US Opportunities W Acc,GB00B7KCG406,https://www.ii.co.uk/funds/ftf-franklin-us-opportunities-w-acc/B7KCG40,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+669,L&G Global Inflation Linked Bd Idx I Acc,GB00BBHXNN27,https://www.ii.co.uk/funds/lg-global-inflation-linked-bd-idx-i-acc/BBHXNN2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+674,iShares Index Linked Gilt Idx (UK) D Acc,GB00B83RVT96,https://www.ii.co.uk/funds/ishares-index-linked-gilt-idx-uk-d-acc/B83RVT9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+679,L&G Property Feeder I Acc,GB00BK35F408,https://www.ii.co.uk/funds/lg-property-feeder-i-acc/BK35F40,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+684,Jupiter Merlin Income Portfolio L Acc,GB0003629374,https://www.ii.co.uk/funds/jupiter-merlin-income-portfolio-l-acc/0362937,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+689,Schroder QEP Global Core Eq I Acc,GB0007661191,https://www.ii.co.uk/funds/schroder-qep-global-core-eq-i-acc/0766119,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+694,abrdn Europe ex UK Equity A Acc,GB00B0LG6N13,https://www.ii.co.uk/funds/abrdn-europe-ex-uk-equity-a-acc/B0LG6N1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+699,abrdn Global Equity A Acc,GB0031682403,https://www.ii.co.uk/funds/abrdn-global-equity-a-acc/3168240,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+704,FSSA Indian Subcontnn All-Cap E GBP Acc,GB00BDG1BQ05,https://www.ii.co.uk/funds/fssa-indian-subcontnn-all-cap-e-gbp-acc/BDG1BQ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+709,BlackRock UK A Acc,GB0005773774,https://www.ii.co.uk/funds/blackrock-uk-a-acc/0577377,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+714,abrdn-Indian Equity A Acc GBP,LU0231462077,https://www.ii.co.uk/funds/abrdn-indian-equity-a-acc-gbp/B0L1302,"You can hold this fund in an ISA, JISA and Trading Account",MF
+719,iShares Overseas Govt Bd Idx (UK) D Acc,GB00B849C803,https://www.ii.co.uk/funds/ishares-overseas-govt-bd-idx-uk-d-acc/B849C80,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+724,M&G Managed Growth GBP I Acc,GB00B7K52D01,https://www.ii.co.uk/funds/mg-managed-growth-gbp-i-acc/B7K52D0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+729,abrdn European Smaller Companies A Acc,GB00B0XWN473,https://www.ii.co.uk/funds/abrdn-european-smaller-companies-a-acc/B0XWN47,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+734,Aegon Ethical Cautious Managed GBP B Acc,GB00B7V2CD05,https://www.ii.co.uk/funds/aegon-ethical-cautious-managed-gbp-b-acc/B7V2CD0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+739,Liontrust UK Equity X Acc,GB00B88NK732,https://www.ii.co.uk/funds/liontrust-uk-equity-x-acc/B88NK73,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+744,AXA People & Planet Equity Z Acc,GB00B4490M25,https://www.ii.co.uk/funds/axa-people-planet-equity-z-acc/B4490M2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+749,Fundsmith Equity I GBP Acc,LU1053186349,https://www.ii.co.uk/funds/fundsmith-equity-i-gbp-acc/BMH4M80,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+754,Invesco Global ex UK Enh Idx UK Z Acc,GB00BZ8GWT74,https://www.ii.co.uk/funds/invesco-global-ex-uk-enh-idx-uk-z-acc/BZ8GWT7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+759,abrdn UK Ethical Equity R Acc,GB0004331012,https://www.ii.co.uk/funds/abrdn-uk-ethical-equity-r-acc/0433101,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+764,M&G UK Inflation Lnkd Corp Bd GBP I Acc,GB00B460GC50,https://www.ii.co.uk/funds/mg-uk-inflation-lnkd-corp-bd-gbp-i-acc/B460GC5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+769,AXA Framlington Global Thematics Z Acc,GB00B7MMKJ14,https://www.ii.co.uk/funds/axa-framlington-global-thematics-z-acc/B7MMKJ1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+774,CG AJ Bell Balanced I Acc,GB00BYW8RX12,https://www.ii.co.uk/funds/cg-aj-bell-balanced-i-acc/BYW8RX1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+779,L&G Property R Acc,GB00BK35DS04,https://www.ii.co.uk/funds/lg-property-r-acc/BK35DS0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+784,Trojan Ethical Income Fund O Acc,GB00BYMLFK38,https://www.ii.co.uk/funds/trojan-ethical-income-fund-o-acc/BYMLFK3,"You can hold this fund in an ISA, JISA and Trading Account",MF
+789,IFSL Marlborough Global Bond P Acc,GB00B6ZDFJ91,https://www.ii.co.uk/funds/ifsl-marlborough-global-bond-p-acc/B6ZDFJ9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+794,abrdn Japanese Equity I Acc,GB0004521737,https://www.ii.co.uk/funds/abrdn-japanese-equity-i-acc/0452173,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+799,YFS Charteris Gold and Prec Mtls I Acc,GB00BYQ2JY43,https://www.ii.co.uk/funds/yfs-charteris-gold-and-prec-mtls-i-acc/BYQ2JY4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+804,Vanguard Emerging Mkts Bd Inv GBP H Acc,IE00BKLWXP06,https://www.ii.co.uk/funds/vanguard-emerging-mkts-bd-inv-gbp-h-acc/BKLWXP0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+809,Schroder European Z GBP Hedged Acc,GB00B7Y9XK24,https://www.ii.co.uk/funds/schroder-european-z-gbp-hedged-acc/B7Y9XK2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+814,Redwheel Global Intrinsic Val R GBP Acc,LU1017297455,https://www.ii.co.uk/funds/redwheel-global-intrinsic-val-r-gbp-acc/BJBPX96,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+819,IFSL Marlborough Global Innovation A Acc,GB0032832841,https://www.ii.co.uk/funds/ifsl-marlborough-global-innovation-a-acc/3283284,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+824,VT Price Value A GBP Acc,GB00BWZMTX09,https://www.ii.co.uk/funds/vt-price-value-a-gbp-acc/BWZMTX0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+829,New Capital US Growth GBP Acc,IE00B3M6FR88,https://www.ii.co.uk/funds/new-capital-us-growth-gbp-acc/B3M6FR8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+834,CT Sustainable Universal MAP Cau 3 Acc,GB00BKV44530,https://www.ii.co.uk/funds/ct-sustainable-universal-map-cau-3-acc/BKV4453,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+839,Fidelity MltAsst Open Str W Acc,GB00BC9S3B08,https://www.ii.co.uk/funds/fidelity-mltasst-open-str-w-acc/BC9S3B0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+844,Artemis US Extended Alpha I Acc GBP,GB00BMMV5G59,https://www.ii.co.uk/funds/artemis-us-extended-alpha-i-acc-gbp/BMMV5G5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+849,JPM UK Equity Growth C Net Acc,GB00B3FJQD79,https://www.ii.co.uk/funds/jpm-uk-equity-growth-c-net-acc/B3FJQD7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+854,L&G Multi-Index 4 I Acc,GB00B88Y0217,https://www.ii.co.uk/funds/lg-multi-index-4-i-acc/B88Y021,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+859,Invesco Global Balanced Idx UK Z Acc,GB00BTZH1F01,https://www.ii.co.uk/funds/invesco-global-balanced-idx-uk-z-acc/BTZH1F0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+864,Schroder Global Equity Income A Acc,GB00B1N91F21,https://www.ii.co.uk/funds/schroder-global-equity-income-a-acc/B1N91F2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+869,Aegon Diversified Monthly Inc GBP B Acc,GB00BJFLQY60,https://www.ii.co.uk/funds/aegon-diversified-monthly-inc-gbp-b-acc/BJFLQY6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+874,GAM Star Credit Opps (GBP) Instl GBP Acc,IE00B510J173,https://www.ii.co.uk/funds/gam-star-credit-opps-gbp-instl-gbp-acc/B510J17,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+879,HSBC World Selection Dynamic C Acc,GB00B886CK92,https://www.ii.co.uk/funds/hsbc-world-selection-dynamic-c-acc/B886CK9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+884,M&G North American Value GBP I Acc,GB00B61S4242,https://www.ii.co.uk/funds/mg-north-american-value-gbp-i-acc/B61S424,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+889,Premier Miton Mly Inc C acc,GB00BTHH0955,https://www.ii.co.uk/funds/premier-miton-mly-inc-c-acc/BTHH095,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+894,Schroder ISF Glbl Alt Engy C Acc GBP H,LU2016065943,https://www.ii.co.uk/funds/schroder-isf-glbl-alt-engy-c-acc-gbp-h/BK4Q6D8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+899,BlackRock Global Equity D GBP Acc,GB00B8BTNJ16,https://www.ii.co.uk/funds/blackrock-global-equity-d-gbp-acc/B8BTNJ1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+904,AXA Global High Yield R Gross Acc,GB00B0T9V599,https://www.ii.co.uk/funds/axa-global-high-yield-r-gross-acc/B0T9V59,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+909,Ninety One Diversified Income K Acc £,GB00BYXJPY07,https://www.ii.co.uk/funds/ninety-one-diversified-income-k-acc-/BYXJPY0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+914,Invesco European Focus (UK) Z Acc,GB00B8N44N55,https://www.ii.co.uk/funds/invesco-european-focus-uk-z-acc/B8N44N5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+919,Jupiter Responsible Inc I Acc,GB00B40TGH32,https://www.ii.co.uk/funds/jupiter-responsible-inc-i-acc/B40TGH3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+924,JK Japan GBP Acc,IE00BJBY7B30,https://www.ii.co.uk/funds/jk-japan-gbp-acc/BJBY7B3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+929,Royal London APAC ex Jpn Eq Tilt Z Acc,GB00B68SHD90,https://www.ii.co.uk/funds/royal-london-apac-ex-jpn-eq-tilt-z-acc/B68SHD9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+934,JPM Multi-Manager Growth B Net Acc,GB00B1YXCT45,https://www.ii.co.uk/funds/jpm-multi-manager-growth-b-net-acc/B1YXCT4,You can hold this fund in a Trading Account,MF
+939,Comgest Gr Europe ex UK GBP SU Acc,IE00BQ1YBM13,https://www.ii.co.uk/funds/comgest-gr-europe-ex-uk-gbp-su-acc/BQ1YBM1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+944,TM Fulcrum Divers Cor Abs Ret C GBP Acc,GB00BRTNY847,https://www.ii.co.uk/funds/tm-fulcrum-divers-cor-abs-ret-c-gbp-acc/BRTNY84,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+949,Mirabaud-Discovery Eur ex UK D H GBP Acc,LU1308315248,https://www.ii.co.uk/funds/mirabaud-discovery-eur-ex-uk-d-h-gbp-acc/BYZY2Q4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+954,Invesco UK Enhanced Index UK Z Acc,GB00BZ8GWY28,https://www.ii.co.uk/funds/invesco-uk-enhanced-index-uk-z-acc/BZ8GWY2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+959,WS Havelock Global Select A GBX Acc,GB00BFM7DN78,https://www.ii.co.uk/funds/ws-havelock-global-select-a-gbx-acc/BFM7DN7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+964,Janus Henderson Japan Opps I Acc,GB0007685026,https://www.ii.co.uk/funds/janus-henderson-japan-opps-i-acc/0768502,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+969,HSBC UK Gilt Index C Acc,GB00B80QG383,https://www.ii.co.uk/funds/hsbc-uk-gilt-index-c-acc/B80QG38,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+974,BNY Mellon MA Glbl bal Inst W Acc,GB00BD8YW204,https://www.ii.co.uk/funds/bny-mellon-ma-glbl-bal-inst-w-acc/BD8YW20,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+979,Premier Miton US Smaller Companies B Acc,GB00BF54H991,https://www.ii.co.uk/funds/premier-miton-us-smaller-companies-b-acc/BF54H99,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+984,Fidelity European Dynamic Gr W-Acc-GBP,LU1033662831,https://www.ii.co.uk/funds/fidelity-european-dynamic-gr-w-acc-gbp/BJVDYQ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+989,WS Lancaster Absolute Rt Sterling I Acc,GB00B55NGS86,https://www.ii.co.uk/funds/ws-lancaster-absolute-rt-sterling-i-acc/B55NGS8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+994,MI Metropolis Value B Acc,GB00BF03CW95,https://www.ii.co.uk/funds/mi-metropolis-value-b-acc/BF03CW9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+999,Fidelity Latin America W-Acc-GBP,LU1033664027,https://www.ii.co.uk/funds/fidelity-latin-america-w-acc-gbp/BJVDZ27,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1004,Ninety One GSF Glb Ntrl Res I Acc,LU0954591375,https://www.ii.co.uk/funds/ninety-one-gsf-glb-ntrl-res-i-acc/BCDBHP7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1009,IFSL Wise Multi-Asset Income B Acc,GB00B0LJ1M47,https://www.ii.co.uk/funds/ifsl-wise-multi-asset-income-b-acc/B0LJ1M4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1014,Schroder Institutional Pacific I Acc,GB0007646747,https://www.ii.co.uk/funds/schroder-institutional-pacific-i-acc/0764674,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1019,FTF ClearBridge UK Mngrs' Foc W Acc,GB00B7MPWT49,https://www.ii.co.uk/funds/ftf-clearbridge-uk-mngrs-foc-w-acc/B7MPWT4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1024,L&G Sterling Corporate Bond Index I Acc,GB00B4M01C47,https://www.ii.co.uk/funds/lg-sterling-corporate-bond-index-i-acc/B4M01C4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1029,Vanguard Target Retirement 2020 Acc,GB00BZ6VJ593,https://www.ii.co.uk/funds/vanguard-target-retirement-2020-acc/BZ6VJ59,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1034,Liontrust China C Acc GBP,GB00B5Q38588,https://www.ii.co.uk/funds/liontrust-china-c-acc-gbp/B5Q3858,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1039,Schroder Instl UK Smaller Cos I Acc,GB0007893984,https://www.ii.co.uk/funds/schroder-instl-uk-smaller-cos-i-acc/0789398,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1044,IFSL Marlborough Far East Growth P Acc,GB00B8N9CJ23,https://www.ii.co.uk/funds/ifsl-marlborough-far-east-growth-p-acc/B8N9CJ2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1049,Liontrust MA Blended Interm S Acc,GB00BCZW5K96,https://www.ii.co.uk/funds/liontrust-ma-blended-interm-s-acc/BCZW5K9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1054,abrdn Real Estate Feeder ZB Acc,GB00BYPHPH59,https://www.ii.co.uk/funds/abrdn-real-estate-feeder-zb-acc/BYPHPH5,You can hold this fund in a Trading Account,MF
+1059,BlueBox Global Technology R UK GBP Acc,LU2992392337,https://www.ii.co.uk/funds/bluebox-global-technology-r-uk-gbp-acc/BSS9B56,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1064,Ninety One Glbl Macro Allc Fd I GBP Acc,GB00B2Q1JB44,https://www.ii.co.uk/funds/ninety-one-glbl-macro-allc-fd-i-gbp-acc/B2Q1JB4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1069,Fidelity Global Focus W-Acc-GBP,LU1033663219,https://www.ii.co.uk/funds/fidelity-global-focus-w-acc-gbp/BJVDYH5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1074,Guinness Global Money Managers Y GBP Acc,IE00B7MJHM43,https://www.ii.co.uk/funds/guinness-global-money-managers-y-gbp-acc/B7MJHM4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1079,7IM AAP Moderately Adventurous C Acc,GB00B2PB2M73,https://www.ii.co.uk/funds/7im-aap-moderately-adventurous-c-acc/B2PB2M7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1084,Janus Henderson Global Eq Inc I Acc,GB00BFDTFV49,https://www.ii.co.uk/funds/janus-henderson-global-eq-inc-i-acc/BFDTFV4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1089,Fidelity Mlt Asst Allctr Strat W Acc,GB00B99P9349,https://www.ii.co.uk/funds/fidelity-mlt-asst-allctr-strat-w-acc/B99P934,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1094,CT Global Focus Z Gross Acc GBP,GB00BF0Q8K85,https://www.ii.co.uk/funds/ct-global-focus-z-gross-acc-gbp/BF0Q8K8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1099,L&G UK Smaller Companies I Acc,GB00B7LFF300,https://www.ii.co.uk/funds/lg-uk-smaller-companies-i-acc/B7LFF30,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1104,Vanguard Target Retirement 2065 Acc,GB00BF38WX24,https://www.ii.co.uk/funds/vanguard-target-retirement-2065-acc/BF38WX2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1109,MI GAM Disruptive Growth G Accumulation,GB00BDZRG206,https://www.ii.co.uk/funds/mi-gam-disruptive-growth-g-accumulation/BDZRG20,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1114,Liontrust Sust Fut Corp Bd 6 Grs Acc,GB00B8BPH312,https://www.ii.co.uk/funds/liontrust-sust-fut-corp-bd-6-grs-acc/B8BPH31,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1119,CT Select European Equity L Acc,GB00BMY8DQ00,https://www.ii.co.uk/funds/ct-select-european-equity-l-acc/BMY8DQ0,You can hold this fund in a Trading Account,MF
+1124,abrdn Emerging Markets Income Eq I Acc,GB00B82VD295,https://www.ii.co.uk/funds/abrdn-emerging-markets-income-eq-i-acc/B82VD29,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1129,FTF Templeton Global Leaders Fund W Acc,GB00B7K6LK38,https://www.ii.co.uk/funds/ftf-templeton-global-leaders-fund-w-acc/B7K6LK3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1134,Schroder QEP US Core I Acc,GB0007648347,https://www.ii.co.uk/funds/schroder-qep-us-core-i-acc/0764834,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1139,M&G Dividend GBP I Acc,GB00B7BX4821,https://www.ii.co.uk/funds/mg-dividend-gbp-i-acc/B7BX482,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1144,Jupiter Merlin Conservative Select I Acc,GB00B8GDLS36,https://www.ii.co.uk/funds/jupiter-merlin-conservative-select-i-acc/B8GDLS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1149,SVS RM Defensive Capital C GBP Acc,GB00BS6WQX08,https://www.ii.co.uk/funds/svs-rm-defensive-capital-c-gbp-acc/BS6WQX0,You can hold this fund in a Trading Account,MF
+1154,Fidelity Short Dated Crprate Bd W Acc,GB00BDCG0G22,https://www.ii.co.uk/funds/fidelity-short-dated-crprate-bd-w-acc/BDCG0G2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1159,CT Global Emerging Market Eq Z Acc GBP,GB00B8BYHK55,https://www.ii.co.uk/funds/ct-global-emerging-market-eq-z-acc-gbp/B8BYHK5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1164,Liontrust MA Dynamic Pasv Gth S Acc,GB00BCZW4X50,https://www.ii.co.uk/funds/liontrust-ma-dynamic-pasv-gth-s-acc/BCZW4X5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1169,FF - Global Consumer Brds W-Acc-GBP,LU1033662914,https://www.ii.co.uk/funds/ff-global-consumer-brds-w-acc-gbp/BJVDYX1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1174,Matthews China Fund I GBP Acc,LU0594556135,https://www.ii.co.uk/funds/matthews-china-fund-i-gbp-acc/B4627Y0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1179,PM Tellworth UK Dyn Abs Rt A GBP Acc,GB00BLFJP696,https://www.ii.co.uk/funds/pm-tellworth-uk-dyn-abs-rt-a-gbp-acc/BLFJP69,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1184,TrinityBridge Select Fixed Income X ACC,GB00BD6DSC14,https://www.ii.co.uk/funds/trinitybridge-select-fixed-income-x-acc/BD6DSC1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1189,CT Managed Eq&Bd Z Grs GBP Acc,GB00BMGRVZ03,https://www.ii.co.uk/funds/ct-managed-eqbd-z-grs-gbp-acc/BMGRVZ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1194,L&G Mixed Investment 40-85% I Acc,GB00BMHTPW01,https://www.ii.co.uk/funds/lg-mixed-investment-40-85-i-acc/BMHTPW0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1199,abrdn Global Infras Equity I Founder Acc,GB0004332317,https://www.ii.co.uk/funds/abrdn-global-infras-equity-i-founder-acc/0433231,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1204,CT Managed Equity Fcs Z Grs GBP Acc,GB00BMGRW246,https://www.ii.co.uk/funds/ct-managed-equity-fcs-z-grs-gbp-acc/BMGRW24,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1209,SVS Dowgate Cape Wrath Focus £ B Net Acc,GB00BYQLQV79,https://www.ii.co.uk/funds/svs-dowgate-cape-wrath-focus-b-net-acc/BYQLQV7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1214,Barclays UK Alpha R Acc GBP,GB00B6TRT400,https://www.ii.co.uk/funds/barclays-uk-alpha-r-acc-gbp/B6TRT40,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1219,WS Ruffer Equity & General C Acc,GB00B7VZQV57,https://www.ii.co.uk/funds/ws-ruffer-equity-general-c-acc/B7VZQV5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1224,Ninety One Global Total Ret Crdt B £ Acc,GB00BVLL6D30,https://www.ii.co.uk/funds/ninety-one-global-total-ret-crdt-b-acc/BVLL6D3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1229,Liontrust MA Blended Moderate S Acc,GB00BCZW5B06,https://www.ii.co.uk/funds/liontrust-ma-blended-moderate-s-acc/BCZW5B0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1234,L&G Mixed Investment 0-35% I Acc,GB00B8KRCM23,https://www.ii.co.uk/funds/lg-mixed-investment-0-35-i-acc/B8KRCM2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1239,Fiera Emerging Markets Fund B Acc,IE00B8260R81,https://www.ii.co.uk/funds/fiera-emerging-markets-fund-b-acc/B8260R8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1244,7IM AAP Balanced C Acc,GB00B2PB3794,https://www.ii.co.uk/funds/7im-aap-balanced-c-acc/B2PB379,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1249,Algebris Financial Credit I GBP Acc,IE00B85LPZ38,https://www.ii.co.uk/funds/algebris-financial-credit-i-gbp-acc/B85LPZ3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1254,PIMCO GIS Divers Inc Instl GBPH Acc,IE00B13H3C75,https://www.ii.co.uk/funds/pimco-gis-divers-inc-instl-gbph-acc/B13H3C7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1259,VT AI-Funds Tactical Hi Yld Bd S GBP Acc,GB00BKRSF562,https://www.ii.co.uk/funds/vt-ai-funds-tactical-hi-yld-bd-s-gbp-acc/BKRSF56,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1264,abrdn Global Inflation-Link Bd I Acc,GB00B00ZJP21,https://www.ii.co.uk/funds/abrdn-global-inflation-link-bd-i-acc/B00ZJP2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1269,Lazard Japanese Strategic Eq EA Acc GBP,IE000GISCG76,https://www.ii.co.uk/funds/lazard-japanese-strategic-eq-ea-acc-gbp/BLFJRM9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1274,TwentyFour Corporate Bond GBP Acc,IE00BSMTGJ19,https://www.ii.co.uk/funds/twentyfour-corporate-bond-gbp-acc/BSMTGJ1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1279,UBS UK Equity Income C Acc Net,GB00B4W58959,https://www.ii.co.uk/funds/ubs-uk-equity-income-c-acc-net/B4W5895,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1284,CT Global Extended Alpha Ins Acc GBP,GB00B3B0F606,https://www.ii.co.uk/funds/ct-global-extended-alpha-ins-acc-gbp/B3B0F60,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1289,Schroder Global Alt Energy Z GBP Acc,GB00BF781K82,https://www.ii.co.uk/funds/schroder-global-alt-energy-z-gbp-acc/BF781K8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1294,Blackrock MyMap 7 D GBP Acc,GB00BV49YS59,https://www.ii.co.uk/funds/blackrock-mymap-7-d-gbp-acc/BV49YS5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1299,Aviva Investors Mlt-Asst Pl II 2 GBP Acc,GB00B7JRQQ84,https://www.ii.co.uk/funds/aviva-investors-mlt-asst-pl-ii-2-gbp-acc/B7JRQQ8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1304,SVS Cornelian Growth D Acc,GB00B3RMNL16,https://www.ii.co.uk/funds/svs-cornelian-growth-d-acc/B3RMNL1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1309,Royal London Index Linked M Acc,GB00B8DDWW71,https://www.ii.co.uk/funds/royal-london-index-linked-m-acc/B8DDWW7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1314,Redwheel UK Value R GBP Acc,LU1017299071,https://www.ii.co.uk/funds/redwheel-uk-value-r-gbp-acc/BJBPXH4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1319,abrdn North American S&M-Cap Eq I Acc,GB0004483094,https://www.ii.co.uk/funds/abrdn-north-american-sm-cap-eq-i-acc/0448309,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1324,CT MM Navigator Distribution D Acc,GB00B80L2H98,https://www.ii.co.uk/funds/ct-mm-navigator-distribution-d-acc/B80L2H9,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1329,Aegon Absolute Return Bond GBP C Acc,IE00B6SLQ646,https://www.ii.co.uk/funds/aegon-absolute-return-bond-gbp-c-acc/B6SLQ64,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1334,Sarasin Responsible Global Equity I Acc,GB00B4674R77,https://www.ii.co.uk/funds/sarasin-responsible-global-equity-i-acc/B4674R7,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1339,SVS Zeus Dynamic Opports Fdr A GBP Acc,GB00BQFNHN71,https://www.ii.co.uk/funds/svs-zeus-dynamic-opports-fdr-a-gbp-acc/BQFNHN7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1344,M&G Income and Growth Sterling I Acc,GB00B4QHRP64,https://www.ii.co.uk/funds/mg-income-and-growth-sterling-i-acc/B4QHRP6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1349,Liontrust MA Dynamic Pasv Intmdt Z Acc,GB00B8FQVG18,https://www.ii.co.uk/funds/liontrust-ma-dynamic-pasv-intmdt-z-acc/B8FQVG1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1354,CG AJ Bell Cautious I Acc,GB00BYW8RV97,https://www.ii.co.uk/funds/cg-aj-bell-cautious-i-acc/BYW8RV9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1359,Schroder Sustainable Fut Mlt-Asst Z Acc,GB00B2Q1N560,https://www.ii.co.uk/funds/schroder-sustainable-fut-mlt-asst-z-acc/B2Q1N56,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1364,Polar Financial Credit I GBP Acc,IE00B73PVZ22,https://www.ii.co.uk/funds/polar-financial-credit-i-gbp-acc/B73PVZ2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1369,Aviva Investors Global Eq Endur 2 £ Acc,GB00BYXHPJ99,https://www.ii.co.uk/funds/aviva-investors-global-eq-endur-2-acc/BYXHPJ9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1374,Vanguard ESG Glb Corp Bd Idx GBP H Acc,IE00BNDS1195,https://www.ii.co.uk/funds/vanguard-esg-glb-corp-bd-idx-gbp-h-acc/BNDS119,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1379,Schroder Blended Portfolio 7 Z Acc GBP,GB00BF77ZX64,https://www.ii.co.uk/funds/schroder-blended-portfolio-7-z-acc-gbp/BF77ZX6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1384,BlackRock Balanced Managed A Acc,GB00B08HD141,https://www.ii.co.uk/funds/blackrock-balanced-managed-a-acc/B08HD14,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1389,Titan Hybrid Capital Bd A GBP Acc,IE00BZ6VKP67,https://www.ii.co.uk/funds/titan-hybrid-capital-bd-a-gbp-acc/BZ6VKP6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1394,Aegon UK Smaller Companies GBP B Acc,GB00B142FS18,https://www.ii.co.uk/funds/aegon-uk-smaller-companies-gbp-b-acc/B142FS1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1399,WS T. Bailey Global Thematic Eq A Acc,GB0009346486,https://www.ii.co.uk/funds/ws-t-bailey-global-thematic-eq-a-acc/0934648,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1404,Dimensional £InflLnkdIntermDurFI GBP Acc,IE00B3PVQJ91,https://www.ii.co.uk/funds/dimensional-infllnkdintermdurfi-gbp-acc/B3PVQJ9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1409,Royal London Europe ex UK Eq Tilt Z Acc,GB00B8HF4Y56,https://www.ii.co.uk/funds/royal-london-europe-ex-uk-eq-tilt-z-acc/B8HF4Y5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1414,Baillie Gifford Investment Grd Bd B Acc,GB00BYQCYS34,https://www.ii.co.uk/funds/baillie-gifford-investment-grd-bd-b-acc/BYQCYS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1419,BlackRock Absolute Return Bond D Acc,GB00B618DS31,https://www.ii.co.uk/funds/blackrock-absolute-return-bond-d-acc/B618DS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1424,CT Sterling Short Term MM Ins Acc £,GB00BDBDLP09,https://www.ii.co.uk/funds/ct-sterling-short-term-mm-ins-acc-/BDBDLP0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1429,abrdn Global Real Estate Std Lf Acc,GB00B86QF572,https://www.ii.co.uk/funds/abrdn-global-real-estate-std-lf-acc/B86QF57,You can hold this fund in a Trading Account,MF
+1434,CT Multi-Manager Unvsl Advnturs D Acc,GB00B80K8Y51,https://www.ii.co.uk/funds/ct-multi-manager-unvsl-advnturs-d-acc/B80K8Y5,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1439,BNY Mellon International Bd Instl W Acc,GB00B8BYHS32,https://www.ii.co.uk/funds/bny-mellon-international-bd-instl-w-acc/B8BYHS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1444,CT High Yield Bond Z Acc GBP,GB00BPZ55D21,https://www.ii.co.uk/funds/ct-high-yield-bond-z-acc-gbp/BPZ55D2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1449,Vanguard ActLife Clmt Awr 40-50% Eq Acc,GB00BMCQRZ38,https://www.ii.co.uk/funds/vanguard-actlife-clmt-awr-40-50-eq-acc/BMCQRZ3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1454,JPM Global ESG Equity C GBP Net Acc,GB00BMTR8P66,https://www.ii.co.uk/funds/jpm-global-esg-equity-c-gbp-net-acc/BMTR8P6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1459,Barings Eastern Europe I GBP Acc,IE00B4V4RZ28,https://www.ii.co.uk/funds/barings-eastern-europe-i-gbp-acc/B4V4RZ2,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1464,MI Tatton Oak Capital Growth B Acc,GB00B63B9K44,https://www.ii.co.uk/funds/mi-tatton-oak-capital-growth-b-acc/B63B9K4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1469,WS Prudential Risk Managed Actv 4 P Acc,GB00BF232941,https://www.ii.co.uk/funds/ws-prudential-risk-managed-actv-4-p-acc/BF23294,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1474,Fidelity MltAsst Open Def W Acc,GB00BC7GXK56,https://www.ii.co.uk/funds/fidelity-mltasst-open-def-w-acc/BC7GXK5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1479,ARC TIME Freehold Inc Authrd B Net Acc,GB00B9LVKM66,https://www.ii.co.uk/funds/arc-time-freehold-inc-authrd-b-net-acc/B9LVKM6,You can hold this fund in a Trading Account,MF
+1484,FF - Global Demographics Y-Acc-GBP,LU0654618890,https://www.ii.co.uk/funds/ff-global-demographics-y-acc-gbp/B77MWF6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1489,TM Redwheel Glbl Eq Inc R Acc,GB00BMBQMY84,https://www.ii.co.uk/funds/tm-redwheel-glbl-eq-inc-r-acc/BMBQMY8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1494,WS Prudential Risk Managed Actv 3 P Acc,GB00BF232727,https://www.ii.co.uk/funds/ws-prudential-risk-managed-actv-3-p-acc/BF23272,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1499,CT UK Prpty Authrsd Invmt Grs F Acc GBP,GB00BQ1YHX48,https://www.ii.co.uk/funds/ct-uk-prpty-authrsd-invmt-grs-f-acc-gbp/BQ1YHX4,You can hold this fund in a Trading Account,MF
+1504,T. Rowe Price Funds OEIC - US Eq C Acc 9,GB00BD3D6317,https://www.ii.co.uk/funds/t-rowe-price-funds-oeic-us-eq-c-acc-9/BD3D631,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1509,Polar Capital Glbl Convert I GBP Hdg Acc,IE00BPH3MK08,https://www.ii.co.uk/funds/polar-capital-glbl-convert-i-gbp-hdg-acc/BPH3MK0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1514,MI Brewin Dolphin Vygr Max 90% Eq A £Acc,GB00BLF9V836,https://www.ii.co.uk/funds/mi-brewin-dolphin-vygr-max-90-eq-a-acc/BLF9V83,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1519,Dimensional World Equity GBP Acc,IE00B3Z8MM50,https://www.ii.co.uk/funds/dimensional-world-equity-gbp-acc/B3Z8MM5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1524,JOHCM Global Opportunities I GBP Acc,GB00BJ5JMC04,https://www.ii.co.uk/funds/johcm-global-opportunities-i-gbp-acc/BJ5JMC0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1529,HSBC World Selection Div Dis Port C Acc,GB00B7JK0545,https://www.ii.co.uk/funds/hsbc-world-selection-div-dis-port-c-acc/B7JK054,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1534,abrdn Strategic Bond I Acc,GB00BWK27Z36,https://www.ii.co.uk/funds/abrdn-strategic-bond-i-acc/BWK27Z3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1539,TrinityBridge Conser Tact Pasv X ACC,GB00B88TGW85,https://www.ii.co.uk/funds/trinitybridge-conser-tact-pasv-x-acc/B88TGW8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1544,VT Tyndall North American A GBPH Net Acc,GB00BDG28B73,https://www.ii.co.uk/funds/vt-tyndall-north-american-a-gbph-net-acc/BDG28B7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1549,Nomura Global Sustainable Eq I GBP Acc,IE00BJ1GXT90,https://www.ii.co.uk/funds/nomura-global-sustainable-eq-i-gbp-acc/BJ1GXT9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1554,CT UK Smaller Coms Z Acc,GB00B8SWL553,https://www.ii.co.uk/funds/ct-uk-smaller-coms-z-acc/B8SWL55,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1559,Life Cycle Global Select UCITS R GBP Acc,IE000RFP41J6,https://www.ii.co.uk/funds/life-cycle-global-select-ucits-r-gbp-acc/BTZK0C9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1564,Barings Global Resources I GBP Acc,IE00B4V6GM81,https://www.ii.co.uk/funds/barings-global-resources-i-gbp-acc/B4V6GM8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1569,MI Hawksmoor Distribution B Acc,GB00B7L5TW76,https://www.ii.co.uk/funds/mi-hawksmoor-distribution-b-acc/B7L5TW7,You can hold this fund in a Trading Account,MF
+1574,YFS Whitman UK Small Cap Gr B Acc GBP,GB00BMTM5059,https://www.ii.co.uk/funds/yfs-whitman-uk-small-cap-gr-b-acc-gbp/BMTM505,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1579,Vanguard Jpn Govt Bd Idx £ H Acc,IE00BFRTD946,https://www.ii.co.uk/funds/vanguard-jpn-govt-bd-idx-h-acc/BFRTD94,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1584,L&G Fut Wld ESG Scrn&Sel Mlt-Idx 4 I Acc,GB00BJ0M3875,https://www.ii.co.uk/funds/lg-fut-wld-esg-scrnsel-mlt-idx-4-i-acc/BJ0M387,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1589,IFSL Church House Invmt Grd Fxd Intr Acc,GB00B11DPK96,https://www.ii.co.uk/funds/ifsl-church-house-invmt-grd-fxd-intr-acc/B11DPK9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1594,HSBC Dev Wld Lo Carb ESG Tilt Eq AccCGBP,GB00BN71RZ01,https://www.ii.co.uk/funds/hsbc-dev-wld-lo-carb-esg-tilt-eq-acccgbp/BN71RZ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1599,Dimensional UK Value GBP Acc,GB0033771766,https://www.ii.co.uk/funds/dimensional-uk-value-gbp-acc/3377176,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1604,Aviva Investors Multi-Mgr 40-85% 2 £Acc,GB00B1N94Q41,https://www.ii.co.uk/funds/aviva-investors-multi-mgr-40-85-2-acc/B1N94Q4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1609,Royal London GMAP Bal M GBP Acc,GB00BD8RSQ51,https://www.ii.co.uk/funds/royal-london-gmap-bal-m-gbp-acc/BD8RSQ5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1614,PIMCO GIS US Hi Yld Bd Instl GBPH Acc,IE0033580188,https://www.ii.co.uk/funds/pimco-gis-us-hi-yld-bd-instl-gbph-acc/3358018,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1619,IFSL atomos Growth A Acc,GB00BHZ0CW99,https://www.ii.co.uk/funds/ifsl-atomos-growth-a-acc/BHZ0CW9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1624,abrdn MyFolio Multi-Manager III Inst Acc,GB00B54Z1X52,https://www.ii.co.uk/funds/abrdn-myfolio-multi-manager-iii-inst-acc/B54Z1X5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1629,Margetts Intl Strategy R GBP Acc,GB00B8FN1Z15,https://www.ii.co.uk/funds/margetts-intl-strategy-r-gbp-acc/B8FN1Z1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1634,WS Prudential Risk Managed Pasv 5 P Acc,GB00BVYV0721,https://www.ii.co.uk/funds/ws-prudential-risk-managed-pasv-5-p-acc/BVYV072,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1639,Matthews Pacific Tiger Fund I GBP Acc,LU0594555756,https://www.ii.co.uk/funds/matthews-pacific-tiger-fund-i-gbp-acc/B468PQ6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1644,SVS Cornelian Cautious D Acc,GB00B3WCDF03,https://www.ii.co.uk/funds/svs-cornelian-cautious-d-acc/B3WCDF0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1649,Lazard Listed Private Mkts EA Acc GBP,IE0007FLC0P8,https://www.ii.co.uk/funds/lazard-listed-private-mkts-ea-acc-gbp/BR51VX6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1654,TrinityBridge Conservative Mgd X ACC,GB00B45DZX99,https://www.ii.co.uk/funds/trinitybridge-conservative-mgd-x-acc/B45DZX9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1659,ARC TIME Social Prpty F Net Acc,GB00BJK12F42,https://www.ii.co.uk/funds/arc-time-social-prpty-f-net-acc/BJK12F4,You can hold this fund in a Trading Account,MF
+1664,Omba Global Equity A GBP Acc,IE0007XQ7MJ7,https://www.ii.co.uk/funds/omba-global-equity-a-gbp-acc/BPBLWZ5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1669,AXA Defensive Distribution Z Acc Gross,GB00B03KM006,https://www.ii.co.uk/funds/axa-defensive-distribution-z-acc-gross/B03KM00,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1674,AQR Alternative Trends IAG1 GBP Acc,LU2392538141,https://www.ii.co.uk/funds/aqr-alternative-trends-iag1-gbp-acc/BMV4XH2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1679,IFSL Titan Global Equity X GBP Acc,GB00BS1J9M64,https://www.ii.co.uk/funds/ifsl-titan-global-equity-x-gbp-acc/BS1J9M6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1684,Dimensional EM Core Equity Acc,GB0033772624,https://www.ii.co.uk/funds/dimensional-em-core-equity-acc/3377262,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1689,IFSL Marlborough 8 Portfolio P Acc,GB00B84KX912,https://www.ii.co.uk/funds/ifsl-marlborough-8-portfolio-p-acc/B84KX91,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1694,Allianz RiskMaster Mod Mlt Asst Y Acc,GB00BYMVB948,https://www.ii.co.uk/funds/allianz-riskmaster-mod-mlt-asst-y-acc/BYMVB94,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1699,Barings Global High Yield Bd I GBP Acc,IE00B7M65Z40,https://www.ii.co.uk/funds/barings-global-high-yield-bd-i-gbp-acc/B7M65Z4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1704,M&G Climate Aware Mlt Asst Fd GBP I Acc,GB00BHR43049,https://www.ii.co.uk/funds/mg-climate-aware-mlt-asst-fd-gbp-i-acc/BHR4304,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1709,Templeton China W(acc)GBP,LU0768359696,https://www.ii.co.uk/funds/templeton-china-waccgbp/B77L7T2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1714,SVS AllianceBernst Conc US Eq I GBP Acc,GB00BL4SF671,https://www.ii.co.uk/funds/svs-alliancebernst-conc-us-eq-i-gbp-acc/BL4SF67,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1719,IFSL YOU Adventurous A Acc,GB00BP6MK048,https://www.ii.co.uk/funds/ifsl-you-adventurous-a-acc/BP6MK04,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1724,BlackRock ICS Stlg LiqEnvtlyAwr Prem Acc,IE00BKC9GJ54,https://www.ii.co.uk/funds/blackrock-ics-stlg-liqenvtlyawr-prem-acc/BKC9GJ5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1729,Jupiter Merlin Income & Growth Sel I ACC,GB00B5VQM728,https://www.ii.co.uk/funds/jupiter-merlin-income-growth-sel-i-acc/B5VQM72,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1734,MI Charles Stanley Multi Asst 4 Gr B Acc,GB00B61FYV40,https://www.ii.co.uk/funds/mi-charles-stanley-multi-asst-4-gr-b-acc/B61FYV4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1739,Margetts Select Strategy R GBP Acc,GB00B8K0B575,https://www.ii.co.uk/funds/margetts-select-strategy-r-gbp-acc/B8K0B57,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1744,Schroder ISF Strat Crdt C Acc GBP,LU0995124079,https://www.ii.co.uk/funds/schroder-isf-strat-crdt-c-acc-gbp/BJ7BSX7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1749,Aviva Investors Mlt-Asst Pl I 2 GBP Acc,GB00B70FJQ29,https://www.ii.co.uk/funds/aviva-investors-mlt-asst-pl-i-2-gbp-acc/B70FJQ2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1754,Montanaro European Income £ Acc,IE00BFFK9M41,https://www.ii.co.uk/funds/montanaro-european-income-acc/BFFK9M4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1759,Dimensional UK Core Equity GBP Acc,GB00B15JMH94,https://www.ii.co.uk/funds/dimensional-uk-core-equity-gbp-acc/B15JMH9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1764,WS Prudential Risk Managed Pasv 2 P Acc,GB00BVYTZX71,https://www.ii.co.uk/funds/ws-prudential-risk-managed-pasv-2-p-acc/BVYTZX7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1769,PIMCO GIS Ttl Ret Bd Instl GBPH Acc,IE00B4PRCS59,https://www.ii.co.uk/funds/pimco-gis-ttl-ret-bd-instl-gbph-acc/B4PRCS5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1774,SEI GAF Growth GBP Wealth A Acc,IE00BYV1R971,https://www.ii.co.uk/funds/sei-gaf-growth-gbp-wealth-a-acc/BYV1R97,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1779,abrdn MyFolio Multi-Manager II Inst Acc,GB00B55L0T15,https://www.ii.co.uk/funds/abrdn-myfolio-multi-manager-ii-inst-acc/B55L0T1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1784,Templeton Asian Growth W(acc)GBP,LU0768360355,https://www.ii.co.uk/funds/templeton-asian-growth-waccgbp/B7CPH77,"You can hold this fund in an ISA, JISA and Trading Account",MF
+1789,FTF Brandywine Global Inc Optr W Acc,GB00BNBS4T03,https://www.ii.co.uk/funds/ftf-brandywine-global-inc-optr-w-acc/BNBS4T0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1794,TrinityBridge Mgd Income X ACC,GB00B80PQP76,https://www.ii.co.uk/funds/trinitybridge-mgd-income-x-acc/B80PQP7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1799,Vulcan Value Equity GBP II Acc,IE00BC7GWN13,https://www.ii.co.uk/funds/vulcan-value-equity-gbp-ii-acc/BC7GWN1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1804,JPM Global Corporate Bond C Acc,GB00BKTDV732,https://www.ii.co.uk/funds/jpm-global-corporate-bond-c-acc/BKTDV73,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1809,VT Cantab Global Equity A GBP Acc,GB00BK5XL008,https://www.ii.co.uk/funds/vt-cantab-global-equity-a-gbp-acc/BK5XL00,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1814,Blackrock MyMap 3 Select ESG D GBP Acc,GB00BN090Q37,https://www.ii.co.uk/funds/blackrock-mymap-3-select-esg-d-gbp-acc/BN090Q3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1819,Mirabaud Eqs Swiss Sm & Mid D GBP Acc,LU1084154795,https://www.ii.co.uk/funds/mirabaud-eqs-swiss-sm-mid-d-gbp-acc/BPCX0Z6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1824,FP Carmignac European Leaders B GBP Acc,GB00BJHPXB21,https://www.ii.co.uk/funds/fp-carmignac-european-leaders-b-gbp-acc/BJHPXB2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1829,Quilter Inv Cirilium Dyn Blend U1 £ Acc,GB00BJV3M378,https://www.ii.co.uk/funds/quilter-inv-cirilium-dyn-blend-u1-acc/BJV3M37,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1834,Sustainable Opportunities Gr B GBP Acc,GB00BMHDN953,https://www.ii.co.uk/funds/sustainable-opportunities-gr-b-gbp-acc/BMHDN95,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1839,PIMCO GIS Glb Rl Ret Instl GBP H Acc,IE0034235527,https://www.ii.co.uk/funds/pimco-gis-glb-rl-ret-instl-gbp-h-acc/3423552,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1844,Janus Henderson All Stocks Credit A Acc,GB00B409PD29,https://www.ii.co.uk/funds/janus-henderson-all-stocks-credit-a-acc/B409PD2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1849,Colchester Global Bond GBP Hdg Acc I,IE00BQZJ1Z58,https://www.ii.co.uk/funds/colchester-global-bond-gbp-hdg-acc-i/BQZJ1Z5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1854,WS Prudential Risk Managed Actv 1 P Acc,GB00BF232388,https://www.ii.co.uk/funds/ws-prudential-risk-managed-actv-1-p-acc/BF23238,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1859,WS Keyridge UK Equity C Acc,GB00B9J7KW65,https://www.ii.co.uk/funds/ws-keyridge-uk-equity-c-acc/B9J7KW6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1864,MGTS Progeny ProFolio Model 50-70% Acc,GB00BP6WJ072,https://www.ii.co.uk/funds/mgts-progeny-profolio-model-50-70-acc/BP6WJ07,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1869,BlackRock ICS USD Liquidity Prem Acc,IE00B4KZ8V93,https://www.ii.co.uk/funds/blackrock-ics-usd-liquidity-prem-acc/B4KZ8V9,You can hold this fund in a Trading Account,MF
+1874,Barclays Glbl Mkts Defensv R Acc GBP,GB00B55LZH47,https://www.ii.co.uk/funds/barclays-glbl-mkts-defensv-r-acc-gbp/B55LZH4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1879,MGTS Sentinel Growth B Acc,GB00BZ0P5600,https://www.ii.co.uk/funds/mgts-sentinel-growth-b-acc/BZ0P560,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1884,Invesco Summit Inc (UK) Z GBP Acc,GB00BP9QDK41,https://www.ii.co.uk/funds/invesco-summit-inc-uk-z-gbp-acc/BP9QDK4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1889,SVS Cornelian Managed Gwth RMP G GBP Acc,GB00BD72ZY86,https://www.ii.co.uk/funds/svs-cornelian-managed-gwth-rmp-g-gbp-acc/BD72ZY8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1894,Liontrust MA UK Equity A Acc,GB00B7KMK266,https://www.ii.co.uk/funds/liontrust-ma-uk-equity-a-acc/B7KMK26,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1899,MI Verbatim Portfolio 5 Growth B Acc,GB00B3P2HB11,https://www.ii.co.uk/funds/mi-verbatim-portfolio-5-growth-b-acc/B3P2HB1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1904,abrdn MyFolio Core I Inst Acc,GB00B51ZXG55,https://www.ii.co.uk/funds/abrdn-myfolio-core-i-inst-acc/B51ZXG5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1909,abrdn-Global Sustainable Eqty X Acc GBP,LU0837985307,https://www.ii.co.uk/funds/abrdn-global-sustainable-eqty-x-acc-gbp/B8NB8X4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1914,YFS Chawton Global Eq Inc B GBP Acc,GB00BJ1GXX37,https://www.ii.co.uk/funds/yfs-chawton-global-eq-inc-b-gbp-acc/BJ1GXX3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1919,Barings US High Yield Bond I GBP Acc,IE00BYZRQL61,https://www.ii.co.uk/funds/barings-us-high-yield-bond-i-gbp-acc/BYZRQL6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1924,VT Shackleton Adventurous GBP Acc,GB00BF0Q2W87,https://www.ii.co.uk/funds/vt-shackleton-adventurous-gbp-acc/BF0Q2W8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1929,Sarasin Responsible Corporate Bond P Acc,GB00BYMB5T28,https://www.ii.co.uk/funds/sarasin-responsible-corporate-bond-p-acc/BYMB5T2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1934,Federated Hermes Glb HY Crdt F GBP Acc,IE00B4W78028,https://www.ii.co.uk/funds/federated-hermes-glb-hy-crdt-f-gbp-acc/B4W7802,You can hold this fund in a Trading Account,MF
+1939,FP Imperium Cautious A GBP Acc,GB00BYQ4HK23,https://www.ii.co.uk/funds/fp-imperium-cautious-a-gbp-acc/BYQ4HK2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1944,Royal London GMAP Divers Bd M GBP Acc,GB00BD8RSS75,https://www.ii.co.uk/funds/royal-london-gmap-divers-bd-m-gbp-acc/BD8RSS7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1949,ARC TIME Hybrid Prpty Fdr I Net AccUnits,GB00BN7DJL61,https://www.ii.co.uk/funds/arc-time-hybrid-prpty-fdr-i-net-accunits/BN7DJL6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1954,ARC TIME Property Income B Net Acc,GB00BJJPTY51,https://www.ii.co.uk/funds/arc-time-property-income-b-net-acc/BJJPTY5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1959,WS Montanaro UK Income A GBP Acc,GB00BJRCFW88,https://www.ii.co.uk/funds/ws-montanaro-uk-income-a-gbp-acc/BJRCFW8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1964,Schroder ISF UK Equity C Acc GBP,LU0106246225,https://www.ii.co.uk/funds/schroder-isf-uk-equity-c-acc-gbp/5795709,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1969,EF WM Global Corp Autonomies I GBP Acc,GB00BV0LRZ32,https://www.ii.co.uk/funds/ef-wm-global-corp-autonomies-i-gbp-acc/BV0LRZ3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1974,Skerryvore ICAV Global EM Eq S GBP Acc,IE00092BXG10,https://www.ii.co.uk/funds/skerryvore-icav-global-em-eq-s-gbp-acc/BP5XH07,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1979,New Capital Glbl Eq Convict GBP H Acc,IE00BWGC5T71,https://www.ii.co.uk/funds/new-capital-glbl-eq-convict-gbp-h-acc/BWGC5T7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1984,JK Global Opportunities GBP Hdg Acc,IE00BBCR2K90,https://www.ii.co.uk/funds/jk-global-opportunities-gbp-hdg-acc/BBCR2K9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1989,SVS Brooks Macdonald Blprnt Cau Gr A Acc,GB00B5T81S44,https://www.ii.co.uk/funds/svs-brooks-macdonald-blprnt-cau-gr-a-acc/B5T81S4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1994,Oasis Crescent Gl Inc F GBP Acc,GB00BLD0R132,https://www.ii.co.uk/funds/oasis-crescent-gl-inc-f-gbp-acc/BLD0R13,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+1999,VT Avastra Global Divers Assts A Acc,GB00B62WJ318,https://www.ii.co.uk/funds/vt-avastra-global-divers-assts-a-acc/B62WJ31,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2004,FP Apollo Multi Asset Cau D GBP Acc,GB00B3FPDY55,https://www.ii.co.uk/funds/fp-apollo-multi-asset-cau-d-gbp-acc/B3FPDY5,You can hold this fund in a Trading Account,MF
+2009,Franklin Sustainable Global Gr W(acc)GBP,LU0768359183,https://www.ii.co.uk/funds/franklin-sustainable-global-gr-waccgbp/B7M3XD9,"You can hold this fund in an ISA, JISA and Trading Account",MF
+2014,Evelyn Horizon Cautious Clean GBP Acc,IE00BYX8L381,https://www.ii.co.uk/funds/evelyn-horizon-cautious-clean-gbp-acc/BYX8L38,You can hold this fund in a SIPP and Trading Account,MF
+2019,IFSL YOU Multi-Asset Blend Cautious Acc,GB00BN78XY23,https://www.ii.co.uk/funds/ifsl-you-multi-asset-blend-cautious-acc/BN78XY2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2024,IFSL Church House Esk Global Eq B Acc,GB00BNBNRH41,https://www.ii.co.uk/funds/ifsl-church-house-esk-global-eq-b-acc/BNBNRH4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2029,IUP Zennor Japan I GBP Acc,LU2321459435,https://www.ii.co.uk/funds/iup-zennor-japan-i-gbp-acc/BKPVTJ9,You can hold this fund in a Trading Account,MF
+2034,IUP Zennor Japan I GBP Acc,LU2321459435,https://www.ii.co.uk/funds/iup-zennor-japan-i-gbp-acc/BKPVTJ9,You can hold this fund in a Trading Account,MF
+2039,FP Imperium Balanced A GBP Acc,GB00BYQ4HM47,https://www.ii.co.uk/funds/fp-imperium-balanced-a-gbp-acc/BYQ4HM4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2044,Ninety One UK Alpha J £ Acc,GB00BJFLDM36,https://www.ii.co.uk/funds/ninety-one-uk-alpha-j-acc/BJFLDM3,"You can hold this fund in an ISA, JISA and Trading Account",MF
+2049,WS Keyridge Diversified Risk Mgd V C Acc,GB00BLB05M23,https://www.ii.co.uk/funds/ws-keyridge-diversified-risk-mgd-v-c-acc/BLB05M2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2054,BNY Mellon Index Linked Gilt Inst W Acc,GB00BNNMCV88,https://www.ii.co.uk/funds/bny-mellon-index-linked-gilt-inst-w-acc/BNNMCV8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2059,Fidelity Sustainable Water & Waste W Acc,GB00BHR44F64,https://www.ii.co.uk/funds/fidelity-sustainable-water-waste-w-acc/BHR44F6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2064,M&G Feeder of Property GBP A Acc,GB00B8FSZ434,https://www.ii.co.uk/funds/mg-feeder-of-property-gbp-a-acc/B8FSZ43,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2069,Aviva Inv UK Prpty Fdr Acc 2 GBP Acc,GB00BYYZ0W06,https://www.ii.co.uk/funds/aviva-inv-uk-prpty-fdr-acc-2-gbp-acc/BYYZ0W0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2074,MGTS Future Money Real Value R Acc,GB00B89JN484,https://www.ii.co.uk/funds/mgts-future-money-real-value-r-acc/B89JN48,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2079,IFSL Church House UK Smaller Coms B Acc,GB00BLY2BF03,https://www.ii.co.uk/funds/ifsl-church-house-uk-smaller-coms-b-acc/BLY2BF0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2084,Neuberger Berman EM Dbt Blnd GBP P Acc,IE00BGPZW721,https://www.ii.co.uk/funds/neuberger-berman-em-dbt-blnd-gbp-p-acc/BGPZW72,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2089,Stewart Inv Wldwd Ldrs B GBP Acc,GB0030978729,https://www.ii.co.uk/funds/stewart-inv-wldwd-ldrs-b-gbp-acc/3097872,You can hold this fund in a Trading Account,MF
+2094,Polar Capital Healthcare Opps I Acc,IE00BKSBD728,https://www.ii.co.uk/funds/polar-capital-healthcare-opps-i-acc/BKSBD72,You can hold this fund in a Trading Account,MF
+2099,RGI Global Alpha Fund B Acc,GB00BZB1R490,https://www.ii.co.uk/funds/rgi-global-alpha-fund-b-acc/BZB1R49,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2104,LF Odey Portfolio P Institutional Acc,GB00BKS85L11,https://www.ii.co.uk/funds/lf-odey-portfolio-p-institutional-acc/BKS85L1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2109,Baillie Gifford Diversified Gr B2 Acc,GB00BYQCYV62,https://www.ii.co.uk/funds/baillie-gifford-diversified-gr-b2-acc/BYQCYV6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2114,LF Odey Portfolio P Institutional Acc,GB00BKS85L11,https://www.ii.co.uk/funds/lf-odey-portfolio-p-institutional-acc/BKS85L1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2119,Baillie Gifford Diversified Gr B2 Acc,GB00BYQCYV62,https://www.ii.co.uk/funds/baillie-gifford-diversified-gr-b2-acc/BYQCYV6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2124,Mirabaud - Global Strat Bd DH GBP Acc,LU0972400609,https://www.ii.co.uk/funds/mirabaud-global-strat-bd-dh-gbp-acc/BJ4WYC4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2129,VT Cantab Moderate A GBP Acc,GB00BG210G87,https://www.ii.co.uk/funds/vt-cantab-moderate-a-gbp-acc/BG210G8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2134,ASI Emerging Mkt Govt Bd P1 Acc,GB00B8J3Q414,https://www.ii.co.uk/funds/asi-emerging-mkt-govt-bd-p1-acc/B8J3Q41,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2139,VT Redlands Prpty A GBP Acc,GB00BZ3T9R81,https://www.ii.co.uk/funds/vt-redlands-prpty-a-gbp-acc/BZ3T9R8,You can hold this fund in a Trading Account,MF
+2144,TM Rates Credit and Infl Exps B GBP Acc,GB00BDR0RH97,https://www.ii.co.uk/funds/tm-rates-credit-and-infl-exps-b-gbp-acc/BDR0RH9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2149,CT European Real Estate Scs B Acc GBP,IE00B5MQF833,https://www.ii.co.uk/funds/ct-european-real-estate-scs-b-acc-gbp/B5MQF83,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2154,7IM Moderately Cautious C Acc,GB0033953497,https://www.ii.co.uk/funds/7im-moderately-cautious-c-acc/3395349,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2159,Liontrust GF International Eq F GBP Acc,IE00BKY59Z89,https://www.ii.co.uk/funds/liontrust-gf-international-eq-f-gbp-acc/BKY59Z8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2164,TM Home Investor H GBP Acc,GB00BD9FNT64,https://www.ii.co.uk/funds/tm-home-investor-h-gbp-acc/BD9FNT6,You can hold this fund in a Trading Account,MF
+2169,FP Russell Invsmts Mlt Asst Gr II C Acc,GB00BYXJKQ77,https://www.ii.co.uk/funds/fp-russell-invsmts-mlt-asst-gr-ii-c-acc/BYXJKQ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2174,Fidelity America Fd W-ACC,GB0003367504,https://www.ii.co.uk/funds/fidelity-america-fd-w-acc/0336750,You can hold this fund in a SIPP and Trading Account,MF
+2179,Artemis Global Income I Acc,GB00B5ZX1M70,https://www.ii.co.uk/funds/artemis-global-income-i-acc/B5ZX1M7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2184,Rathbone M-A Strategic Income Port S Inc,GB00BY9BSL83,https://www.ii.co.uk/funds/rathbone-m-a-strategic-income-port-s-inc/BY9BSL8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2189,Lindsell Train Global Equity A GBP Inc,IE00B644PG05,https://www.ii.co.uk/funds/lindsell-train-global-equity-a-gbp-inc/B644PG0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2194,Artemis Income I Inc,GB00B2PLJJ36,https://www.ii.co.uk/funds/artemis-income-i-inc/B2PLJJ3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2199,Polar Capital Global Tech R Inc GBP,IE00B42N8Z54,https://www.ii.co.uk/funds/polar-capital-global-tech-r-inc-gbp/B42N8Z5,You can hold this fund in a Trading Account,MF
+2204,Vanguard LifeStrategy 80% Equity A Inc,GB00B4KWNF91,https://www.ii.co.uk/funds/vanguard-lifestrategy-80-equity-a-inc/B4KWNF9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2209,Man Income Professional Inc D,GB00B0117D35,https://www.ii.co.uk/funds/man-income-professional-inc-d/B0117D3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2214,Fundsmith Equity R Inc,GB00B4QBRK32,https://www.ii.co.uk/funds/fundsmith-equity-r-inc/B4QBRK3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2219,Artemis Monthly Distribution I Inc,GB00B6TK3R06,https://www.ii.co.uk/funds/artemis-monthly-distribution-i-inc/B6TK3R0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2224,Polar Capital Biotech I Inc GBP,IE00B42P0H75,https://www.ii.co.uk/funds/polar-capital-biotech-i-inc-gbp/B42P0H7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2229,FTF ClearBridge Global Infras Inc WAcc,GB00BMF7D555,https://www.ii.co.uk/funds/ftf-clearbridge-global-infras-inc-wacc/BMF7D55,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2234,Fidelity Index World P Inc,GB00BP8RYB62,https://www.ii.co.uk/funds/fidelity-index-world-p-inc/BP8RYB6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2239,Schroder Income Maximiser Z Inc,GB00B53FRD82,https://www.ii.co.uk/funds/schroder-income-maximiser-z-inc/B53FRD8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2244,Artemis High Income I Monthly Inc,GB00BJT0KR04,https://www.ii.co.uk/funds/artemis-high-income-i-monthly-inc/BJT0KR0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2249,Vanguard Global Equity Income Acc,GB00BZ82ZW98,https://www.ii.co.uk/funds/vanguard-global-equity-income-acc/BZ82ZW9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2254,BlackRock Continental Eurp Inc D Acc,GB00B3S9LG25,https://www.ii.co.uk/funds/blackrock-continental-eurp-inc-d-acc/B3S9LG2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2259,Liontrust European Dynamic I Inc,GB00B4ZM1M76,https://www.ii.co.uk/funds/liontrust-european-dynamic-i-inc/B4ZM1M7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2264,JOHCM UK Equity Income IP GBP Inc,GB00B95FCK64,https://www.ii.co.uk/funds/johcm-uk-equity-income-ip-gbp-inc/B95FCK6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2269,CT UK Equity Income L Grs Inc GBP,GB00BDZYJV10,https://www.ii.co.uk/funds/ct-uk-equity-income-l-grs-inc-gbp/BDZYJV1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2274,L&G UK Index R Inc,GB0005141709,https://www.ii.co.uk/funds/lg-uk-index-r-inc/0514170,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2279,Jupiter UK Income Fund L Inc,GB0004791389,https://www.ii.co.uk/funds/jupiter-uk-income-fund-l-inc/0479138,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2284,Jupiter Financial Opportunities I Inc,GB00B8JYV946,https://www.ii.co.uk/funds/jupiter-financial-opportunities-i-inc/B8JYV94,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2289,Guinness Global Equity Income Z GBP Dist,IE00B754QH41,https://www.ii.co.uk/funds/guinness-global-equity-income-z-gbp-dist/B754QH4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2294,Royal London Corporate Bond Z Inc,GB00B3MBXC47,https://www.ii.co.uk/funds/royal-london-corporate-bond-z-inc/B3MBXC4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2299,Schroder Asian Income Z Acc,GB00B5BJ7M17,https://www.ii.co.uk/funds/schroder-asian-income-z-acc/B5BJ7M1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2304,abrdn UK Income Equity A Inc,GB00B0XWN812,https://www.ii.co.uk/funds/abrdn-uk-income-equity-a-inc/B0XWN81,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2309,Royal London UK Equity Income M,GB00B3M9JJ78,https://www.ii.co.uk/funds/royal-london-uk-equity-income-m/B3M9JJ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2314,Electric & General Net Income A,GB00B52CBS38,https://www.ii.co.uk/funds/electric-general-net-income-a/B52CBS3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2319,Invesco UK Equity Inc UK Z Inc,GB00B8N46W86,https://www.ii.co.uk/funds/invesco-uk-equity-inc-uk-z-inc/B8N46W8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2324,M&G Optimal Income GBP I Acc,GB00B1H05718,https://www.ii.co.uk/funds/mg-optimal-income-gbp-i-acc/B1H0571,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2329,EdenTree Sustainable Managed Inc B Inc,GB0009449710,https://www.ii.co.uk/funds/edentree-sustainable-managed-inc-b-inc/0944971,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2334,Aegon Diversified Monthly Inc GBP B Acc,GB00BJFLQY60,https://www.ii.co.uk/funds/aegon-diversified-monthly-inc-gbp-b-acc/BJFLQY6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2339,GS India Equity I Inc GBP,LU1268608111,https://www.ii.co.uk/funds/gs-india-equity-i-inc-gbp/BYSFC19,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2344,Schroder Asian Income Maximiser Z Acc,GB00B581S493,https://www.ii.co.uk/funds/schroder-asian-income-maximiser-z-acc/B581S49,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2349,Jupiter Monthly Income Bd I GBP Acc,GB00B1XG8W96,https://www.ii.co.uk/funds/jupiter-monthly-income-bd-i-gbp-acc/B1XG8W9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2354,Man Sterling Corp Bd Profl Inc D,GB00BNLYQY79,https://www.ii.co.uk/funds/man-sterling-corp-bd-profl-inc-d/BNLYQY7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2359,Jupiter Japan Income IH Inc,GB00B6496D90,https://www.ii.co.uk/funds/jupiter-japan-income-ih-inc/B6496D9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2364,JPM US Equity Income B Net Inc,GB00B3FJQ375,https://www.ii.co.uk/funds/jpm-us-equity-income-b-net-inc/B3FJQ37,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2369,IFSL Marlborough Multi-Cap Growth P Inc,GB00B8CQP956,https://www.ii.co.uk/funds/ifsl-marlborough-multi-cap-growth-p-inc/B8CQP95,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2374,Rathbone Ethical Bond Fund I Inc,GB00B7FQJT36,https://www.ii.co.uk/funds/rathbone-ethical-bond-fund-i-inc/B7FQJT3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2379,Royal London Short Term Fixed Inc Y Acc,GB00BMNR1H58,https://www.ii.co.uk/funds/royal-london-short-term-fixed-inc-y-acc/BMNR1H5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2384,Rathbone Income Fund I Inc,GB00B7FQLQ43,https://www.ii.co.uk/funds/rathbone-income-fund-i-inc/B7FQLQ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2389,Jupiter Ecology L Inc,GB0005812150,https://www.ii.co.uk/funds/jupiter-ecology-l-inc/0581215,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2394,Janus Henderson Fxd Intr MthInc IQ Inc,GB00BKPJTJ32,https://www.ii.co.uk/funds/janus-henderson-fxd-intr-mthinc-iq-inc/BKPJTJ3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2399,EdenTree Sustainable Eurp Eq B Inc,GB0008448333,https://www.ii.co.uk/funds/edentree-sustainable-eurp-eq-b-inc/0844833,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2404,Premier Miton Global Infras Inc B Acc,GB00BD3H9L21,https://www.ii.co.uk/funds/premier-miton-global-infras-inc-b-acc/BD3H9L2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2409,Fidelity Global Enhanced Income W Acc,GB00BD1NLL62,https://www.ii.co.uk/funds/fidelity-global-enhanced-income-w-acc/BD1NLL6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2414,L&G Strategic Bond I Inc,GB00B1TWMY10,https://www.ii.co.uk/funds/lg-strategic-bond-i-inc/B1TWMY1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2419,Janus Henderson UK Responsible Inc I Acc,GB00BLH39230,https://www.ii.co.uk/funds/janus-henderson-uk-responsible-inc-i-acc/BLH3923,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2424,Trojan Income Fund X Income,GB00BZ6CQ176,https://www.ii.co.uk/funds/trojan-income-fund-x-income/BZ6CQ17,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2429,Premier Miton Mly Inc B Inc,GB0003891412,https://www.ii.co.uk/funds/premier-miton-mly-inc-b-inc/0389141,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2434,JPM Global Equity Income C GBPH Net Inc,GB00B235J313,https://www.ii.co.uk/funds/jpm-global-equity-income-c-gbph-net-inc/B235J31,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2439,Schroder Sterling Corporate Bond Z Inc,GB00B7458508,https://www.ii.co.uk/funds/schroder-sterling-corporate-bond-z-inc/B745850,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2444,Liontrust Sust Fut Mgd 2 Net Inc,GB0030030398,https://www.ii.co.uk/funds/liontrust-sust-fut-mgd-2-net-inc/3003039,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2449,Baillie Gifford Rspnb Glb Eq Inc B Inc,GB00BFM4N494,https://www.ii.co.uk/funds/baillie-gifford-rspnb-glb-eq-inc-b-inc/BFM4N49,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2454,Jupiter Global Leaders T Inc,GB00BFWVP664,https://www.ii.co.uk/funds/jupiter-global-leaders-t-inc/BFWVP66,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2459,Fidelity Enhanced Income W Inc Monthly,GB00BYSYZP12,https://www.ii.co.uk/funds/fidelity-enhanced-income-w-inc-monthly/BYSYZP1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2464,FTF ClearBridge UK Equity Income W Acc,GB00B7DRD638,https://www.ii.co.uk/funds/ftf-clearbridge-uk-equity-income-w-acc/B7DRD63,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2469,Baillie Gifford Global Inc Growth B Acc,GB0005772479,https://www.ii.co.uk/funds/baillie-gifford-global-inc-growth-b-acc/0577247,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2474,Artemis Strategic Bond I Quarterly Inc,GB00BJT0KT28,https://www.ii.co.uk/funds/artemis-strategic-bond-i-quarterly-inc/BJT0KT2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2479,Royal London Sustainable World C Inc,GB00B8GG6326,https://www.ii.co.uk/funds/royal-london-sustainable-world-c-inc/B8GG632,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2484,Jupiter UK Dynamic Equity I Inc,GB00B66H8P73,https://www.ii.co.uk/funds/jupiter-uk-dynamic-equity-i-inc/B66H8P7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2489,M&G Global High Yield Bond GBP I Inc,GB00B6ZD1B32,https://www.ii.co.uk/funds/mg-global-high-yield-bond-gbp-i-inc/B6ZD1B3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2494,M&G Recovery GBP A Inc,GB0031289100,https://www.ii.co.uk/funds/mg-recovery-gbp-a-inc/3128910,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2499,Aviva Investors UK Listed Eq Inc 2 £ Acc,GB00B6R51K64,https://www.ii.co.uk/funds/aviva-investors-uk-listed-eq-inc-2-acc/B6R51K6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2504,MI Chelverton UK Equity Income B Acc,GB00B1Y9J570,https://www.ii.co.uk/funds/mi-chelverton-uk-equity-income-b-acc/B1Y9J57,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2509,Artemis SmartGARP European Eq I Inc GBP,GB00BR4TTQ03,https://www.ii.co.uk/funds/artemis-smartgarp-european-eq-i-inc-gbp/BR4TTQ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2514,M&G UK Income Distribution GBP I Inc,GB00B70D5799,https://www.ii.co.uk/funds/mg-uk-income-distribution-gbp-i-inc/B70D579,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2519,Morgan Stanley Glb Brands Eq Inc I Inc,GB00BZ4CG537,https://www.ii.co.uk/funds/morgan-stanley-glb-brands-eq-inc-i-inc/BZ4CG53,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2524,Liontrust Income C Acc GBP,GB00B8JCR452,https://www.ii.co.uk/funds/liontrust-income-c-acc-gbp/B8JCR45,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2529,TM Redwheel UK Eq Inc R Acc,GB00BG341295,https://www.ii.co.uk/funds/tm-redwheel-uk-eq-inc-r-acc/BG34129,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2534,BNY Mellon Emerging Income Inst W Inc,GB00B8HMC861,https://www.ii.co.uk/funds/bny-mellon-emerging-income-inst-w-inc/B8HMC86,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2539,Janus Henderson Global Eq Inc A Inc,GB0031250524,https://www.ii.co.uk/funds/janus-henderson-global-eq-inc-a-inc/3125052,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2544,Jupiter Merlin Income I Acc,GB00B4N2L746,https://www.ii.co.uk/funds/jupiter-merlin-income-i-acc/B4N2L74,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2549,Premier Miton Multi-Asset Mly Inc C acc,GB00BTHH0D93,https://www.ii.co.uk/funds/premier-miton-multi-asset-mly-inc-c-acc/BTHH0D9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2554,Trojan Global Income O Acc,GB00BD82KP33,https://www.ii.co.uk/funds/trojan-global-income-o-acc/BD82KP3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2559,Fidelity MoneyBuilder Balanced W Inc,GB00B7XJFX07,https://www.ii.co.uk/funds/fidelity-moneybuilder-balanced-w-inc/B7XJFX0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2564,AXA Framlington UK Equity Income ZM £Acc,GB00BRXFYM03,https://www.ii.co.uk/funds/axa-framlington-uk-equity-income-zm-acc/BRXFYM0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2569,JPM Emerging Markets B Net Inc,GB00B1YX4W10,https://www.ii.co.uk/funds/jpm-emerging-markets-b-net-inc/B1YX4W1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2574,Vanguard UK Lg Dur Gilt Idx £ Inc,GB00B44DQC62,https://www.ii.co.uk/funds/vanguard-uk-lg-dur-gilt-idx-inc/B44DQC6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2579,Liontrust Sust Fut Mn Inc Bd P Grs Acc,GB00B3RPTP62,https://www.ii.co.uk/funds/liontrust-sust-fut-mn-inc-bd-p-grs-acc/B3RPTP6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2584,CT Responsible UK Income 2 Inc,GB0033144857,https://www.ii.co.uk/funds/ct-responsible-uk-income-2-inc/3314485,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2589,M&G Global Themes GBP A Inc,GB0030932346,https://www.ii.co.uk/funds/mg-global-themes-gbp-a-inc/3093234,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2594,Lazard Emerging Markets A Inc GBP,GB0008467101,https://www.ii.co.uk/funds/lazard-emerging-markets-a-inc-gbp/0846710,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2599,BNY Mellon Mlt-Asst Growth GBP Inc,GB0006780984,https://www.ii.co.uk/funds/bny-mellon-mlt-asst-growth-gbp-inc/0678098,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2604,Royal London Sustainable Div C Inc,GB00B844WJ68,https://www.ii.co.uk/funds/royal-london-sustainable-div-c-inc/B844WJ6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2609,Baillie Gifford Monthly Income Fd B Inc,GB00BFXY2857,https://www.ii.co.uk/funds/baillie-gifford-monthly-income-fd-b-inc/BFXY285,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2614,Schroder Global Equity Income Z Inc,GB00B76V7N76,https://www.ii.co.uk/funds/schroder-global-equity-income-z-inc/B76V7N7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2619,BlackRock UK Income D Acc,GB00B67DWT67,https://www.ii.co.uk/funds/blackrock-uk-income-d-acc/B67DWT6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2624,L&G Asia Pacific Equity Income I Acc,GB00B409KQ03,https://www.ii.co.uk/funds/lg-asia-pacific-equity-income-i-acc/B409KQ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2629,Trojan Ethical Income X Acc,GB00BKTW4T37,https://www.ii.co.uk/funds/trojan-ethical-income-x-acc/BKTW4T3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2634,TM Lansdowne European Spec Sit I Inc GBP,GB00BTJRPZ43,https://www.ii.co.uk/funds/tm-lansdowne-european-spec-sit-i-inc-gbp/BTJRPZ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2639,BlackRock Cash D Inc,GB00B42XLZ68,https://www.ii.co.uk/funds/blackrock-cash-d-inc/B42XLZ6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2644,L&G Short Dated £ Corporate Bd Idx I Inc,GB00BKGR3G14,https://www.ii.co.uk/funds/lg-short-dated-corporate-bd-idx-i-inc/BKGR3G1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2649,Veritas Global Equity Income C GBP Acc,IE00B45WS264,https://www.ii.co.uk/funds/veritas-global-equity-income-c-gbp-acc/B45WS26,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2654,Allianz UK Listed Eq Income C Inc,GB00B82ZGC20,https://www.ii.co.uk/funds/allianz-uk-listed-eq-income-c-inc/B82ZGC2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2659,JPM UK Equity Income C Net Inc,GB00BYTRDJ97,https://www.ii.co.uk/funds/jpm-uk-equity-income-c-net-inc/BYTRDJ9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2664,Premier Miton Multi-Asset Gr& Inc C acc,GB00BTHH0C86,https://www.ii.co.uk/funds/premier-miton-multi-asset-gr-inc-c-acc/BTHH0C8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2669,RGI Global Income and Growth B Acc,GB00BTLMGR60,https://www.ii.co.uk/funds/rgi-global-income-and-growth-b-acc/BTLMGR6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2674,Ninety One Diversified Income K Acc £,GB00BYXJPY07,https://www.ii.co.uk/funds/ninety-one-diversified-income-k-acc-/BYXJPY0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2679,Vanguard UK Infl-Lnkd Gilt Idx £ Inc,GB00B467FS56,https://www.ii.co.uk/funds/vanguard-uk-infl-lnkd-gilt-idx-inc/B467FS5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2684,Royal London Global Equity Select M Inc,GB00BF93WB97,https://www.ii.co.uk/funds/royal-london-global-equity-select-m-inc/BF93WB9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2689,Fidelity Index Europe ex UK P Inc,GB00BP8RYD86,https://www.ii.co.uk/funds/fidelity-index-europe-ex-uk-p-inc/BP8RYD8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2694,AXA Framlington UK Sel Opps - R Inc,GB0003501698,https://www.ii.co.uk/funds/axa-framlington-uk-sel-opps-r-inc/0350169,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2699,Premier Miton UK Money Market B Inc,GB00B8HDQ548,https://www.ii.co.uk/funds/premier-miton-uk-money-market-b-inc/B8HDQ54,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2704,Invesco Income & Growth UK Z Acc,GB00B8N46N95,https://www.ii.co.uk/funds/invesco-income-growth-uk-z-acc/B8N46N9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2709,Ninety One Global Income Opports I Inc,GB00B591W916,https://www.ii.co.uk/funds/ninety-one-global-income-opports-i-inc/B591W91,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2714,abrdn UK All Share Tracker B Inc,GB00B6VGS377,https://www.ii.co.uk/funds/abrdn-uk-all-share-tracker-b-inc/B6VGS37,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2719,Schroder Strategic Credit L Inc,GB00B11DP098,https://www.ii.co.uk/funds/schroder-strategic-credit-l-inc/B11DP09,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2724,Premier Miton Strat Mly Inc Bd C Inc,GB00BMWVS003,https://www.ii.co.uk/funds/premier-miton-strat-mly-inc-bd-c-inc/BMWVS00,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2729,Schroder Asian Alpha Plus Z Inc,GB00B5V2VR34,https://www.ii.co.uk/funds/schroder-asian-alpha-plus-z-inc/B5V2VR3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2734,L&G All Stocks Index Linked Gt Idx I Inc,GB00B84VDP04,https://www.ii.co.uk/funds/lg-all-stocks-index-linked-gt-idx-i-inc/B84VDP0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2739,Premier Miton Corporate Bd Mly Inc C Inc,GB0003895496,https://www.ii.co.uk/funds/premier-miton-corporate-bd-mly-inc-c-inc/0389549,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2744,M&G European Sustain Paris Aligned A Inc,GB0030927700,https://www.ii.co.uk/funds/mg-european-sustain-paris-aligned-a-inc/3092770,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2749,Invesco European Equity UK Z Inc,GB00B8N44K25,https://www.ii.co.uk/funds/invesco-european-equity-uk-z-inc/B8N44K2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2754,Jupiter UK Smaller Companies I GBP Inc,GB00B8FD4291,https://www.ii.co.uk/funds/jupiter-uk-smaller-companies-i-gbp-inc/B8FD429,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2759,M&G Gilt & Fixed Interest Inc GBP I Inc,GB00B7454D07,https://www.ii.co.uk/funds/mg-gilt-fixed-interest-inc-gbp-i-inc/B7454D0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2764,Schroder Strategic Bond Z Inc,GB00B717KH50,https://www.ii.co.uk/funds/schroder-strategic-bond-z-inc/B717KH5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2769,JPM Global High Yield Bond C Grs Inc,GB00B235R159,https://www.ii.co.uk/funds/jpm-global-high-yield-bond-c-grs-inc/B235R15,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2774,BlackRock UK A Inc,GB0005773881,https://www.ii.co.uk/funds/blackrock-uk-a-inc/0577388,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2779,Schroder UK Alpha Plus Z Inc,GB00B60R7N45,https://www.ii.co.uk/funds/schroder-uk-alpha-plus-z-inc/B60R7N4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2784,Janus Henderson Cautious Mgd I Inc,GB00B4P4R697,https://www.ii.co.uk/funds/janus-henderson-cautious-mgd-i-inc/B4P4R69,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2789,BNY Mellon US Equity Income GBP W Inc,IE00BD5M7551,https://www.ii.co.uk/funds/bny-mellon-us-equity-income-gbp-w-inc/BD5M755,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2794,BNY Mellon Eurp Opports Resp Inst W Inc,GB00B881HQ54,https://www.ii.co.uk/funds/bny-mellon-eurp-opports-resp-inst-w-inc/B881HQ5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2799,BNY Mellon Global Equity Inst W Inc,GB00B53Q5S23,https://www.ii.co.uk/funds/bny-mellon-global-equity-inst-w-inc/B53Q5S2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2804,L&G European Equity Income I Acc,GB00BF18C898,https://www.ii.co.uk/funds/lg-european-equity-income-i-acc/BF18C89,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2809,Aegon Strategic Bond GBP B Inc,GB00B00MY367,https://www.ii.co.uk/funds/aegon-strategic-bond-gbp-b-inc/B00MY36,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2814,CT Emerging Market Bd Z Grs Inc GBP,GB00B82D7569,https://www.ii.co.uk/funds/ct-emerging-market-bd-z-grs-inc-gbp/B82D756,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2819,JOHCM UK Dynamic IP GBP Inc,GB00BDZRJ218,https://www.ii.co.uk/funds/johcm-uk-dynamic-ip-gbp-inc/BDZRJ21,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2824,abrdn Europe ex UK Income Equity I Acc,GB00B3L7SB79,https://www.ii.co.uk/funds/abrdn-europe-ex-uk-income-equity-i-acc/B3L7SB7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2829,Dodge & Cox Worldwide Global Stk GBP Inc,IE00B54PSJ04,https://www.ii.co.uk/funds/dodge-cox-worldwide-global-stk-gbp-inc/B54PSJ0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2834,iShares Japan Equity Index (UK) D Inc,GB00BN08Z761,https://www.ii.co.uk/funds/ishares-japan-equity-index-uk-d-inc/BN08Z76,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2839,abrdn Asia Pacific Equity I Inc,GB00B88N7058,https://www.ii.co.uk/funds/abrdn-asia-pacific-equity-i-inc/B88N705,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2844,M&G Japan Smaller Companies GBP I Inc,GB00B62S8P46,https://www.ii.co.uk/funds/mg-japan-smaller-companies-gbp-i-inc/B62S8P4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2849,Schroder US Smaller Companies Inc,GB0007810046,https://www.ii.co.uk/funds/schroder-us-smaller-companies-inc/0781004,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2854,Invesco Global Emerg Mkts UK Z Inc,GB00B8N46848,https://www.ii.co.uk/funds/invesco-global-emerg-mkts-uk-z-inc/B8N4684,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2859,Fidelity Asian Dividend W Inc,GB00B8W5M023,https://www.ii.co.uk/funds/fidelity-asian-dividend-w-inc/B8W5M02,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2864,CT Responsible Global Equity 2 Inc,GB00B828PQ84,https://www.ii.co.uk/funds/ct-responsible-global-equity-2-inc/B828PQ8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2869,L&G MSCI Wld Sclly Rspnb Invmt SRI I Inc,GB00B0CNH833,https://www.ii.co.uk/funds/lg-msci-wld-sclly-rspnb-invmt-sri-i-inc/B0CNH83,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2874,PIMCO GIS Divers Inc Dur H Ins GBP H Inc,IE00B8240T43,https://www.ii.co.uk/funds/pimco-gis-divers-inc-dur-h-ins-gbp-h-inc/B8240T4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2879,HSBC UK Growth & Income C Inc,GB00B86PKV52,https://www.ii.co.uk/funds/hsbc-uk-growth-income-c-inc/B86PKV5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2884,Royal London Global Index Linked Z Inc,GB00B53R4H74,https://www.ii.co.uk/funds/royal-london-global-index-linked-z-inc/B53R4H7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2889,Aberforth UK Small Companies Inc,GB00B2N9GS70,https://www.ii.co.uk/funds/aberforth-uk-small-companies-inc/B2N9GS7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2894,M&G Global Strategic Value GBP I Inc,GB00B706FQ75,https://www.ii.co.uk/funds/mg-global-strategic-value-gbp-i-inc/B706FQ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2899,abrdn Emerging Markets Income Eq I Acc,GB00B82VD295,https://www.ii.co.uk/funds/abrdn-emerging-markets-income-eq-i-acc/B82VD29,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2904,Santander Enhanced Income Port IA,GB00BWXBPQ49,https://www.ii.co.uk/funds/santander-enhanced-income-port-ia/BWXBPQ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2909,Schroder Global Recovery Z Inc GBP,GB00BYRJXM09,https://www.ii.co.uk/funds/schroder-global-recovery-z-inc-gbp/BYRJXM0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2914,IFSL Marlborough Global Bond P Inc,GB00B8H7D001,https://www.ii.co.uk/funds/ifsl-marlborough-global-bond-p-inc/B8H7D00,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2919,BNY Mellon Mlt-Asst Income Inst W Acc,GB00BP851Q49,https://www.ii.co.uk/funds/bny-mellon-mlt-asst-income-inst-w-acc/BP851Q4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2924,L&G S&P 500 US Equal Wght Idx I GBP Inc,GB00BSWT7875,https://www.ii.co.uk/funds/lg-sp-500-us-equal-wght-idx-i-gbp-inc/BSWT787,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2929,VT Chelsea Mgd Mthly Inc A GBP Net Acc,GB00BF0NMS52,https://www.ii.co.uk/funds/vt-chelsea-mgd-mthly-inc-a-gbp-net-acc/BF0NMS5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2934,Invesco Managed Income UK Z Acc,GB00B8N46517,https://www.ii.co.uk/funds/invesco-managed-income-uk-z-acc/B8N4651,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2939,GS Japan Equity R Inc GBP Hdg (Snap),LU1474193411,https://www.ii.co.uk/funds/gs-japan-equity-r-inc-gbp-hdg-snap/BDGNH80,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2944,M&G Global Sustain Paris Algnd GBP I Inc,GB00B556Q879,https://www.ii.co.uk/funds/mg-global-sustain-paris-algnd-gbp-i-inc/B556Q87,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2949,Premier Miton UK Value Opps B Inc,GB00B86X4W81,https://www.ii.co.uk/funds/premier-miton-uk-value-opps-b-inc/B86X4W8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2954,GS Emerging Markets Eq R Inc GBP,LU0858288516,https://www.ii.co.uk/funds/gs-emerging-markets-eq-r-inc-gbp/B99B965,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2959,Royal London Corporate Bond Monthly Inc,GB0033583427,https://www.ii.co.uk/funds/royal-london-corporate-bond-monthly-inc/3358342,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2964,Schroder European Recovery Z Inc,GB00B60BTP24,https://www.ii.co.uk/funds/schroder-european-recovery-z-inc/B60BTP2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2969,Baillie Gifford Em Mkts Lead Coms B Inc,GB00B06HZP43,https://www.ii.co.uk/funds/baillie-gifford-em-mkts-lead-coms-b-inc/B06HZP4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2974,VT Downing Small & Mid-Cap Income Inc,GB00B625QM82,https://www.ii.co.uk/funds/vt-downing-small-mid-cap-income-inc/B625QM8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2979,Royal London International Govt Bd M Inc,GB00B45XHL18,https://www.ii.co.uk/funds/royal-london-international-govt-bd-m-inc/B45XHL1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2984,WS Morant Wright Japan B Inc,GB0033598060,https://www.ii.co.uk/funds/ws-morant-wright-japan-b-inc/3359806,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2989,Aviva Investors Managed Hi Inc 2 GBP Inc,GB0004463039,https://www.ii.co.uk/funds/aviva-investors-managed-hi-inc-2-gbp-inc/0446303,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2994,Schroder UK Dynamic Smaller Coms Z Inc,GB00B5VQ0123,https://www.ii.co.uk/funds/schroder-uk-dynamic-smaller-coms-z-inc/B5VQ012,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+2999,TrinityBridge Diversified Income X ACC,GB00B708TJ43,https://www.ii.co.uk/funds/trinitybridge-diversified-income-x-acc/B708TJ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3004,CT Property Growth & Income J Inc,GB00BVG2S917,https://www.ii.co.uk/funds/ct-property-growth-income-j-inc/BVG2S91,You can hold this fund in a Trading Account,MF
+3009,Schroder Global Sust Val Eq Z Inc GBP,GB00BJRSVL75,https://www.ii.co.uk/funds/schroder-global-sust-val-eq-z-inc-gbp/BJRSVL7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3014,M&G Global Emerging Markets GBP I Inc,GB00B3FFXY53,https://www.ii.co.uk/funds/mg-global-emerging-markets-gbp-i-inc/B3FFXY5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3019,MI TwentyFour AM Monument Bond I Inc Grs,GB00B4XCQT18,https://www.ii.co.uk/funds/mi-twentyfour-am-monument-bond-i-inc-grs/B4XCQT1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3024,Invesco Global Income Fund UK Z Inc,GB00BKQV1L44,https://www.ii.co.uk/funds/invesco-global-income-fund-uk-z-inc/BKQV1L4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3029,MI GAM Disruptive Growth A Income,GB00B41V8X85,https://www.ii.co.uk/funds/mi-gam-disruptive-growth-a-income/B41V8X8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3034,BNY Mellon UK Opports Resp Inst W Inc,GB00B7RLX837,https://www.ii.co.uk/funds/bny-mellon-uk-opports-resp-inst-w-inc/B7RLX83,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3039,abrdn UK Sustainable Equity I Inc,GB00B131GH54,https://www.ii.co.uk/funds/abrdn-uk-sustainable-equity-i-inc/B131GH5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3044,L&G Multi-Index 7 I Inc,GB00B9LF0629,https://www.ii.co.uk/funds/lg-multi-index-7-i-inc/B9LF062,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3049,Liontrust UK Equity X Inc,GB00B8BH0R25,https://www.ii.co.uk/funds/liontrust-uk-equity-x-inc/B8BH0R2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3054,Montanaro UK Income GBP Acc,IE00BFFK9L34,https://www.ii.co.uk/funds/montanaro-uk-income-gbp-acc/BFFK9L3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3059,JOHCM Global Opps Offshore IP GBP Inc,IE00B89PQM59,https://www.ii.co.uk/funds/johcm-global-opps-offshore-ip-gbp-inc/B89PQM5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3064,Aviva Investors Mlt-Ast Income 2 GBP Inc,GB0030442320,https://www.ii.co.uk/funds/aviva-investors-mlt-ast-income-2-gbp-inc/3044232,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3069,AXA Framlington UK Smlr Coms Z Inc,GB00BRJZVS95,https://www.ii.co.uk/funds/axa-framlington-uk-smlr-coms-z-inc/BRJZVS9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3074,FTF Brandywine Global Inc Optr W Inc,GB00BNBS7S01,https://www.ii.co.uk/funds/ftf-brandywine-global-inc-optr-w-inc/BNBS7S0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3079,Royal London Sustainable Mgd Gr C Inc,GB00B8K34M44,https://www.ii.co.uk/funds/royal-london-sustainable-mgd-gr-c-inc/B8K34M4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3084,JPM Multi-Asset Income C Mly Net Inc,GB00BGP6L127,https://www.ii.co.uk/funds/jpm-multi-asset-income-c-mly-net-inc/BGP6L12,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3089,Fidelity MltAsst Bal Inc W Acc,GB00BJ4L7W24,https://www.ii.co.uk/funds/fidelity-mltasst-bal-inc-w-acc/BJ4L7W2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3094,L&G Multi Manager Growth I Inc,GB00B8L2FY97,https://www.ii.co.uk/funds/lg-multi-manager-growth-i-inc/B8L2FY9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3099,L&G Property C Inc,GB00BLM78C32,https://www.ii.co.uk/funds/lg-property-c-inc/BLM78C3,You can hold this fund in a Trading Account,MF
+3104,CT US Equity Income Z Acc GBP,GB00BD37PD61,https://www.ii.co.uk/funds/ct-us-equity-income-z-acc-gbp/BD37PD6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3109,Pyrford Glbl Tot Ret(Sterling)B GBP Inc,IE00BZ0CQH94,https://www.ii.co.uk/funds/pyrford-glbl-tot-retsterlingb-gbp-inc/BZ0CQH9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3114,Capital Group GlobHiInc (LUX) Zh-GBP,LU0817818189,https://www.ii.co.uk/funds/capital-group-globhiinc-lux-zh-gbp/B88XFP6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3119,AXA People & Planet Equity Z Inc,GB00B403RF05,https://www.ii.co.uk/funds/axa-people-planet-equity-z-inc/B403RF0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3124,PIMCO GIS Glb Hi Yld Bd Instl GBP H Inc,IE00B0V9T862,https://www.ii.co.uk/funds/pimco-gis-glb-hi-yld-bd-instl-gbp-h-inc/B0V9T86,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3129,EdenTree Green Impact Infras B Inc,GB00BNG5Z717,https://www.ii.co.uk/funds/edentree-green-impact-infras-b-inc/BNG5Z71,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3134,HSBC Corporate Bond C Inc,GB00B7X4RF18,https://www.ii.co.uk/funds/hsbc-corporate-bond-c-inc/B7X4RF1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3139,TM Fulcrum Income C GBP Acc,GB00BF0GWT58,https://www.ii.co.uk/funds/tm-fulcrum-income-c-gbp-acc/BF0GWT5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3144,FTF ClearBridge UK Smaller Comp W Inc,GB00BYVDZV14,https://www.ii.co.uk/funds/ftf-clearbridge-uk-smaller-comp-w-inc/BYVDZV1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3149,PIMCO GIS Glb Lw Dur Rl Rt Ins GBP H Inc,IE00BHZKQD85,https://www.ii.co.uk/funds/pimco-gis-glb-lw-dur-rl-rt-ins-gbp-h-inc/BHZKQD8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3154,TM Redwheel Glbl Eq Inc R Inc,GB00BMBQN677,https://www.ii.co.uk/funds/tm-redwheel-glbl-eq-inc-r-inc/BMBQN67,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3159,CT Sterling Corporate Bond Ins Inc,GB0001451508,https://www.ii.co.uk/funds/ct-sterling-corporate-bond-ins-inc/0145150,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3164,TM Stnhg Flm Intrnl B Inc,GB0032211095,https://www.ii.co.uk/funds/tm-stnhg-flm-intrnl-b-inc/3221109,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3169,WS Nomura Glbl Infras Secs B Inc,GB00B1W28Q25,https://www.ii.co.uk/funds/ws-nomura-glbl-infras-secs-b-inc/B1W28Q2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3174,Liontrust MA Blended Reserve S Inc,GB00BCZW5C13,https://www.ii.co.uk/funds/liontrust-ma-blended-reserve-s-inc/BCZW5C1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3179,Schroder European Z Inc GBP,GB00B76V8D44,https://www.ii.co.uk/funds/schroder-european-z-inc-gbp/B76V8D4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3184,Montanaro European Smlr Comp Inst Inc £,IE00B3V9KZ14,https://www.ii.co.uk/funds/montanaro-european-smlr-comp-inst-inc-/B3V9KZ1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3189,abrdn Sterling Inflation-Linked Bd I Inc,GB00BWK27640,https://www.ii.co.uk/funds/abrdn-sterling-inflation-linked-bd-i-inc/BWK2764,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3194,BlackRock US Mid-Cap Value D Inc,GB00B80S7M00,https://www.ii.co.uk/funds/blackrock-us-mid-cap-value-d-inc/B80S7M0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3199,Montanaro European Income £ Inc,IE00B3Q8KY24,https://www.ii.co.uk/funds/montanaro-european-income-inc/B3Q8KY2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3204,Invesco Global Fincl Cptl UK Z Inc,GB00B8N45L07,https://www.ii.co.uk/funds/invesco-global-fincl-cptl-uk-z-inc/B8N45L0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3209,abrdn European Real Estate Share I Inc,GB00BWK26899,https://www.ii.co.uk/funds/abrdn-european-real-estate-share-i-inc/BWK2689,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3214,Vontobel EM Blend AQHN H GBP Inc,LU2445929370,https://www.ii.co.uk/funds/vontobel-em-blend-aqhn-h-gbp-inc/BJLTN09,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3219,Ninety One Global Environment I Inc,GB00BMXZ8896,https://www.ii.co.uk/funds/ninety-one-global-environment-i-inc/BMXZ889,You can hold this fund in a Trading Account,MF
+3224,abrdn Global Equity I Inc,GB00B83WC467,https://www.ii.co.uk/funds/abrdn-global-equity-i-inc/B83WC46,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3229,Redwheel UK Value R GBP Inc,LU1017299238,https://www.ii.co.uk/funds/redwheel-uk-value-r-gbp-inc/BJBPXJ6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3234,TM New Court F Inc,GB00BDGP1739,https://www.ii.co.uk/funds/tm-new-court-f-inc/BDGP173,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3239,ARC TIME Freehold Inc Authrd C Grs Inc,GB00B9DQDN12,https://www.ii.co.uk/funds/arc-time-freehold-inc-authrd-c-grs-inc/B9DQDN1,You can hold this fund in a SIPP and Trading Account,MF
+3244,Vontobel TwentyFour StratInc I GBP,LU1322871390,https://www.ii.co.uk/funds/vontobel-twentyfour-stratinc-i-gbp/BYXDH57,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3249,Algebris Financial Income ID GBP Inc,IE00BCZNX087,https://www.ii.co.uk/funds/algebris-financial-income-id-gbp-inc/BCZNX08,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3254,WS Keyridge Diversified Monthly Inc CInc,GB00BK5BDD18,https://www.ii.co.uk/funds/ws-keyridge-diversified-monthly-inc-cinc/BK5BDD1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3259,Schroder European Climate Trans Z £ Inc,GB00B7FHV230,https://www.ii.co.uk/funds/schroder-european-climate-trans-z-inc/B7FHV23,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3264,AXA Sterling Crdt Shrt Dura Bd Z Grs Inc,GB00B5VL0B78,https://www.ii.co.uk/funds/axa-sterling-crdt-shrt-dura-bd-z-grs-inc/B5VL0B7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3269,Blackrock MyMap 4 D GBP Inc,GB00BFBFYK62,https://www.ii.co.uk/funds/blackrock-mymap-4-d-gbp-inc/BFBFYK6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3274,JPM Sterling Corporate Bond C Grs Inc,GB00B235SK19,https://www.ii.co.uk/funds/jpm-sterling-corporate-bond-c-grs-inc/B235SK1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3279,Fiera Emerging Markets Fund B Inc,IE00B8QB4001,https://www.ii.co.uk/funds/fiera-emerging-markets-fund-b-inc/B8QB400,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3284,VT Price Value A GBP Inc,GB00BD8PLW60,https://www.ii.co.uk/funds/vt-price-value-a-gbp-inc/BD8PLW6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3289,VT Munro UK Equity Income X Inc Direct,GB00B1Z8L916,https://www.ii.co.uk/funds/vt-munro-uk-equity-income-x-inc-direct/B1Z8L91,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3294,HSBC Europe Ex-UK Equity Inc C,GB00BNYFWC75,https://www.ii.co.uk/funds/hsbc-europe-ex-uk-equity-inc-c/BNYFWC7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3299,L&G Mixed Investment Income 0-35% I Inc,GB00BYW6BS84,https://www.ii.co.uk/funds/lg-mixed-investment-income-0-35-i-inc/BYW6BS8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3304,L&G Future World UK Eq Fd L GBP Inc,GB00B887M570,https://www.ii.co.uk/funds/lg-future-world-uk-eq-fd-l-gbp-inc/B887M57,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3309,Schroder Sustainable Bond Z GB Inc,GB00B5W01T86,https://www.ii.co.uk/funds/schroder-sustainable-bond-z-gb-inc/B5W01T8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3314,Sustainable Opportunities Bal B GBP Inc,GB00B5QHLR34,https://www.ii.co.uk/funds/sustainable-opportunities-bal-b-gbp-inc/B5QHLR3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3319,New Capital Wlthy Ntn Bd GBP Inst Inc,IE00B41M1D28,https://www.ii.co.uk/funds/new-capital-wlthy-ntn-bd-gbp-inst-inc/B41M1D2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3324,abrdn Global Infras Equity I Founder Inc,GB00B77C6N26,https://www.ii.co.uk/funds/abrdn-global-infras-equity-i-founder-inc/B77C6N2,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3329,PIMCO GIS Glb Bd Instl GBPH Inc,IE00B016J213,https://www.ii.co.uk/funds/pimco-gis-glb-bd-instl-gbph-inc/B016J21,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3334,FTF ClearBridge US Eq inc W Inc,GB00BMF4TR04,https://www.ii.co.uk/funds/ftf-clearbridge-us-eq-inc-w-inc/BMF4TR0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3339,L&G Mixed Investment 0-35% I Inc,GB00B8B8CK26,https://www.ii.co.uk/funds/lg-mixed-investment-0-35-i-inc/B8B8CK2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3344,CT Universal MAP Income C Inc,GB00BK5ZC812,https://www.ii.co.uk/funds/ct-universal-map-income-c-inc/BK5ZC81,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3349,Baillie Gifford Developed Asia Pac B Inc,GB0030491632,https://www.ii.co.uk/funds/baillie-gifford-developed-asia-pac-b-inc/3049163,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3354,Fidelity MltAsst Inc & Gr W Inc,GB00BFPC0C71,https://www.ii.co.uk/funds/fidelity-mltasst-inc-gr-w-inc/BFPC0C7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3359,Jupiter Global Emerging Mrkts Inc I Inc,GB00B6QGZ083,https://www.ii.co.uk/funds/jupiter-global-emerging-mrkts-inc-i-inc/B6QGZ08,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3364,Schroder QEP US Core I Inc,GB0007648230,https://www.ii.co.uk/funds/schroder-qep-us-core-i-inc/0764823,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3369,Premier Miton Multi-Asset Global GrB Inc,GB00B4K4MQ97,https://www.ii.co.uk/funds/premier-miton-multi-asset-global-grb-inc/B4K4MQ9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3374,CT American Z Income GBP,GB00B6WD1G18,https://www.ii.co.uk/funds/ct-american-z-income-gbp/B6WD1G1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3379,abrdn Global Balanced Growth I Inc,GB0004331566,https://www.ii.co.uk/funds/abrdn-global-balanced-growth-i-inc/0433156,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3384,Ashmore SICAV Em Mkts Dbt Z GBP Inc,LU0861576162,https://www.ii.co.uk/funds/ashmore-sicav-em-mkts-dbt-z-gbp-inc/B93KHR5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3389,L&G Actv Shrt Dtd Sterling Corp Bd I Inc,GB00B7JDJQ71,https://www.ii.co.uk/funds/lg-actv-shrt-dtd-sterling-corp-bd-i-inc/B7JDJQ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3394,Dimensional UK Smlr Coms Inc,GB0033772061,https://www.ii.co.uk/funds/dimensional-uk-smlr-coms-inc/3377206,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3399,TM Oberon UK Special Sits I GBP Inc,GB00BG5Q5V00,https://www.ii.co.uk/funds/tm-oberon-uk-special-sits-i-gbp-inc/BG5Q5V0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3404,Invesco Managed Growth UK Z Inc,GB00B8N46400,https://www.ii.co.uk/funds/invesco-managed-growth-uk-z-inc/B8N4640,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3409,CG AJ Bell Income & Growth I GBP Acc,GB00BH3W7883,https://www.ii.co.uk/funds/cg-aj-bell-income-growth-i-gbp-acc/BH3W788,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3414,abrdn Sterling Short Term Govt Bd I Inc,GB00BWK25L59,https://www.ii.co.uk/funds/abrdn-sterling-short-term-govt-bd-i-inc/BWK25L5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3419,L&G Mixed Investment 40-85% I Inc,GB00BMHTPV93,https://www.ii.co.uk/funds/lg-mixed-investment-40-85-i-inc/BMHTPV9,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3424,L&G Multi-Index Income 5 I Inc,GB00BZ0RRV56,https://www.ii.co.uk/funds/lg-multi-index-income-5-i-inc/BZ0RRV5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3429,abrdn Global Real Estate Std Lf Inc,GB00BF6VTF96,https://www.ii.co.uk/funds/abrdn-global-real-estate-std-lf-inc/BF6VTF9,You can hold this fund in a Trading Account,MF
+3434,JPM UK Equity Growth C Net Inc,GB00B3FJQH18,https://www.ii.co.uk/funds/jpm-uk-equity-growth-c-net-inc/B3FJQH1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3439,M&G Global Convertibles GBP I Inc,GB00B758PJ12,https://www.ii.co.uk/funds/mg-global-convertibles-gbp-i-inc/B758PJ1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3444,AXA Global Strategic Bd Z Inc GBP Qt,GB00BMZCH363,https://www.ii.co.uk/funds/axa-global-strategic-bd-z-inc-gbp-qt/BMZCH36,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3449,Janus Henderson Global Fncls A Inc,GB00B4JVX467,https://www.ii.co.uk/funds/janus-henderson-global-fncls-a-inc/B4JVX46,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3454,Prusik Asian Equity Income U GBP,IE00BBP6LK66,https://www.ii.co.uk/funds/prusik-asian-equity-income-u-gbp/BBP6LK6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3459,Protea Navera High Eq Strat GBP A Inc,LU1901197852,https://www.ii.co.uk/funds/protea-navera-high-eq-strat-gbp-a-inc/BG35PF3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3464,AXA Distribution Z Inc,GB0006160542,https://www.ii.co.uk/funds/axa-distribution-z-inc/0616054,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3469,AXA UK Sustainable Equity - R Inc,GB0003509766,https://www.ii.co.uk/funds/axa-uk-sustainable-equity-r-inc/0350976,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3474,CT Global Total Ret Bd (GBP Hdg) C Inc,GB00B80KHR13,https://www.ii.co.uk/funds/ct-global-total-ret-bd-gbp-hdg-c-inc/B80KHR1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3479,CG AJ Bell Adventurous I Inc,GB00BYW8T687,https://www.ii.co.uk/funds/cg-aj-bell-adventurous-i-inc/BYW8T68,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3484,Vanguard Global Capital Stwrds Eq Inc,GB00BMV9B514,https://www.ii.co.uk/funds/vanguard-global-capital-stwrds-eq-inc/BMV9B51,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3489,GS Global Future Gen Eq R Inc GBP,LU1336753378,https://www.ii.co.uk/funds/gs-global-future-gen-eq-r-inc-gbp/BD6GNJ2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3494,abrdn Dynamic Distribution I Inc,GB00B0WS8K73,https://www.ii.co.uk/funds/abrdn-dynamic-distribution-i-inc/B0WS8K7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3499,YFS Charteris Gold and Prec Mtls I Inc,GB00BYQ2JZ59,https://www.ii.co.uk/funds/yfs-charteris-gold-and-prec-mtls-i-inc/BYQ2JZ5,You can hold this fund in a Trading Account,MF
+3504,TrinityBridge Mgd Income X ACC,GB00B80PQP76,https://www.ii.co.uk/funds/trinitybridge-mgd-income-x-acc/B80PQP7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3509,Fidelity Lng Dtd Stlg Corp Bd W Inc,GB0031400335,https://www.ii.co.uk/funds/fidelity-lng-dtd-stlg-corp-bd-w-inc/3140033,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3514,HSBC World Selection Balanced C Inc,GB00B8QYP513,https://www.ii.co.uk/funds/hsbc-world-selection-balanced-c-inc/B8QYP51,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3519,JPM Global Macro ESG C Net Income,GB00B235HG00,https://www.ii.co.uk/funds/jpm-global-macro-esg-c-net-income/B235HG0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3524,PIMCO GIS UK Corporate Bd Instl GBP Inc,IE00B6027734,https://www.ii.co.uk/funds/pimco-gis-uk-corporate-bd-instl-gbp-inc/B602773,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3529,GS Global MA Balanced R Inc GBP PtH,LU1057462530,https://www.ii.co.uk/funds/gs-global-ma-balanced-r-inc-gbp-pth/BLNMRQ4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3534,CT UK Prpty Authrsd Invmt Net 1 Inc GBP,GB00BQ1YHR87,https://www.ii.co.uk/funds/ct-uk-prpty-authrsd-invmt-net-1-inc-gbp/BQ1YHR8,You can hold this fund in a Trading Account,MF
+3539,MI Select Managers UK Equity Instl Inc,GB00BYWVF922,https://www.ii.co.uk/funds/mi-select-managers-uk-equity-instl-inc/BYWVF92,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3544,Pacific North of South EM All Cp EqI£Inc,IE00BFZ4H223,https://www.ii.co.uk/funds/pacific-north-of-south-em-all-cp-eqiinc/BFZ4H22,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3549,WS Montanaro Euro (ex-UK) S&M A GBP Inc,GB00BJRCFX95,https://www.ii.co.uk/funds/ws-montanaro-euro-ex-uk-sm-a-gbp-inc/BJRCFX9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3554,Vanguard LifeStrategy Glbl 40% Eq A Inc,GB00BVPLDT49,https://www.ii.co.uk/funds/vanguard-lifestrategy-glbl-40-eq-a-inc/BVPLDT4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3559,FF - Emerging Mkts Eq ESG W-Inc-GBP,LU1937123476,https://www.ii.co.uk/funds/ff-emerging-mkts-eq-esg-w-inc-gbp/BGR9SX0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3564,L&G Mixed Investment 20-60% I Inc,GB00BMHTPN10,https://www.ii.co.uk/funds/lg-mixed-investment-20-60-i-inc/BMHTPN1,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3569,Lazard Developing Markets C Inc,GB00B8HCWS66,https://www.ii.co.uk/funds/lazard-developing-markets-c-inc/B8HCWS6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3574,Sanlam Global High Quality C GBP Inc,IE00B97F9X63,https://www.ii.co.uk/funds/sanlam-global-high-quality-c-gbp-inc/B97F9X6,You can hold this fund in a Trading Account,MF
+3579,CT UK Commercial Property Feeder 1 Inc,GB00BWZMHJ27,https://www.ii.co.uk/funds/ct-uk-commercial-property-feeder-1-inc/BWZMHJ2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3584,JPM Global (ex-UK) Bond C Grs Inc,GB00B235J198,https://www.ii.co.uk/funds/jpm-global-ex-uk-bond-c-grs-inc/B235J19,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3589,MI TwentyFour Core Corp Bd A Grs Inc,GB00BDD0M018,https://www.ii.co.uk/funds/mi-twentyfour-core-corp-bd-a-grs-inc/BDD0M01,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3594,Sarasin IE Multi Asset Dynamic GBP P Inc,IE00B88H7747,https://www.ii.co.uk/funds/sarasin-ie-multi-asset-dynamic-gbp-p-inc/B88H774,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3599,Overstone Global All Cap Value I Inc,GB00B75LT544,https://www.ii.co.uk/funds/overstone-global-all-cap-value-i-inc/B75LT54,You can hold this fund in a SIPP and Trading Account,MF
+3604,SJP Global Equity A Inc,GB00B4MKVG84,https://www.ii.co.uk/funds/sjp-global-equity-a-inc/B4MKVG8,You can hold this fund in a Trading Account,MF
+3609,GS EM CORE Eq R Inc GBP Close,LU0858292112,https://www.ii.co.uk/funds/gs-em-core-eq-r-inc-gbp-close/B99B9Q5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3614,Santander Atlas Income Portfolio II,GB00B4WX4C46,https://www.ii.co.uk/funds/santander-atlas-income-portfolio-ii/B4WX4C4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3619,FTF Franklin European Uncons W Inc,GB00BP9LKB97,https://www.ii.co.uk/funds/ftf-franklin-european-uncons-w-inc/BP9LKB9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3624,TM Oberon UK Smaller Companies B GBP Inc,GB00BQV37K85,https://www.ii.co.uk/funds/tm-oberon-uk-smaller-companies-b-gbp-inc/BQV37K8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3629,Trojan (Ireland) X GBP Inc,IE00BF29RH50,https://www.ii.co.uk/funds/trojan-ireland-x-gbp-inc/BF29RH5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3634,Winton Multi-Strategy UCITS I GBP Inc,IE00BYWTYY42,https://www.ii.co.uk/funds/winton-multi-strategy-ucits-i-gbp-inc/BYWTYY4,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3639,ARC TIME Property Income D Net Inc,GB00BJJPV051,https://www.ii.co.uk/funds/arc-time-property-income-d-net-inc/BJJPV05,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3644,CT Global Real Estate Securities 3 Inc,GB00BG5GMD10,https://www.ii.co.uk/funds/ct-global-real-estate-securities-3-inc/BG5GMD1,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3649,CT European L Grs Inc GBP ex H,GB00BDZYJC21,https://www.ii.co.uk/funds/ct-european-l-grs-inc-gbp-ex-h/BDZYJC2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3654,Aviva Investors Multi-Mgr 40-85% 2 £Inc,GB00B8FV3N77,https://www.ii.co.uk/funds/aviva-investors-multi-mgr-40-85-2-inc/B8FV3N7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3659,IFSL RC Brown UK Primary Opps P Inc,GB00B8HGN522,https://www.ii.co.uk/funds/ifsl-rc-brown-uk-primary-opps-p-inc/B8HGN52,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3664,Sarasin Responsible Global Equity P Inc,GB00B75JDT07,https://www.ii.co.uk/funds/sarasin-responsible-global-equity-p-inc/B75JDT0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3669,L&G Multi Manager Balanced I Inc,GB00B8L29M57,https://www.ii.co.uk/funds/lg-multi-manager-balanced-i-inc/B8L29M5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3674,TM Cerno Global Leaders A GBP Inc,GB00BF00QJ57,https://www.ii.co.uk/funds/tm-cerno-global-leaders-a-gbp-inc/BF00QJ5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3679,Aegon Absolute Return Bond GBP B Inc,IE00B4QJCV38,https://www.ii.co.uk/funds/aegon-absolute-return-bond-gbp-b-inc/B4QJCV3,You can hold this fund in a SIPP and Trading Account,MF
+3684,GAM Star Private EqLiquidRepInstl£ Inc,IE00B5TJG591,https://www.ii.co.uk/funds/gam-star-private-eqliquidrepinstl-inc/B5TJG59,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3689,SVS Cornelian Growth RMP G GBP Inc,GB00BD6FSP09,https://www.ii.co.uk/funds/svs-cornelian-growth-rmp-g-gbp-inc/BD6FSP0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3694,Barclays Multi-Asset Defensive R Inc GBP,GB00BD93Z053,https://www.ii.co.uk/funds/barclays-multi-asset-defensive-r-inc-gbp/BD93Z05,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3699,WS Prudential Risk Managed Pasv 2 P Inc,GB00BVYTZY88,https://www.ii.co.uk/funds/ws-prudential-risk-managed-pasv-2-p-inc/BVYTZY8,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3704,7IM Moderately Cautious C Inc,GB0033953273,https://www.ii.co.uk/funds/7im-moderately-cautious-c-inc/3395327,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3709,Schroder Institutional Pacific I Inc,GB0007659567,https://www.ii.co.uk/funds/schroder-institutional-pacific-i-inc/0765956,You can hold this fund in a SIPP and Trading Account,MF
+3714,YFS Sterling Select Companies Inc,GB0002708708,https://www.ii.co.uk/funds/yfs-sterling-select-companies-inc/0270870,You can hold this fund in a Trading Account,MF
+3719,SVS Cornelian Cautious RMP G GBP Inc,GB00BD6FSN84,https://www.ii.co.uk/funds/svs-cornelian-cautious-rmp-g-gbp-inc/BD6FSN8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3724,Quilter Investors Mly Inc & Gr U1 GBPInc,GB00BJMXGY51,https://www.ii.co.uk/funds/quilter-investors-mly-inc-gr-u1-gbpinc/BJMXGY5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3729,Barclays Multi-Asset Cautious R Inc GBP,GB00BD93ZB62,https://www.ii.co.uk/funds/barclays-multi-asset-cautious-r-inc-gbp/BD93ZB6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3734,FP Russell Invsmts Intl Gr Assts C Inc,GB00B4JQSQ86,https://www.ii.co.uk/funds/fp-russell-invsmts-intl-gr-assts-c-inc/B4JQSQ8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3739,Barclays Multi-Asset Cautious R Inc GBP,GB00BD93ZB62,https://www.ii.co.uk/funds/barclays-multi-asset-cautious-r-inc-gbp/BD93ZB6,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3744,WS Prudential Risk Managed Actv 3 P Inc,GB00BF232834,https://www.ii.co.uk/funds/ws-prudential-risk-managed-actv-3-p-inc/BF23283,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3749,Catalyst Global Rel Est UCITS G GBP Inc,IE00BMC3H769,https://www.ii.co.uk/funds/catalyst-global-rel-est-ucits-g-gbp-inc/BMC3H76,You can hold this fund in a Trading Account,MF
+3754,Liontrust MA Dynamic Pasv Moderate S Inc,GB00BWWCYX80,https://www.ii.co.uk/funds/liontrust-ma-dynamic-pasv-moderate-s-inc/BWWCYX8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3759,SVS Cornelian Managed Growth D Inc,GB00B3N13674,https://www.ii.co.uk/funds/svs-cornelian-managed-growth-d-inc/B3N1367,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3764,HSBC Global Responsible MA Dyn Inc C,GB00BLKQCJ77,https://www.ii.co.uk/funds/hsbc-global-responsible-ma-dyn-inc-c/BLKQCJ7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3769,ARC TIME Property Income Fdr R Net Inc,GB00BJJPVF01,https://www.ii.co.uk/funds/arc-time-property-income-fdr-r-net-inc/BJJPVF0,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3774,MGTS Sentinel Enterprise B Inc,GB00B50ZPV57,https://www.ii.co.uk/funds/mgts-sentinel-enterprise-b-inc/B50ZPV5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3779,SEI GMF AsiaPac Ex-Jpn Eq GBP Wlth A Inc,IE00B0689H75,https://www.ii.co.uk/funds/sei-gmf-asiapac-ex-jpn-eq-gbp-wlth-a-inc/B0689H7,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3784,Premier Miton Liberation No. V C Inc,GB00B3NZPP27,https://www.ii.co.uk/funds/premier-miton-liberation-no-v-c-inc/B3NZPP2,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3789,MGTS Sentinel Navigator B Inc,GB00BZ0P5378,https://www.ii.co.uk/funds/mgts-sentinel-navigator-b-inc/BZ0P537,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3794,TM UBS (UK) - Global Growth F Inc,GB00BCV7SZ42,https://www.ii.co.uk/funds/tm-ubs-uk-global-growth-f-inc/BCV7SZ4,,MF
+3799,TM New Court Return Assets A Inc,GB00BQXL9H12,https://www.ii.co.uk/funds/tm-new-court-return-assets-a-inc/BQXL9H1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3804,ARC TIME Social Prpty C Gross Inc,GB00BJK12C11,https://www.ii.co.uk/funds/arc-time-social-prpty-c-gross-inc/BJK12C1,You can hold this fund in a Trading Account,MF
+3809,Baillie Gifford Defensive Gr B GBP Inc,GB00BMZQ1C59,https://www.ii.co.uk/funds/baillie-gifford-defensive-gr-b-gbp-inc/BMZQ1C5,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3814,Schroder UK Multi-Cap Income Z Acc,GB00B5ZZ8006,https://www.ii.co.uk/funds/schroder-uk-multi-cap-income-z-acc/B5ZZ800,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3819,M&G Feeder of Property GBP R Inc,GB00B8FXSK59,https://www.ii.co.uk/funds/mg-feeder-of-property-gbp-r-inc/B8FXSK5,You can hold this fund in a Trading Account,MF
+3824,ARC TIME Freehold Inc Authrd Fdr INetAcc,GB00B94RFB51,https://www.ii.co.uk/funds/arc-time-freehold-inc-authrd-fdr-inetacc/B94RFB5,You can hold this fund in a Trading Account,MF
+3829,WS Keyridge Portfolio III C Inc,GB00B8SC7T13,https://www.ii.co.uk/funds/ws-keyridge-portfolio-iii-c-inc/B8SC7T1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3834,Jupiter European Income I Acc,GB00B6QMYW18,https://www.ii.co.uk/funds/jupiter-european-income-i-acc/B6QMYW1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3839,Janus Henderson Core 5 Income I Acc,GB00B8J9W526,https://www.ii.co.uk/funds/janus-henderson-core-5-income-i-acc/B8J9W52,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3844,Jupiter European Income I Acc,GB00B6QMYW18,https://www.ii.co.uk/funds/jupiter-european-income-i-acc/B6QMYW1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3849,MGTS Downing Diversified Opps I GBP Inc,GB00BVR0BC84,https://www.ii.co.uk/funds/mgts-downing-diversified-opps-i-gbp-inc/BVR0BC8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3854,WS Keyridge UK Equity C Inc,GB00BCZNXX14,https://www.ii.co.uk/funds/ws-keyridge-uk-equity-c-inc/BCZNXX1,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3859,ASI Emerging Mkt Govt Bd P1 Inc,GB00B7XZ3C35,https://www.ii.co.uk/funds/asi-emerging-mkt-govt-bd-p1-inc/B7XZ3C3,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3864,ES Share Centre Multi Mgr Gr&Inc A Acc,GB00BZCN7S87,https://www.ii.co.uk/funds/es-share-centre-multi-mgr-grinc-a-acc/BZCN7S8,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3869,Aviva Inv UK Prpty Fdr Inc 1 GBP Inc,GB00BYYZ1N89,https://www.ii.co.uk/funds/aviva-inv-uk-prpty-fdr-inc-1-gbp-inc/BYYZ1N8,You can hold this fund in a Trading Account,MF
+3874,VT Chelsea Mgd Cau Gr A GBP Net Inc,GB00BF0NMW98,https://www.ii.co.uk/funds/vt-chelsea-mgd-cau-gr-a-gbp-net-inc/BF0NMW9,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3879,MGTS Future Money Income R Inc,GB00B5MFQ093,https://www.ii.co.uk/funds/mgts-future-money-income-r-inc/B5MFQ09,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3884,SVS Brown Shipley Growth I Inc,GB00B3NGWQ53,https://www.ii.co.uk/funds/svs-brown-shipley-growth-i-inc/B3NGWQ5,You can hold this fund in a Trading Account,MF
+3889,Janus Henderson Core 3 Income I Acc,GB00B8289886,https://www.ii.co.uk/funds/janus-henderson-core-3-income-i-acc/B828988,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3894,abrdn Europe ex UK Smaller Comp I Inc,GB00BNGCW154,https://www.ii.co.uk/funds/abrdn-europe-ex-uk-smaller-comp-i-inc/BNGCW15,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
+3899,WS Prudential Risk Managed Pasv 4 P Inc,GB00BVYV0382,https://www.ii.co.uk/funds/ws-prudential-risk-managed-pasv-4-p-inc/BVYV038,"You can hold this fund in an ISA, JISA and Trading Account",MF
+3904,MI Polen Capital Asia Income I Inc,GB00B7BZB324,https://www.ii.co.uk/funds/mi-polen-capital-asia-income-i-inc/B7BZB32,"You can hold this fund in a SIPP, ISA, JISA and Trading Account",MF
