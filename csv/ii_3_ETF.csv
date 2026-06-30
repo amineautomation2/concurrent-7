@@ -1,0 +1,405 @@
+index,name,isin,url,keyword,sheet
+5,iShares Core MSCI World ETF USD Acc GBP,IE00B4L5Y983,https://www.ii.co.uk/etfs/ishares-core-msci-world-etf-usd-acc-gbp/LSE:SWDA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+10,Vanguard FTSE 100 UCITS ETF,IE00B810Q511,https://www.ii.co.uk/etfs/vanguard-ftse-100-ucits-etf/LSE:VUKE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+15,iShares Core MSCI EM IMI ETF USD Acc GBP,IE00BKM4GZ66,https://www.ii.co.uk/etfs/ishares-core-msci-em-imi-etf-usd-acc-gbp/LSE:EMIM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+20,Vanguard FTSE Dev Eurp ex UK ETF Dis GBP,IE00BKX55S42,https://www.ii.co.uk/etfs/vanguard-ftse-dev-eurp-ex-uk-etf-dis-gbp/LSE:VERX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+25,iShares NASDAQ 100 ETF USD Acc GBP,IE00B53SZB19,https://www.ii.co.uk/etfs/ishares-nasdaq-100-etf-usd-acc-gbp/LSE:CNX1,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+30,Vanguard FTSE Emerg Markets ETF $Dis GBP,IE00B3VVMM84,https://www.ii.co.uk/etfs/vanguard-ftse-emerg-markets-etf-dis-gbp/LSE:VFEM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+35,Future of Defence ETF Acc GBP,IE000OJ5TQP4,https://www.ii.co.uk/etfs/future-of-defence-etf-acc-gbp/LSE:NATP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+40,iShares MSCI World Small Cap ETF USD Acc GBP,IE00BF4RFH31,https://www.ii.co.uk/etfs/ishares-msci-world-small-cap-etf-usd-acc-gbp/LSE:WLDS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+45,iShares £ Index-Lnkd Gilts ETF GBP Dist,IE00B1FZSD53,https://www.ii.co.uk/etfs/ishares-index-lnkd-gilts-etf-gbp-dist/LSE:INXG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+50,iShares MSCI Global Semicondctrs ETF$Acc GBP,IE000I8KRLL9,https://www.ii.co.uk/etfs/ishares-msci-global-semicondctrs-etfacc-gbp/LSE:SEMI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+55,Global X Copper Miners ETF USD Acc GBP,IE0003Z9E2Y3,https://www.ii.co.uk/etfs/global-x-copper-miners-etf-usd-acc-gbp/LSE:COPG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+60,iShares Core MSCI Japan IMI ETF USD Acc GBP,IE00B4L5YX21,https://www.ii.co.uk/etfs/ishares-core-msci-japan-imi-etf-usd-acc-gbp/LSE:SJPA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+65,VanEck Morningstar DevMrkts Div Lead ETF GBP,NL0011683594,https://www.ii.co.uk/etfs/vaneck-morningstar-devmrkts-div-lead-etf-gbp/LSE:TDGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+70,Amundi Core Stoxx Eurp 600 ETF Acc GBP,LU0908500753,https://www.ii.co.uk/etfs/amundi-core-stoxx-eurp-600-etf-acc-gbp/LSE:MEUD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+75,Vanguard Global Aggt Bd ETF GBP H Acc,IE00BG47K971,https://www.ii.co.uk/etfs/vanguard-global-aggt-bd-etf-gbp-h-acc/LSE:VAGS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+80,iShares Core MSCI Europe ETF EUR Acc GBP,IE00B4K48X80,https://www.ii.co.uk/etfs/ishares-core-msci-europe-etf-eur-acc-gbp/LSE:SMEA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+85,Vanguard UK Gilt UCITS ETF,IE00B42WWV65,https://www.ii.co.uk/etfs/vanguard-uk-gilt-ucits-etf/LSE:VGOV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+90,L&G ROBO Global Rbtc and Atmtn ETF GBP,IE00BMW3QX54,https://www.ii.co.uk/etfs/lg-robo-global-rbtc-and-atmtn-etf-gbp/LSE:ROBG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+95,VanEck Junior Gold Miners UCITS ETF,IE00BQQP9G91,https://www.ii.co.uk/etfs/vaneck-junior-gold-miners-ucits-etf/LSE:GDXJ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+100,WisdomTree Enhanced Cmdty ETF - USD Acc GBP,IE00BYMLZY74,https://www.ii.co.uk/etfs/wisdomtree-enhanced-cmdty-etf-usd-acc-gbp/LSE:WCOB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+105,iShares China Large Cap ETF USD Dist GBP,IE00B02KXK85,https://www.ii.co.uk/etfs/ishares-china-large-cap-etf-usd-dist-gbp/LSE:FXC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+110,iShares Edge MSCI Wld Qual Fctr ETF $Acc GBP,IE00BP3QZ601,https://www.ii.co.uk/etfs/ishares-edge-msci-wld-qual-fctr-etf-acc-gbp/LSE:IWFQ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+115,iShares MSCI Japan ETF USD Dist GBP,IE00B02KXH56,https://www.ii.co.uk/etfs/ishares-msci-japan-etf-usd-dist-gbp/LSE:IJPN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+120,Global X Copper Miners ETF USD Acc,IE0003Z9E2Y3,https://www.ii.co.uk/etfs/global-x-copper-miners-etf-usd-acc/LSE:COPX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+125,iShares MSCI China A ETF USD Acc GBP,IE00BQT3WG13,https://www.ii.co.uk/etfs/ishares-msci-china-a-etf-usd-acc-gbp/LSE:IASH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+130,Xtrackers MSCI World Value ETF 1C GBP,IE00BL25JM42,https://www.ii.co.uk/etfs/xtrackers-msci-world-value-etf-1c-gbp/LSE:XDEV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+135,VanEck Junior Gold Miners UCITS ETF GBP,IE00BQQP9G91,https://www.ii.co.uk/etfs/vaneck-junior-gold-miners-ucits-etf-gbp/LSE:GJGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+140,iShares Listed Private Eq ETF USD Dist GBP,IE00B1TXHL60,https://www.ii.co.uk/etfs/ishares-listed-private-eq-etf-usd-dist-gbp/LSE:IPRV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+145,HSBC EURO STOXX 50 ETF GBP,IE00B4K6B022,https://www.ii.co.uk/etfs/hsbc-euro-stoxx-50-etf-gbp/LSE:H50E,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+150,Avantis Global Small Cap Val ETF USD Acc GBP,IE0003R87OG3,https://www.ii.co.uk/etfs/avantis-global-small-cap-val-etf-usd-acc-gbp/LSE:AVSG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+155,WisdomTree Quantum Computing ETF USD Acc GBP,IE000W8WMSL2,https://www.ii.co.uk/etfs/wisdomtree-quantum-computing-etf-usd-acc-gbp/LSE:QWTM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+160,Global X NASDAQ 100 Covered Call ETF Dis GBP,IE00BM8R0J59,https://www.ii.co.uk/etfs/global-x-nasdaq-100-covered-call-etf-dis-gbp/LSE:QYLP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+165,Global X Rbtc & Artfcl Intlgc ETF USDAcc,IE00BLCHJB90,https://www.ii.co.uk/etfs/global-x-rbtc-artfcl-intlgc-etf-usdacc/LSE:BOTZ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+170,Franklin FTSE China UCITS ETF GBP,IE00BHZRR147,https://www.ii.co.uk/etfs/franklin-ftse-china-ucits-etf-gbp/LSE:FRCH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+175,iShares Copper Miners UCITS ETF GBP,IE00063FT9K6,https://www.ii.co.uk/etfs/ishares-copper-miners-ucits-etf-gbp/LSE:MINE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+180,iShares Diversified Commodity Swap ETF GBP,IE00BDFL4P12,https://www.ii.co.uk/etfs/ishares-diversified-commodity-swap-etf-gbp/LSE:COMM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+185,iShares Dev Mkts Prpty Yld ETF USD Dist GBP,IE00B1FZS350,https://www.ii.co.uk/etfs/ishares-dev-mkts-prpty-yld-etf-usd-dist-gbp/LSE:IWDP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+190,iShares MSCI AC Far East exJpn ETF $ Dis GBP,IE00B0M63730,https://www.ii.co.uk/etfs/ishares-msci-ac-far-east-exjpn-etf-dis-gbp/LSE:IFFF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+195,Invesco RAFI All-World Fdmtl Val ETF GBP,IE00B23LNQ02,https://www.ii.co.uk/etfs/invesco-rafi-all-world-fdmtl-val-etf-gbp/LSE:PSRW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+200,UBS MSCI World Socially Rspnb ETF USDdis GBP,LU0629459743,https://www.ii.co.uk/etfs/ubs-msci-world-socially-rspnb-etf-usddis-gbp/LSE:UC44,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+205,Invesco Defence Innovation ETF GBP,IE000BRM9046,https://www.ii.co.uk/etfs/invesco-defence-innovation-etf-gbp/LSE:DFNX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+210,HSBC NASDAQ Global Semiconductor ETF USD GBP,IE000YDZG487,https://www.ii.co.uk/etfs/hsbc-nasdaq-global-semiconductor-etf-usd-gbp/LSE:HNSS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+215,L&G Artificial Intelligence ETF,IE00BK5BCD43,https://www.ii.co.uk/etfs/lg-artificial-intelligence-etf/LSE:AIAI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+220,WisdomTree Battery Solutions ETF USD Acc GBP,IE00BKLF1R75,https://www.ii.co.uk/etfs/wisdomtree-battery-solutions-etf-usd-acc-gbp/LSE:CHRG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+225,iShares MSCI India ETF USD Acc,IE00BZCQB185,https://www.ii.co.uk/etfs/ishares-msci-india-etf-usd-acc/LSE:NDIA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+230,iShares BIC 50 ETF USD Dist GBP,IE00B1W57M07,https://www.ii.co.uk/etfs/ishares-bic-50-etf-usd-dist-gbp/LSE:BRIC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+235,Vanguard U.K. Gilt ETF GBP Acc,IE00BH04GW44,https://www.ii.co.uk/etfs/vanguard-uk-gilt-etf-gbp-acc/LSE:VGVA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+240,iShares $ Treasury Bd 0-1yr ETF USD Acc,IE00BGSF1X88,https://www.ii.co.uk/etfs/ishares-treasury-bd-0-1yr-etf-usd-acc/LSE:IB01,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+245,VanEck Uranium and Nclr Tchs ETF A $ Acc,IE000M7V94E1,https://www.ii.co.uk/etfs/vaneck-uranium-and-nclr-tchs-etf-a-acc/LSE:NUCL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+250,Fidelity Global Qual Inc ETF Inc GBP,IE00BYXVGZ48,https://www.ii.co.uk/etfs/fidelity-global-qual-inc-etf-inc-gbp/LSE:FGQD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+255,HSBC MSCI KOREA CAPPED ETF GBP,IE00B3Z0X395,https://www.ii.co.uk/etfs/hsbc-msci-korea-capped-etf-gbp/LSE:HKOR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+260,JPM Nasdaq Eq Prm Inc Act ETF USD Dist GBP,IE000U9J8HX9,https://www.ii.co.uk/etfs/jpm-nasdaq-eq-prm-inc-act-etf-usd-dist-gbp/LSE:JEQP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+265,iShares Elctrc Vhcl&Drvng Tech ETFUSDAcc,IE00BGL86Z12,https://www.ii.co.uk/etfs/ishares-elctrc-vhcldrvng-tech-etfusdacc/LSE:ECAR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+270,iShares Edge MSCI USA Val Fac ETF $ Acc GBP,IE00BD1F4M44,https://www.ii.co.uk/etfs/ishares-edge-msci-usa-val-fac-etf-acc-gbp/LSE:IUVF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+275,WisdomTree Blockchain UCITS ETF USD Acc GBP,IE000940RNE6,https://www.ii.co.uk/etfs/wisdomtree-blockchain-ucits-etf-usd-acc-gbp/LSE:BKCN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+280,iShares S&P 500 Swap ETF USD Acc GBP,IE00BMTX1Y45,https://www.ii.co.uk/etfs/ishares-sp-500-swap-etf-usd-acc-gbp/LSE:I500,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+285,Xtrackers Euro Stoxx 50 ETF 1C GBP,LU0380865021,https://www.ii.co.uk/etfs/xtrackers-euro-stoxx-50-etf-1c-gbp/LSE:XESC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+290,WisdomTree Cloud Computing ETF - USD Acc GBP,IE00BJGWQN72,https://www.ii.co.uk/etfs/wisdomtree-cloud-computing-etf-usd-acc-gbp/LSE:KLWD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+295,iShares Edge MSCI Eurp Val Fctr ETF €Acc GBP,IE00BQN1K901,https://www.ii.co.uk/etfs/ishares-edge-msci-eurp-val-fctr-etf-acc-gbp/LSE:IEFV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+300,iShares MSCI WldQualDiv Advcd ETFUSDDist GBP,IE00BYYHSQ67,https://www.ii.co.uk/etfs/ishares-msci-wldqualdiv-advcd-etfusddist-gbp/LSE:WQDS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+305,Stt Strt SPDR® MSCI World Small Cap ETF GBP,IE00BCBJG560,https://www.ii.co.uk/etfs/stt-strt-spdr-msci-world-small-cap-etf-gbp/LSE:WOSC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+310,Invesco S&P 500 ETF,IE00B3YCGJ38,https://www.ii.co.uk/etfs/invesco-sp-500-etf/LSE:SPXS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+315,iShares Digital Security ETF USD Acc,IE00BG0J4C88,https://www.ii.co.uk/etfs/ishares-digital-security-etf-usd-acc/LSE:LOCK,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+320,First Trust Nasdaq Cybscty ETF A USD Acc,IE00BF16M727,https://www.ii.co.uk/etfs/first-trust-nasdaq-cybscty-etf-a-usd-acc/LSE:CIBR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+325,Amundi MSCI Emerging Mkt Ex China ETFAcc,LU2009202107,https://www.ii.co.uk/etfs/amundi-msci-emerging-mkt-ex-china-etfacc/LSE:EMXC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+330,Vanguard FTSE AllWld HiDivYld ETF $Dis,IE00B8GKDB10,https://www.ii.co.uk/etfs/vanguard-ftse-allwld-hidivyld-etf-dis/LSE:VHYD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+335,iShares Global HY Corp Bd GBPH ETF Dist,IE00B8KQFS66,https://www.ii.co.uk/etfs/ishares-global-hy-corp-bd-gbph-etf-dist/LSE:GHYS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+340,Xtrackers MSCI Eur Small Cap ETF 1C GBP,LU0322253906,https://www.ii.co.uk/etfs/xtrackers-msci-eur-small-cap-etf-1c-gbp/LSE:XXSC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+345,iShares Core MSCI EMU UCITS ETF £ H Dist,IE00BG0J9Y53,https://www.ii.co.uk/etfs/ishares-core-msci-emu-ucits-etf-h-dist/LSE:CEUG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+350,Amundi Blmbrg Equal weight Cmd exAgr ETF GBP,LU1829218749,https://www.ii.co.uk/etfs/amundi-blmbrg-equal-weight-cmd-exagr-etf-gbp/LSE:COMG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+355,Invesco Bloomberg Commodity ETF,IE00BD6FTQ80,https://www.ii.co.uk/etfs/invesco-bloomberg-commodity-etf/LSE:CMOD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+360,Xtrackers MSCI India Swap ETF 1C GBP,LU0514695187,https://www.ii.co.uk/etfs/xtrackers-msci-india-swap-etf-1c-gbp/LSE:XCX5,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+365,Xtrackers MSCI Malaysia ETF 1C GBP,LU0514694370,https://www.ii.co.uk/etfs/xtrackers-msci-malaysia-etf-1c-gbp/LSE:XCX3,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+370,Invesco Technology S&P US Sel Sec ETF,IE00B3VSSL01,https://www.ii.co.uk/etfs/invesco-technology-sp-us-sel-sec-etf/LSE:XLKS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+375,Invesco STOXX Europe 600 ETF GBP,IE00B60SWW18,https://www.ii.co.uk/etfs/invesco-stoxx-europe-600-etf-gbp/LSE:S600,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+380,Amundi Global Hydrogen ETF - Acc GBP,FR0010930644,https://www.ii.co.uk/etfs/amundi-global-hydrogen-etf-acc-gbp/LSE:ANRJ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+385,HSBC MSCI JAPAN ETF GBP,IE00B5VX7566,https://www.ii.co.uk/etfs/hsbc-msci-japan-etf-gbp/LSE:HMJP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+390,iShares MSCI North America ETF USD Dist GBP,IE00B14X4M10,https://www.ii.co.uk/etfs/ishares-msci-north-america-etf-usd-dist-gbp/LSE:INAA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+395,Global X SuperDividend ETF USD Dis,IE00077FRP95,https://www.ii.co.uk/etfs/global-x-superdividend-etf-usd-dis/LSE:SDIV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+400,Rize Cybersecurity Data Privacy ETF GBP,IE00BJXRZJ40,https://www.ii.co.uk/etfs/rize-cybersecurity-data-privacy-etf-gbp/LSE:CYBP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+405,VanEck World Equal Weight Scrn UCITS ETF GBP,NL0010408704,https://www.ii.co.uk/etfs/vaneck-world-equal-weight-scrn-ucits-etf-gbp/LSE:TSGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+410,Xtrackers MSCI USA Info Tech ETF 1D GBP,IE00BGQYRS42,https://www.ii.co.uk/etfs/xtrackers-msci-usa-info-tech-etf-1d-gbp/LSE:XSTC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+415,UBS Core MSCI Japan UCITS ETF hGBP dis,LU1169822340,https://www.ii.co.uk/etfs/ubs-core-msci-japan-ucits-etf-hgbp-dis/LSE:UB0D,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+420,Invesco Financials S&P US Select Sec ETF GBP,IE00B42Q4896,https://www.ii.co.uk/etfs/invesco-financials-sp-us-select-sec-etf-gbp/LSE:XLFQ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+425,Global X Cybersecurity ETF USD Acc GBP,IE00BMH5Y871,https://www.ii.co.uk/etfs/global-x-cybersecurity-etf-usd-acc-gbp/LSE:BUGG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+430,Invesco NASDAQ Biotech ETF,IE00BQ70R696,https://www.ii.co.uk/etfs/invesco-nasdaq-biotech-etf/LSE:SBIO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+435,ARK Space & Defence Innovt ETF A USD Acc,IE000AON7ET1,https://www.ii.co.uk/etfs/ark-space-defence-innovt-etf-a-usd-acc/LSE:ARKX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+440,Sprott Junior Uranium Miners ETF USD Acc,IE00075IVKF9,https://www.ii.co.uk/etfs/sprott-junior-uranium-miners-etf-usd-acc/LSE:URNJ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+445,WisdomTree Cloud Computing ETF - USD Acc,IE00BJGWQN72,https://www.ii.co.uk/etfs/wisdomtree-cloud-computing-etf-usd-acc/LSE:WCLD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+450,iShares Global Corp Bond ETF USD Dist GBP,IE00B7J7TB45,https://www.ii.co.uk/etfs/ishares-global-corp-bond-etf-usd-dist-gbp/LSE:CRPS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+455,Fidelity US Quality Income ETF Acc GBP,IE00BYXVGY31,https://www.ii.co.uk/etfs/fidelity-us-quality-income-etf-acc-gbp/LSE:FUQA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+460,Xtrackers S&P 500 Inv Dly Swap ETF 1C GBP,LU0322251520,https://www.ii.co.uk/etfs/xtrackers-sp-500-inv-dly-swap-etf-1c-gbp/LSE:XSPS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+465,Invesco UK Gilt 1-5 Year ETF GBP Inc,IE00BG0TQ445,https://www.ii.co.uk/etfs/invesco-uk-gilt-1-5-year-etf-gbp-inc/LSE:GLT5,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+470,Sprott Junior Uranium Miners ETF USD Acc GBP,IE00075IVKF9,https://www.ii.co.uk/etfs/sprott-junior-uranium-miners-etf-usd-acc-gbp/LSE:URJP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+475,Invesco Russell 2000 ETF,IE00B60SX402,https://www.ii.co.uk/etfs/invesco-russell-2000-etf/LSE:RTYS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+480,Vanguard FTSE Emerg Markets ETF USD Acc,IE00BK5BR733,https://www.ii.co.uk/etfs/vanguard-ftse-emerg-markets-etf-usd-acc/LSE:VFEA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+485,iShares $ Treasury Bd 20+y ETF USD Dist,IE00BSKRJZ44,https://www.ii.co.uk/etfs/ishares-treasury-bd-20y-etf-usd-dist/LSE:IDTL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+490,Invesco US Trs Bd 0-1 Yr ETF GBP H Dis,IE00BKWD3F20,https://www.ii.co.uk/etfs/invesco-us-trs-bd-0-1-yr-etf-gbp-h-dis/LSE:TIGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+495,iShares $ Treasury Bd 1-3yr ETF USD Acc,IE00BYXPSP02,https://www.ii.co.uk/etfs/ishares-treasury-bd-1-3yr-etf-usd-acc/LSE:IBTA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+500,Amundi UK Govt Infl Lnkd Bd ETF Dist,LU1407893301,https://www.ii.co.uk/etfs/amundi-uk-govt-infl-lnkd-bd-etf-dist/LSE:GILI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+505,iShares MSCI Poland ETF USD Acc,IE00B4M7GH52,https://www.ii.co.uk/etfs/ishares-msci-poland-etf-usd-acc/LSE:IPOL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+510,iShares MSCI Wld Md-Cp Eq Wgt UCITS ETF GBP,IE00BP3QZD73,https://www.ii.co.uk/etfs/ishares-msci-wld-md-cp-eq-wgt-ucits-etf-gbp/LSE:IWFS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+515,Xtrackers MSCI World Con Staples ETF 1C GBP,IE00BM67HN09,https://www.ii.co.uk/etfs/xtrackers-msci-world-con-staples-etf-1c-gbp/LSE:XWCS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+520,iShares Growth Portfolio ETF GBP H Acc,IE00BLLZQ912,https://www.ii.co.uk/etfs/ishares-growth-portfolio-etf-gbp-h-acc/LSE:MAGG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+525,L&G Global Equity ETF,IE00BFXR5S54,https://www.ii.co.uk/etfs/lg-global-equity-etf/LSE:LGGL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+530,iShares S&P 500 Utilts Sect ETF USD Acc GBP,IE00B4KBBD01,https://www.ii.co.uk/etfs/ishares-sp-500-utilts-sect-etf-usd-acc-gbp/LSE:IUSU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+535,Amundi Global Luxury ETF USD Acc GBP,LU1681048713,https://www.ii.co.uk/etfs/amundi-global-luxury-etf-usd-acc-gbp/LSE:LUXG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+540,Defiance AI & Power Infrstrctr ETFUSDAcc,IE000WUTBLT5,https://www.ii.co.uk/etfs/defiance-ai-power-infrstrctr-etfusdacc/LSE:AIPO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+545,iShares Edge MSCI Eurp Val Fctr ETF €Acc,IE00BQN1K901,https://www.ii.co.uk/etfs/ishares-edge-msci-eurp-val-fctr-etf-acc/LSE:IEVL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+550,Amundi IS MSCI Em Latin America ETF-C $ GBP,LU1681045297,https://www.ii.co.uk/etfs/amundi-is-msci-em-latin-america-etf-c-gbp/LSE:ALAG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+555,Invesco S&P 500 Equal Weight ETF Inc GBP,IE00BM8QRY62,https://www.ii.co.uk/etfs/invesco-sp-500-equal-weight-etf-inc-gbp/LSE:SPES,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+560,iShares MSCI ACWI ETF USD Acc,IE00B6R52259,https://www.ii.co.uk/etfs/ishares-msci-acwi-etf-usd-acc/LSE:ISAC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+565,WisdomTree Renewable Energy ETF GBP,IE000P3D0W60,https://www.ii.co.uk/etfs/wisdomtree-renewable-energy-etf-gbp/LSE:WREN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+570,Xtrackers MSCI Mexico ETF 1C GBP,LU0476289466,https://www.ii.co.uk/etfs/xtrackers-msci-mexico-etf-1c-gbp/LSE:XMEX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+575,L&G Multi-Strategy Enhanced Cmdts ETF GBP,IE00BFXR6159,https://www.ii.co.uk/etfs/lg-multi-strategy-enhanced-cmdts-etf-gbp/LSE:ENCG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+580,HSBC MSCI World ETF,IE00B4X9L533,https://www.ii.co.uk/etfs/hsbc-msci-world-etf/LSE:HMWD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+585,iShares Oil & Gas Explr&Prod ETF USD Acc,IE00B6R51Z18,https://www.ii.co.uk/etfs/ishares-oil-gas-explrprod-etf-usd-acc/LSE:IOGP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+590,iShares S&P 500 Indstr Sect ETF USD Acc GBP,IE00B4LN9N13,https://www.ii.co.uk/etfs/ishares-sp-500-indstr-sect-etf-usd-acc-gbp/LSE:IISU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+595,Invesco Energy S&P US Select Sector ETF,IE00B435CG94,https://www.ii.co.uk/etfs/invesco-energy-sp-us-select-sector-etf/LSE:XLES,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+600,Xtrackers MSCI World ESG ETF 1C GBP,IE00BZ02LR44,https://www.ii.co.uk/etfs/xtrackers-msci-world-esg-etf-1c-gbp/LSE:XESW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+605,WisdomTree Battery Solutions ETF USD Acc,IE00BKLF1R75,https://www.ii.co.uk/etfs/wisdomtree-battery-solutions-etf-usd-acc/LSE:VOLT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+610,Xtrackers FTSE Europe RealEstate ETF 1C GBP,LU0489337690,https://www.ii.co.uk/etfs/xtrackers-ftse-europe-realestate-etf-1c-gbp/LSE:XDER,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+615,iShares Essential Mtls Producers ETF$Acc GBP,IE000ROSD5J6,https://www.ii.co.uk/etfs/ishares-essential-mtls-producers-etfacc-gbp/LSE:METG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+620,Xtrackers MSCI USA Health Care ETF 1D GBP,IE00BCHWNW54,https://www.ii.co.uk/etfs/xtrackers-msci-usa-health-care-etf-1d-gbp/LSE:XSHC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+625,iShares Blmbrg Enh Roll Yld Cmd Swap ETF GBP,IE00BZ1NCS44,https://www.ii.co.uk/etfs/ishares-blmbrg-enh-roll-yld-cmd-swap-etf-gbp/LSE:ROLG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+630,WisdomTree Europe SmallCap Div UCITS ETF GBP,IE00BQZJC527,https://www.ii.co.uk/etfs/wisdomtree-europe-smallcap-div-ucits-etf-gbp/LSE:DFE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+635,Xtrackers MSCI Thailand ETF 1C GBP,LU0514694701,https://www.ii.co.uk/etfs/xtrackers-msci-thailand-etf-1c-gbp/LSE:XCX4,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+640,Vanguard FTSE Dev World ETF USD Acc,IE00BK5BQV03,https://www.ii.co.uk/etfs/vanguard-ftse-dev-world-etf-usd-acc/LSE:VHVE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+645,Invesco FTSE 100 ETF,IE00B60SWT88,https://www.ii.co.uk/etfs/invesco-ftse-100-etf/LSE:S100,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+650,Invesco Health Care S&P US Sel Sec ETF,IE00B3WMTH43,https://www.ii.co.uk/etfs/invesco-health-care-sp-us-sel-sec-etf/LSE:XLVS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+655,Xtrackers MSCI China A ETF 1C GBP,LU0292109856,https://www.ii.co.uk/etfs/xtrackers-msci-china-a-etf-1c-gbp/LSE:XX25,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+660,iShares € Govt Bond 15-30yr ETF EUR Dist GBP,IE00B1FZS913,https://www.ii.co.uk/etfs/ishares-govt-bond-15-30yr-etf-eur-dist-gbp/LSE:IBGL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+665,Invesco NASDAQ-100 Equal Wght ETF $ Acc GBP,IE000L2SA8K5,https://www.ii.co.uk/etfs/invesco-nasdaq-100-equal-wght-etf-acc-gbp/LSE:EWQX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+670,Amundi Core S&P 500 Swap ETF USD Dist GBP,LU0496786657,https://www.ii.co.uk/etfs/amundi-core-sp-500-swap-etf-usd-dist-gbp/LSE:LSPX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+675,Vanguard ESG Dev Eurp All Cp ETF EUR Inc GBP,IE000NRGX9M3,https://www.ii.co.uk/etfs/vanguard-esg-dev-eurp-all-cp-etf-eur-inc-gbp/LSE:V3EL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+680,iShares Edge MSCI Wld Min Vol ETFGBPHAcc,IE00BGPP8L80,https://www.ii.co.uk/etfs/ishares-edge-msci-wld-min-vol-etfgbphacc/LSE:WMVG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+685,iShares MSCI China Tech ETF $ Acc GBP,IE000NFR7C63,https://www.ii.co.uk/etfs/ishares-msci-china-tech-etf-acc-gbp/LSE:CTCE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+690,Xtrackers MSCI Europe Utilities ETF 1C GBP,LU0292104899,https://www.ii.co.uk/etfs/xtrackers-msci-europe-utilities-etf-1c-gbp/LSE:XS6R,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+695,HSBC S&P 500 ETF,IE00B5KQNG97,https://www.ii.co.uk/etfs/hsbc-sp-500-etf/LSE:HSPD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+700,HAN-GINS Tech Megatrend Equal Wgt ETFAcc,IE00BDDRF700,https://www.ii.co.uk/etfs/han-gins-tech-megatrend-equal-wgt-etfacc/LSE:ITEK,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+705,Global X Artificial Intlgc ETF USD Acc,IE0000XTDDA8,https://www.ii.co.uk/etfs/global-x-artificial-intlgc-etf-usd-acc/LSE:AIQU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+710,iShares $ TIPS 0-5 ETF USD Dist,IE00BDQYWQ65,https://www.ii.co.uk/etfs/ishares-tips-0-5-etf-usd-dist/LSE:TIP5,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+715,WisdomTree Glb Efficient Cor ETFUSDAcc GBP,IE00077IIPQ8,https://www.ii.co.uk/etfs/wisdomtree-glb-efficient-cor-etfusdacc-gbp/LSE:WGEC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+720,Invesco Industrials S&P US Sel Sec ETF GBP,IE00B3YC1100,https://www.ii.co.uk/etfs/invesco-industrials-sp-us-sel-sec-etf-gbp/LSE:XLIP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+725,iShares S&P 500 Matrls Sect ETF USD Acc GBP,IE00B4MKCJ84,https://www.ii.co.uk/etfs/ishares-sp-500-matrls-sect-etf-usd-acc-gbp/LSE:IMSU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+730,Vanguard ESG NA All Cap ETF USD Acc GBP,IE000O58J820,https://www.ii.co.uk/etfs/vanguard-esg-na-all-cap-etf-usd-acc-gbp/LSE:V3NB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+735,Invesco MSCI Emerging Markets ETF GBP,IE00B3DWVS88,https://www.ii.co.uk/etfs/invesco-msci-emerging-markets-etf-gbp/LSE:MXFP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+740,Xtrackers MSCI World Con Staples ETF 1C,IE00BM67HN09,https://www.ii.co.uk/etfs/xtrackers-msci-world-con-staples-etf-1c/LSE:XDWS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+745,iShares MSCI USA Scrn ETF USD Acc GBP,IE00BFNM3G45,https://www.ii.co.uk/etfs/ishares-msci-usa-scrn-etf-usd-acc-gbp/LSE:GPSA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+750,iShares € Ultrashort Bond ETF EUR Dist,IE00BCRY6557,https://www.ii.co.uk/etfs/ishares-ultrashort-bond-etf-eur-dist/LSE:ERNE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+755,Vanguard USD Corp 1-3yr Bd UCITS ETF GBP,IE00BDD48R20,https://www.ii.co.uk/etfs/vanguard-usd-corp-1-3yr-bd-ucits-etf-gbp/LSE:VUSC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+760,WisdomTree Europe Equity Income ETF Acc GBP,IE00BDF16007,https://www.ii.co.uk/etfs/wisdomtree-europe-equity-income-etf-acc-gbp/LSE:EEIP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+765,Amundi DJ Industrial Average ETF Dist GBP,FR0007056841,https://www.ii.co.uk/etfs/amundi-dj-industrial-average-etf-dist-gbp/LSE:DJEL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+770,Amundi IS Prime Europe ETF DR GBP,LU1931974262,https://www.ii.co.uk/etfs/amundi-is-prime-europe-etf-dr-gbp/LSE:PRIE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+775,HSBC Global Sukuk UCITS ETF C USD GBP,IE000E8WZD37,https://www.ii.co.uk/etfs/hsbc-global-sukuk-ucits-etf-c-usd-gbp/LSE:HBKS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+780,Invesco S&P 500 ETF (Dist) USD,IE00BYML9W36,https://www.ii.co.uk/etfs/invesco-sp-500-etf-dist-usd/LSE:SPXD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+785,Xtrackers MSCI USA Financials ETF 1D GBP,IE00BCHWNT26,https://www.ii.co.uk/etfs/xtrackers-msci-usa-financials-etf-1d-gbp/LSE:XSFN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+790,WisdomTree Broad Commodities ETF USD Acc GBP,IE00BKY4W127,https://www.ii.co.uk/etfs/wisdomtree-broad-commodities-etf-usd-acc-gbp/LSE:COMX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+795,iShares Core € Corp Bond ETF EUR Acc,IE00BF11F565,https://www.ii.co.uk/etfs/ishares-core-corp-bond-etf-eur-acc/LSE:IEAA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+800,iShares Agribusiness ETF USD Acc,IE00B6R52143,https://www.ii.co.uk/etfs/ishares-agribusiness-etf-usd-acc/LSE:ISAG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+805,JPM UK Eq Core ETF Act GBP Acc,IE0009YQE5W1,https://www.ii.co.uk/etfs/jpm-uk-eq-core-etf-act-gbp-acc/LSE:JUKC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+810,Invesco NASDAQ Nx tGnrtn 100 ETF Acc GBP,IE00BMD8KP97,https://www.ii.co.uk/etfs/invesco-nasdaq-nx-tgnrtn-100-etf-acc-gbp/LSE:EQJS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+815,UBS Factor MSCI USA Qul Scrn ETF USD dis GBP,IE00BX7RRJ27,https://www.ii.co.uk/etfs/ubs-factor-msci-usa-qul-scrn-etf-usd-dis-gbp/LSE:UC99,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+820,Franklin FTSE China UCITS ETF,IE00BHZRR147,https://www.ii.co.uk/etfs/franklin-ftse-china-ucits-etf/LSE:FLXC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+825,iShares MSCI USA Qul Div Advcd ETF $ Dis,IE00BKM4H312,https://www.ii.co.uk/etfs/ishares-msci-usa-qul-div-advcd-etf-dis/LSE:QDIV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+830,iShares $ Treasury Bd 0-3 Mth ETF USDAcc,IE000SSFEUS3,https://www.ii.co.uk/etfs/ishares-treasury-bd-0-3-mth-etf-usdacc/LSE:U03A,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+835,Invesco MSCI China All Shares Cnct ETF GBP,IE00BK80XL30,https://www.ii.co.uk/etfs/invesco-msci-china-all-shares-cnct-etf-gbp/LSE:MCHS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+840,Xtrackers MSCI ACAsiaExJp ESG Swp ETF 1C GBP,LU0322252171,https://www.ii.co.uk/etfs/xtrackers-msci-acasiaexjp-esg-swp-etf-1c-gbp/LSE:XAXJ,,ETF
+845,Invesco Financials S&P US Select Sec ETF,IE00B42Q4896,https://www.ii.co.uk/etfs/invesco-financials-sp-us-select-sec-etf/LSE:XLFS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+850,L&G India INR Government Bd ETF USD Dis GBP,IE00BL6K6H97,https://www.ii.co.uk/etfs/lg-india-inr-government-bd-etf-usd-dis-gbp/LSE:TIGG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+855,UBS S&P 500 Scrd & Scrn ETF USD dis GBP,IE00BHXMHK04,https://www.ii.co.uk/etfs/ubs-sp-500-scrd-scrn-etf-usd-dis-gbp/LSE:S5SD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+860,iShares $ Ultrashort Bond ETF USD Dist GBP,IE00BCRY6227,https://www.ii.co.uk/etfs/ishares-ultrashort-bond-etf-usd-dist-gbp/LSE:ERNU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+865,iShares MSCI EM Latin Amer ETF USD Dist,IE00B27YCK28,https://www.ii.co.uk/etfs/ishares-msci-em-latin-amer-etf-usd-dist/LSE:DLTM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+870,iShares China Large Cap ETF USD Dist USD,IE00B02KXK85,https://www.ii.co.uk/etfs/ishares-china-large-cap-etf-usd-dist-usd/LSE:IDFX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+875,WisdomTree Strategic Mtls ETF GBP H Acc,IE0003XI1PW0,https://www.ii.co.uk/etfs/wisdomtree-strategic-mtls-etf-gbp-h-acc/LSE:WENG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+880,Harbor Health Care UCITS ETF Acc,IE00BJQTJ848,https://www.ii.co.uk/etfs/harbor-health-care-ucits-etf-acc/LSE:WELL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+885,HSBC MSCI China ETF,IE00B44T3H88,https://www.ii.co.uk/etfs/hsbc-msci-china-etf/LSE:HMCD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+890,UBS MSCI Switzerland 20/35 ETF hGBP acc,LU1169830525,https://www.ii.co.uk/etfs/ubs-msci-switzerland-2035-etf-hgbp-acc/LSE:UC93,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+895,Invesco Global Actv ESG Eq ETF USD Acc,IE00BJQRDN15,https://www.ii.co.uk/etfs/invesco-global-actv-esg-eq-etf-usd-acc/LSE:IQSA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+900,L&G Healthcare Tech & Innovt ETF USD Acc,IE00BK5BC677,https://www.ii.co.uk/etfs/lg-healthcare-tech-innovt-etf-usd-acc/LSE:DOCT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+905,L&G Clean Water ETF,IE00BK5BC891,https://www.ii.co.uk/etfs/lg-clean-water-etf/LSE:GLUG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+910,PIMCO Adv US S/T HY Corp Bd ETF Inc GBP,IE00B7N3YW49,https://www.ii.co.uk/etfs/pimco-adv-us-st-hy-corp-bd-etf-inc-gbp/LSE:SSHY,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+915,Xtrackers MSCI USA Con Staples ETF 1D GBP,IE00BGQYRQ28,https://www.ii.co.uk/etfs/xtrackers-msci-usa-con-staples-etf-1d-gbp/LSE:XSCS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+920,iShares Edge MSCI USA Momt Fac ETF $ Acc,IE00BD1F4N50,https://www.ii.co.uk/etfs/ishares-edge-msci-usa-momt-fac-etf-acc/LSE:IUMO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+925,iShares Nasdaq US Biotech ETF USD Dist,IE00BDZVHG35,https://www.ii.co.uk/etfs/ishares-nasdaq-us-biotech-etf-usd-dist/LSE:BTEE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+930,iShares € Govt Bond 1-3yr ETF EUR Dist GBP,IE00B14X4Q57,https://www.ii.co.uk/etfs/ishares-govt-bond-1-3yr-etf-eur-dist-gbp/LSE:IBGS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+935,iShares Global Corp Bond ETF USD Acc,IE00BFM6TB42,https://www.ii.co.uk/etfs/ishares-global-corp-bond-etf-usd-acc/LSE:CRPA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+940,iShares $ Floating Rate Bd ETF USD Dist,IE00BZ048462,https://www.ii.co.uk/etfs/ishares-floating-rate-bd-etf-usd-dist/LSE:FLOT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+945,iShares Global Infras ETF USD Dist USD,IE00B1FZS467,https://www.ii.co.uk/etfs/ishares-global-infras-etf-usd-dist-usd/LSE:IDIN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+950,Invesco Consumer Discr S&P US SelSec ETF GBP,IE00B449XP68,https://www.ii.co.uk/etfs/invesco-consumer-discr-sp-us-selsec-etf-gbp/LSE:XLYP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+955,iShares MSCI Korea ETF USD Dist USD,IE00B0M63391,https://www.ii.co.uk/etfs/ishares-msci-korea-etf-usd-dist-usd/LSE:IDKO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+960,iShares S&P 500 EUR Hedged ETF Acc,IE00B3ZW0K18,https://www.ii.co.uk/etfs/ishares-sp-500-eur-hedged-etf-acc/LSE:IUSE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+965,WisdomTree BioRevolution ETF - USD Acc GBP,IE000O8KMPM1,https://www.ii.co.uk/etfs/wisdomtree-biorevolution-etf-usd-acc-gbp/LSE:WBIO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+970,Xtrackers Comdty ex Agri Swap ETF 3C GBP,LU0460391906,https://www.ii.co.uk/etfs/xtrackers-comdty-ex-agri-swap-etf-3c-gbp/LSE:XDBG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+975,iShares MSCI Japan ETF USD Acc,IE00B53QDK08,https://www.ii.co.uk/etfs/ishares-msci-japan-etf-usd-acc/LSE:CJPU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+980,Amundi US Treasury 1-3Y ETF Dist GBP,LU1407887162,https://www.ii.co.uk/etfs/amundi-us-treasury-1-3y-etf-dist-gbp/LSE:U13G,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+985,iShares Core MSCI World ETF USD Dist GBP,IE000OHHIBC6,https://www.ii.co.uk/etfs/ishares-core-msci-world-etf-usd-dist-gbp/LSE:IWDD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+990,iShares € HY Corp Bd ESG SRI ETF GBPHAcc,IE000YZVB4R7,https://www.ii.co.uk/etfs/ishares-hy-corp-bd-esg-sri-etf-gbphacc/LSE:EHYG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+995,iShares $ Treasury Bd 1-3y ETF USD Dist USD,IE00B14X4S71,https://www.ii.co.uk/etfs/ishares-treasury-bd-1-3y-etf-usd-dist-usd/LSE:IDBT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1000,Global X Video Games & Esports ETF D GBP,IE00BLR6Q650,https://www.ii.co.uk/etfs/global-x-video-games-esports-etf-d-gbp/LSE:HERG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1005,WisdomTree Globl Qual Div Gr ETF USD Acc,IE00BZ56SW52,https://www.ii.co.uk/etfs/wisdomtree-globl-qual-div-gr-etf-usd-acc/LSE:GGRA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1010,iShares Edge MSCI Wld Val Fctr ETF $Dist,IE00BFYTYS33,https://www.ii.co.uk/etfs/ishares-edge-msci-wld-val-fctr-etf-dist/LSE:IWVU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1015,L&G Asia Pacific ex Japan Equity ETF,IE00BFXR5W90,https://www.ii.co.uk/etfs/lg-asia-pacific-ex-japan-equity-etf/LSE:LGAP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1020,UBS BBG TIPS 10+ UCITS ETF hGBP dis GBP,LU1459803133,https://www.ii.co.uk/etfs/ubs-bbg-tips-10-ucits-etf-hgbp-dis-gbp/LSE:T10G,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1025,Amundi STOXX Europe 600 Hlthcare ETF Acc GBP,LU1834986900,https://www.ii.co.uk/etfs/amundi-stoxx-europe-600-hlthcare-etf-acc-gbp/LSE:CH5,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1030,L&G Longer Dated All Commodities ETF,IE00B4WPHX27,https://www.ii.co.uk/etfs/lg-longer-dated-all-commodities-etf/LSE:COMF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1035,Fidelity US Quality Income ETF Inc,IE00BYXVGX24,https://www.ii.co.uk/etfs/fidelity-us-quality-income-etf-inc/LSE:FUSD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1040,Xtrackers Vietnam Swap ETF 1C,LU0322252924,https://www.ii.co.uk/etfs/xtrackers-vietnam-swap-etf-1c/LSE:XVTD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1045,UBS Nasdaq-100 ETF USD dis GBP,IE0003RQ9F90,https://www.ii.co.uk/etfs/ubs-nasdaq-100-etf-usd-dis-gbp/LSE:QQQE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1050,Xtrackers MSCI EMU ETF 1D GBP,LU0846194776,https://www.ii.co.uk/etfs/xtrackers-msci-emu-etf-1d-gbp/LSE:XD5E,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1055,REX Tech Innovation Premium Inc ETF Dis,IE000HF69TA9,https://www.ii.co.uk/etfs/rex-tech-innovation-premium-inc-etf-dis/LSE:FEPI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1060,Xtrackers MSCI Europe Indstr Scrn ETF 1C GBP,LU0292106084,https://www.ii.co.uk/etfs/xtrackers-msci-europe-indstr-scrn-etf-1c-gbp/LSE:XSNR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1065,Xtrackers MSCI Europe Scr ETF 1C GBP,LU0322253732,https://www.ii.co.uk/etfs/xtrackers-msci-europe-scr-etf-1c-gbp/LSE:XEUM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1070,Invesco MSCI World Unvsl Scrn ETF GBP,IE00BJQRDK83,https://www.ii.co.uk/etfs/invesco-msci-world-unvsl-scrn-etf-gbp/LSE:ESGG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1075,iShares Core € Corp Bond ETF GBP H Dist,IE00BDFJYN35,https://www.ii.co.uk/etfs/ishares-core-corp-bond-etf-gbp-h-dist/LSE:IEAH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1080,iShares $ Short Dur Corp Bd ETF USD Dist GBP,IE00BCRY5Y77,https://www.ii.co.uk/etfs/ishares-short-dur-corp-bd-etf-usd-dist-gbp/LSE:IGSD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1085,Invesco Consumer Discr S&P US SelSec ETF,IE00B449XP68,https://www.ii.co.uk/etfs/invesco-consumer-discr-sp-us-selsec-etf/LSE:XLYS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1090,Xtrackers MSCI Taiwan ETF 1C,LU0292109187,https://www.ii.co.uk/etfs/xtrackers-msci-taiwan-etf-1c/LSE:XMTD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1095,Invesco Dow Jones US Insurance ETF $ Acc GBP,IE0007UJ6IE0,https://www.ii.co.uk/etfs/invesco-dow-jones-us-insurance-etf-acc-gbp/LSE:INSX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1100,iShares € Govt Bond 1-3yr ETF EUR Acc GBP,IE00B3VTMJ91,https://www.ii.co.uk/etfs/ishares-govt-bond-1-3yr-etf-eur-acc-gbp/LSE:CE31,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1105,VanEck Sust Fut of Food ETF A USD Acc GBP,IE0005B8WVT6,https://www.ii.co.uk/etfs/vaneck-sust-fut-of-food-etf-a-usd-acc-gbp/LSE:VEGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1110,iShares S&P 500 Indstr Sect ETF USD Acc,IE00B4LN9N13,https://www.ii.co.uk/etfs/ishares-sp-500-indstr-sect-etf-usd-acc/LSE:IUIS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1115,First Trust Cloud Computing ETF A USD,IE00BFD2H405,https://www.ii.co.uk/etfs/first-trust-cloud-computing-etf-a-usd/LSE:SKYU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1120,HSBC FTSE EPRA/NAREIT Developed ETF,IE00B5L01S80,https://www.ii.co.uk/etfs/hsbc-ftse-epranareit-developed-etf/LSE:HPRD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1125,iShares MSCI Taiwan ETF USD Dist USD,IE00B0M63623,https://www.ii.co.uk/etfs/ishares-msci-taiwan-etf-usd-dist-usd/LSE:IDTW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1130,UBS Core MSCI World ETF hGBP dis,IE000KLSD4Y8,https://www.ii.co.uk/etfs/ubs-core-msci-world-etf-hgbp-dis/LSE:WRDG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1135,L&G Japan Equity ETF,IE00BFXR5T61,https://www.ii.co.uk/etfs/lg-japan-equity-etf/LSE:LGJP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1140,Vanguard FTSE North America ETF USD Acc,IE00BK5BQW10,https://www.ii.co.uk/etfs/vanguard-ftse-north-america-etf-usd-acc/LSE:VNRA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1145,Invesco USD AT1 CoCo Bd ETF USD Dist GBP,IE00BG0TQB18,https://www.ii.co.uk/etfs/invesco-usd-at1-coco-bd-etf-usd-dist-gbp/LSE:AT1D,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1150,Vanguard Global Aggt Bd ETF USD H Acc,IE00BG47KJ78,https://www.ii.co.uk/etfs/vanguard-global-aggt-bd-etf-usd-h-acc/LSE:VAGU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1155,WisdomTree Broad Commodities ETF USD Acc,IE00BKY4W127,https://www.ii.co.uk/etfs/wisdomtree-broad-commodities-etf-usd-acc/LSE:PCOM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1160,iShares MSCI Eurp Md-Cp Eq Wgt UCITS ETF GBP,IE00BQN1KC32,https://www.ii.co.uk/etfs/ishares-msci-eurp-md-cp-eq-wgt-ucits-etf-gbp/LSE:IEFS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1165,HSBC MSCI World Islamic Scrn ETF USD Acc,IE000X9FTI22,https://www.ii.co.uk/etfs/hsbc-msci-world-islamic-scrn-etf-usd-acc/LSE:HIWO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1170,Market Access NYSE Arca GoldBUGS ETF GBP,LU0259322260,https://www.ii.co.uk/etfs/market-access-nyse-arca-goldbugs-etf-gbp/LSE:GOLB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1175,Invesco MDAX® ETF Acc GBP,IE00BHJYDV33,https://www.ii.co.uk/etfs/invesco-mdax-etf-acc-gbp/LSE:PEAM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1180,iShares MSCI World Islamic ETF USD Dist,IE00B27YCN58,https://www.ii.co.uk/etfs/ishares-msci-world-islamic-etf-usd-dist/LSE:ISDW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1185,L&G EM Govt Bd USD 0-5 Yr Scrn ETFUSDDis GBP,IE00BLRPQP15,https://www.ii.co.uk/etfs/lg-em-govt-bd-usd-0-5-yr-scrn-etfusddis-gbp/LSE:EMDG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1190,JPM USD Emerging Mkts Sov Bd ETF GBPIncH,IE00BJLTWS02,https://www.ii.co.uk/etfs/jpm-usd-emerging-mkts-sov-bd-etf-gbpinch/LSE:JMBP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1195,iShares $ TIPS ETF GBP H Acc,IE000B3NURO6,https://www.ii.co.uk/etfs/ishares-tips-etf-gbp-h-acc/LSE:ITPA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1200,Xtrackers MSCI World Con Discret ETF 1C,IE00BM67HP23,https://www.ii.co.uk/etfs/xtrackers-msci-world-con-discret-etf-1c/LSE:XDWC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1205,Invesco Preferred Shares ETF GBP,IE00BDVJF675,https://www.ii.co.uk/etfs/invesco-preferred-shares-etf-gbp/LSE:PRFP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1210,Amundi Global Bioenergy UCITS ETF USDAcc,LU1681046188,https://www.ii.co.uk/etfs/amundi-global-bioenergy-ucits-etf-usdacc/LSE:CWEU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1215,iShares Dev Mkts Prpty Yld ETF USD Acc,IE00BFM6T921,https://www.ii.co.uk/etfs/ishares-dev-mkts-prpty-yld-etf-usd-acc/LSE:DPYA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1220,First Trust Eurozone AlphaDEX® ETF A GBP,IE00B8X9NY41,https://www.ii.co.uk/etfs/first-trust-eurozone-alphadex-etf-a-gbp/LSE:FEUZ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1225,Invesco NASDAQ-100 ESG ETF USD Acc,IE000COQKPO9,https://www.ii.co.uk/etfs/invesco-nasdaq-100-esg-etf-usd-acc/LSE:NESG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1230,YieldMax Semiconductor Opt Inc ETF $ Dis,IE000T8QD852,https://www.ii.co.uk/etfs/yieldmax-semiconductor-opt-inc-etf-dis/LSE:CHPY,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1235,iShares Edge S&P 500 Min Vol ETF USD Acc,IE00B6SPMN59,https://www.ii.co.uk/etfs/ishares-edge-sp-500-min-vol-etf-usd-acc/LSE:SPMV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1240,Xtrackers MSCI Korea ETF 1C,LU0292100046,https://www.ii.co.uk/etfs/xtrackers-msci-korea-etf-1c/LSE:XKSD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1245,Avantis Global Small Cap Val ETF USD Acc,IE0003R87OG3,https://www.ii.co.uk/etfs/avantis-global-small-cap-val-etf-usd-acc/LSE:AVGS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1250,Invesco US Trs Bd 0-1 Yr ETF USD Acc,IE00BKWD3D06,https://www.ii.co.uk/etfs/invesco-us-trs-bd-0-1-yr-etf-usd-acc/LSE:TRIA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1255,Vanguard USD EmMktsGovBd UCITS ETF,IE00BZ163L38,https://www.ii.co.uk/etfs/vanguard-usd-emmktsgovbd-ucits-etf/LSE:VDET,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1260,UBS Nasdaq-100 UCITS ETF H GBP Acc,IE000G6J9EE6,https://www.ii.co.uk/etfs/ubs-nasdaq-100-ucits-etf-h-gbp-acc/LSE:QQQG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1265,iShares MSCI EM Consumer Gr ETF USD Acc,IE00BKM4H197,https://www.ii.co.uk/etfs/ishares-msci-em-consumer-gr-etf-usd-acc/LSE:CEMG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1270,State Street SPDR MSCI World Value ETF,IE00BJXRT813,https://www.ii.co.uk/etfs/state-street-spdr-msci-world-value-etf/LSE:WVAL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1275,First Trust NYSE Arca Biotech ETFAUSDAcc GBP,IE00BL0L0H60,https://www.ii.co.uk/etfs/first-trust-nyse-arca-biotech-etfausdacc-gbp/LSE:FBT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1280,REX Tech Innovation Income & Gr ETF Dis GBP,IE000OBK3UE0,https://www.ii.co.uk/etfs/rex-tech-innovation-income-gr-etf-dis-gbp/LSE:FEPD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1285,HSBC MSCI Pacific ex Japan ETF,IE00B5SG8Z57,https://www.ii.co.uk/etfs/hsbc-msci-pacific-ex-japan-etf/LSE:HMXD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1290,iShares S&P 500 Matrls Sect ETF USD Acc,IE00B4MKCJ84,https://www.ii.co.uk/etfs/ishares-sp-500-matrls-sect-etf-usd-acc/LSE:IUMS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1295,WisdomTree New Economy RE ETF - USD Acc GBP,IE000MO2MB07,https://www.ii.co.uk/etfs/wisdomtree-new-economy-re-etf-usd-acc-gbp/LSE:WTNR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1300,Global X Clean Water ETF USD Acc,IE000BWKUES1,https://www.ii.co.uk/etfs/global-x-clean-water-etf-usd-acc/LSE:AQWA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1305,Xtrackers MSCI Malaysia ETF 1C,LU0514694370,https://www.ii.co.uk/etfs/xtrackers-msci-malaysia-etf-1c/LSE:XCS3,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1310,First Trust Dow Jones Internet ETF A USD,IE00BG0SSC32,https://www.ii.co.uk/etfs/first-trust-dow-jones-internet-etf-a-usd/LSE:FDNU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1315,VanEck New China ETF GBP,IE0000H445G8,https://www.ii.co.uk/etfs/vaneck-new-china-etf-gbp/LSE:CEBG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1320,Global X Internet of Things ETF USD Acc GBP,IE00BLCHJT74,https://www.ii.co.uk/etfs/global-x-internet-of-things-etf-usd-acc-gbp/LSE:SNSG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1325,iShares MSCI USA Md-Cp Eq Wgt UCITS ETF,IE00BD1F4K20,https://www.ii.co.uk/etfs/ishares-msci-usa-md-cp-eq-wgt-ucits-etf/LSE:IUSZ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1330,Stt Strt SPDR S&P 500 Ldrs ETF GBP,IE00BH4GPZ28,https://www.ii.co.uk/etfs/stt-strt-spdr-sp-500-ldrs-etf-gbp/LSE:SPPY LN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1335,iShares Edge MSCI USA Momt Fac ETF $Dist,IE00BFF5RZ82,https://www.ii.co.uk/etfs/ishares-edge-msci-usa-momt-fac-etf-dist/LSE:IUMD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1340,iShares $ Short Dur Corp Bd ETF USD Acc,IE00BYXYYP94,https://www.ii.co.uk/etfs/ishares-short-dur-corp-bd-etf-usd-acc/LSE:SDIA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1345,Amundi MSCI Disruptive Tech ETF Acc,LU2023678282,https://www.ii.co.uk/etfs/amundi-msci-disruptive-tech-etf-acc/LSE:UNIC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1350,iShares € Govt Bond 3-7yr ETF EUR Acc GBP,IE00B3VTML14,https://www.ii.co.uk/etfs/ishares-govt-bond-3-7yr-etf-eur-acc-gbp/LSE:CE71,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1355,Vanguard Global Govt Bd ETF GBP H Dis,IE000A2E14U6,https://www.ii.co.uk/etfs/vanguard-global-govt-bd-etf-gbp-h-dis/LSE:VGGP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1360,WisdomTree Europe SmallCap Div UCITS ETF,IE00BQZJC527,https://www.ii.co.uk/etfs/wisdomtree-europe-smallcap-div-ucits-etf/LSE:DFEE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1365,Xtrackers S&P 500 Swap ETF 1C,LU0490618542,https://www.ii.co.uk/etfs/xtrackers-sp-500-swap-etf-1c/LSE:XSPU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1370,Amundi MSCI India Swap ETF USD Acc USD,FR0010375766,https://www.ii.co.uk/etfs/amundi-msci-india-swap-etf-usd-acc-usd/LSE:INRU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1375,Amundi Core MSCI World ETF Acc USD,IE000BI8OT95,https://www.ii.co.uk/etfs/amundi-core-msci-world-etf-acc-usd/LSE:MWRU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1380,WisdomTree Space Economy ETF USD Acc USD,IE000VDH1PG3,https://www.ii.co.uk/etfs/wisdomtree-space-economy-etf-usd-acc-usd/LSE:WSPC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1385,PIMCO Adv US S/T HY Corp Bd ETF USD Acc,IE00BVZ6SQ11,https://www.ii.co.uk/etfs/pimco-adv-us-st-hy-corp-bd-etf-usd-acc/LSE:STYC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1390,UBS MSCI World ETF USD dis GBP,LU0340285161,https://www.ii.co.uk/etfs/ubs-msci-world-etf-usd-dis-gbp/LSE:UC55,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1395,WisdomTree US Quality Growth ETF USD Acc,IE000YGEAK03,https://www.ii.co.uk/etfs/wisdomtree-us-quality-growth-etf-usd-acc/LSE:QGRW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1400,HSBC MSCI Emerg Mkts ETF USD Acc,IE000KCS7J59,https://www.ii.co.uk/etfs/hsbc-msci-emerg-mkts-etf-usd-acc/LSE:HEMA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1405,Amundi MSCI EMU ESG Sel ETF DR EUR C GBP,LU1602144575,https://www.ii.co.uk/etfs/amundi-msci-emu-esg-sel-etf-dr-eur-c-gbp/LSE:CMU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1410,HSBC MSCI China ETF USD (Acc),IE0007P4PBU1,https://www.ii.co.uk/etfs/hsbc-msci-china-etf-usd-acc/LSE:HCHA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1415,iShares Conservative Ptf ETF GBP H Acc,IE00BLP53N06,https://www.ii.co.uk/etfs/ishares-conservative-ptf-etf-gbp-h-acc/LSE:MACG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1420,VanEck JPM EM LC Bd ETF A USD,IE00BDS67326,https://www.ii.co.uk/etfs/vaneck-jpm-em-lc-bd-etf-a-usd/LSE:EMLC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1425,iShares MSCI EM Consumer Gr ETF USD Acc GBP,IE00BKM4H197,https://www.ii.co.uk/etfs/ishares-msci-em-consumer-gr-etf-usd-acc-gbp/LSE:CEMX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1430,iShares JPMorgan EM Lcl Govt Bd ETF$Acc,IE00BFZPF546,https://www.ii.co.uk/etfs/ishares-jpmorgan-em-lcl-govt-bd-etfacc/LSE:EMGA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1435,REX Tech Innovation Income & Gr ETF Dis,IE000OBK3UE0,https://www.ii.co.uk/etfs/rex-tech-innovation-income-gr-etf-dis/LSE:FEGI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1440,Xtrackers MSCI World Quality ESG ETF 1C GBP,IE0003NQ0IY5,https://www.ii.co.uk/etfs/xtrackers-msci-world-quality-esg-etf-1c-gbp/LSE:XWQS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1445,Amundi IS Core Global Gvt Bd ETF DR GBP,LU1437016204,https://www.ii.co.uk/etfs/amundi-is-core-global-gvt-bd-etf-dr-gbp/LSE:GGOV,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1450,Xtrackers Eurz Govt Bd ETF 1C EUR,LU0290355717,https://www.ii.co.uk/etfs/xtrackers-eurz-govt-bd-etf-1c-eur/LSE:XGLE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1455,Invesco ChiNext 50 ETF USD Acc,IE000AWRDWI7,https://www.ii.co.uk/etfs/invesco-chinext-50-etf-usd-acc/LSE:CN50,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1460,Xtrackers World Small Cap ETF 1C,IE000F354Q61,https://www.ii.co.uk/etfs/xtrackers-world-small-cap-etf-1c/LSE:XSWC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1465,Amundi Euro Overnight Return ETF Acc USD,FR0010510800,https://www.ii.co.uk/etfs/amundi-euro-overnight-return-etf-acc-usd/LSE:CSHD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1470,WisdomTree US Quality Div Gr ETF GBPH,IE000IGMB3E1,https://www.ii.co.uk/etfs/wisdomtree-us-quality-div-gr-etf-gbph/LSE:DGRB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1475,Xtrackers US Treasuries ETF 1D,LU0429459356,https://www.ii.co.uk/etfs/xtrackers-us-treasuries-etf-1d/LSE:XUTD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1480,iShares Global Infl Lnkd GovBd ETF€HDist,IE00BD8PH174,https://www.ii.co.uk/etfs/ishares-global-infl-lnkd-govbd-etfhdist/LSE:GILE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1485,Amundi MSCI AC AsiaPac Ex Jpn ETF Acc GBP,LU1900068328,https://www.ii.co.uk/etfs/amundi-msci-ac-asiapac-ex-jpn-etf-acc-gbp/LSE:AEJL,,ETF
+1490,HSBC Japan Screened Equity ETF GBP,IE00BKY55S33,https://www.ii.co.uk/etfs/hsbc-japan-screened-equity-etf-gbp/LSE:HSJP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1495,HSBC MSCI World ETF USD (Acc),IE000UQND7H4,https://www.ii.co.uk/etfs/hsbc-msci-world-etf-usd-acc/LSE:HMWA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1500,iShares € Corp Bond 1-5yr ETF EUR Dist,IE00B4L60045,https://www.ii.co.uk/etfs/ishares-corp-bond-1-5yr-etf-eur-dist/LSE:IE15,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1505,Vanguard ESG EUR Corporate Bd ETF EURAcc GBP,IE000QADMYA3,https://www.ii.co.uk/etfs/vanguard-esg-eur-corporate-bd-etf-euracc-gbp/LSE:V3RE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1510,JPM Europe Rsrch Enh Eq Act ETF EUR Acc,IE00BF4G7183,https://www.ii.co.uk/etfs/jpm-europe-rsrch-enh-eq-act-etf-eur-acc/LSE:JREE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1515,Xtrackers MSCI Japan ESG ETF 1C GBP,IE00BG36TC12,https://www.ii.co.uk/etfs/xtrackers-msci-japan-esg-etf-1c-gbp/LSE:XESJ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1520,WisdomTree Flt Rate Trsy Bnd ETF USD Acc,IE00BJJYYX67,https://www.ii.co.uk/etfs/wisdomtree-flt-rate-trsy-bnd-etf-usd-acc/LSE:TFRN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1525,Schroder Global Equity Actv ETF Acc USD GBP,IE000BNLRWE6,https://www.ii.co.uk/etfs/schroder-global-equity-actv-etf-acc-usd-gbp/LSE:SAEG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1530,WisdomTree Europe Defence ETF EUR Acc USD,IE0002Y8CX98,https://www.ii.co.uk/etfs/wisdomtree-europe-defence-etf-eur-acc-usd/LSE:EUDF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1535,JPM Carb Transition Glbl Eq(CTB)ETF$Acc,IE00BMDWYZ92,https://www.ii.co.uk/etfs/jpm-carb-transition-glbl-eqctbetfacc/LSE:JPCT,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1540,iShares MSCI EMU USD Hedged ETF Acc,IE00BWZN1T31,https://www.ii.co.uk/etfs/ishares-msci-emu-usd-hedged-etf-acc/LSE:EMUU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1545,iShares $ Treasury Bd 20+y ETF EUR HDist,IE00BD8PGZ49,https://www.ii.co.uk/etfs/ishares-treasury-bd-20y-etf-eur-hdist/LSE:DTLE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1550,WisdomTree Strategic Mtls ETF USD Acc GBP,IE0007UE04X9,https://www.ii.co.uk/etfs/wisdomtree-strategic-mtls-etf-usd-acc-gbp/LSE:NRUC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1555,UBS S&P 500 Equal Weight SF ETF USD acc GBP,IE0008GBXCA4,https://www.ii.co.uk/etfs/ubs-sp-500-equal-weight-sf-etf-usd-acc-gbp/LSE:S5EQ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1560,iShares $ Trs Bd 7-10yr ETF GBP H Acc,IE000R4RN8C3,https://www.ii.co.uk/etfs/ishares-trs-bd-7-10yr-etf-gbp-h-acc/LSE:IGTA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1565,UBS MSCI Japan Socially Rspn ETF JPY dis GBP,LU1230561679,https://www.ii.co.uk/etfs/ubs-msci-japan-socially-rspn-etf-jpy-dis-gbp/LSE:JPSR,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1570,UBS MSCI Canada ETF CAD acc USD,LU0950672807,https://www.ii.co.uk/etfs/ubs-msci-canada-etf-cad-acc-usd/LSE:CANA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1575,L&G Multi-Strategy Enhanced Cmdts £H ETF,IE00011CA799,https://www.ii.co.uk/etfs/lg-multi-strategy-enhanced-cmdts-h-etf/LSE:ECGH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1580,Global X Europe Fcs Dfnc Tech ETF € Acc USD,IE000WRQ9RR1,https://www.ii.co.uk/etfs/global-x-europe-fcs-dfnc-tech-etf-acc-usd/LSE:EDEF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1585,Xtrackers Harvest Chi Govt Bd ETF 1D,LU1094612022,https://www.ii.co.uk/etfs/xtrackers-harvest-chi-govt-bd-etf-1d/LSE:CGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1590,YieldMax Fut of Dfnc Opt Inc ETF $ Acc,IE000TAA0GK0,https://www.ii.co.uk/etfs/yieldmax-fut-of-dfnc-opt-inc-etf-acc/LSE:NATY,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1595,WisdomTree New Economy RE ETF - USD Acc,IE000MO2MB07,https://www.ii.co.uk/etfs/wisdomtree-new-economy-re-etf-usd-acc/LSE:WTRE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1600,VanEck Circular Economy ETF A USD Acc GBP,IE0001J5A2T9,https://www.ii.co.uk/etfs/vaneck-circular-economy-etf-a-usd-acc-gbp/LSE:REUG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1605,Goshawk Global Balanced UCITS ETF,IE00BL643144,https://www.ii.co.uk/etfs/goshawk-global-balanced-ucits-etf/LSE:ROE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1610,L&G China CNY Bond ETF GBP,IE00BLRPQL76,https://www.ii.co.uk/etfs/lg-china-cny-bond-etf-gbp/LSE:DRGG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1615,WisdomTree Eurozone Qual Div Gr ETF EUR,IE00BZ56SY76,https://www.ii.co.uk/etfs/wisdomtree-eurozone-qual-div-gr-etf-eur/LSE:EGRW,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1620,JPM Global HY Corp BdMlt-Fc ETFActUSDAcc,IE00BKKCKJ46,https://www.ii.co.uk/etfs/jpm-global-hy-corp-bdmlt-fc-etfactusdacc/LSE:JGHY,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1625,WisdomTree Flt Rate Trsy Bnd ETF USD Acc GBP,IE00BJJYYX67,https://www.ii.co.uk/etfs/wisdomtree-flt-rate-trsy-bnd-etf-usd-acc-gbp/LSE:TFRP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1630,Amundi IS MSCI Em Asia ETF-C USD,LU1681044563,https://www.ii.co.uk/etfs/amundi-is-msci-em-asia-etf-c-usd/LSE:AASU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1635,Xtrackers US Treas Ultrashort ETF 1C GBP,IE00BM97MR69,https://www.ii.co.uk/etfs/xtrackers-us-treas-ultrashort-etf-1c-gbp/LSE:XT01,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1640,JPM Global Aggt Bd Act UC ETF GBP H Acc,IE0000F1IQZ8,https://www.ii.co.uk/etfs/jpm-global-aggt-bd-act-uc-etf-gbp-h-acc/LSE:JAGP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1645,Franklin U.S. Equity ETF GBP,IE00BF2B0P08,https://www.ii.co.uk/etfs/franklin-us-equity-etf-gbp/LSE:FLXU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1650,WisdomTree US Efficient Core ETF USD Acc,IE000KF370H3,https://www.ii.co.uk/etfs/wisdomtree-us-efficient-core-etf-usd-acc/LSE:NTSX,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1655,iShares $ Corp Bd ESG SRI ETF GBP HdgInc,IE00BMWPV702,https://www.ii.co.uk/etfs/ishares-corp-bd-esg-sri-etf-gbp-hdginc/LSE:SUOP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1660,Global X CleanTech ETF USD Acc,IE00BMH5YL08,https://www.ii.co.uk/etfs/global-x-cleantech-etf-usd-acc/LSE:CTEK,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1665,iShares iBonds Dec 27 Trm $ Trs ETF $Acc,IE0004OYBZA6,https://www.ii.co.uk/etfs/ishares-ibonds-dec-27-trm-trs-etf-acc/LSE:IT27,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1670,iShares JPMorgan $ EM Corp Bd ETF $ Acc,IE00BFM6TD65,https://www.ii.co.uk/etfs/ishares-jpmorgan-em-corp-bd-etf-acc/LSE:EMCA,You can hold this ETF in a Trading Account,ETF
+1675,Alpha SICAV Fair Oaks AAA CLO ETF EURInc EUR,LU2785470191,https://www.ii.co.uk/etfs/alpha-sicav-fair-oaks-aaa-clo-etf-eurinc-eur/LSE:FAAA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1680,Xtrackers MSCI EM LATAM Swap ETF 1C USD,LU0292108619,https://www.ii.co.uk/etfs/xtrackers-msci-em-latam-swap-etf-1c-usd/LSE:XMLD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1685,Amundi MSCI Millennials ETF Acc GBP,LU2023678449,https://www.ii.co.uk/etfs/amundi-msci-millennials-etf-acc-gbp/LSE:MILL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1690,iShares EURO STOXX Banks 30-15 ETF (DE),DE0006289309,https://www.ii.co.uk/etfs/ishares-euro-stoxx-banks-30-15-etf-de/XETRA:EXX1,,ETF
+1695,Xtrackers MSCI USA Swap ETF 1C,LU0274210672,https://www.ii.co.uk/etfs/xtrackers-msci-usa-swap-etf-1c/LSE:XMUD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1700,VanEck Eur Equal Weight Scrn UCITS ETF USD,NL0010731816,https://www.ii.co.uk/etfs/vaneck-eur-equal-weight-scrn-ucits-etf-usd/LSE:TEET,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1705,Global X S&P 500® Annual Tail Hedge ETF GBP,IE000HGH8PV2,https://www.ii.co.uk/etfs/global-x-sp-500-annual-tail-hedge-etf-gbp/LSE:SAHP,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1710,WisdomTree US Eqty Income ETF GBP Hdg Ac,IE00BD6RZZ53,https://www.ii.co.uk/etfs/wisdomtree-us-eqty-income-etf-gbp-hdg-ac/LSE:DHSG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1715,Invesco S&P 500 Equal Weight Swap ETF,IE0000TZZ2B2,https://www.ii.co.uk/etfs/invesco-sp-500-equal-weight-swap-etf/LSE:SPWS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1720,Global X SuperDividend ETF USD Cap,IE000YICM5P9,https://www.ii.co.uk/etfs/global-x-superdividend-etf-usd-cap/LSE:SDIU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1725,HSBC FTSE EPRA NAREIT Dev ETF USD (Acc),IE000G6GSP88,https://www.ii.co.uk/etfs/hsbc-ftse-epra-nareit-dev-etf-usd-acc/LSE:HPRA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1730,WisdomTree Global Value ETF - USD Acc GBP,IE000D1017N2,https://www.ii.co.uk/etfs/wisdomtree-global-value-etf-usd-acc-gbp/LSE:VLUG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1735,First Trust Indxx NextG UCITS ETF A Acc,IE00BWTNM743,https://www.ii.co.uk/etfs/first-trust-indxx-nextg-ucits-etf-a-acc/LSE:NXTU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1740,Invesco Emerging Markets USD Bond ETF USD,IE00BF51K132,https://www.ii.co.uk/etfs/invesco-emerging-markets-usd-bond-etf-usd/LSE:PEMD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1745,FinEx Tradable Russian Corp Bds ETF USD,IE00BD5FH213,https://www.ii.co.uk/etfs/finex-tradable-russian-corp-bds-etf-usd/LSE:FXRU,You can hold this ETF in a Trading Account,ETF
+1750,Amundi US$ Infl Expct 10Y ETF Acc,LU1390062831,https://www.ii.co.uk/etfs/amundi-us-infl-expct-10y-etf-acc/LSE:INFU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1755,First Trust Indxx Fut Ecoy Mtls ETFA$Acc,IE000UDFKE13,https://www.ii.co.uk/etfs/first-trust-indxx-fut-ecoy-mtls-etfaacc/LSE:METL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1760,iShares US Mortg Backed Secs ETF USD Dis,IE00BZ6V7883,https://www.ii.co.uk/etfs/ishares-us-mortg-backed-secs-etf-usd-dis/LSE:IMBS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1765,Amundi IS JPX-Nikkei 400 ETF-C JPY,LU1681039050,https://www.ii.co.uk/etfs/amundi-is-jpx-nikkei-400-etf-c-jpy/EURONEXT:JPNY,You can hold this ETF in a Trading Account,ETF
+1770,Xtrackers EUR HY Corp Bond ETF 1D EUR,LU1109942653,https://www.ii.co.uk/etfs/xtrackers-eur-hy-corp-bond-etf-1d-eur/LSE:XHYG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1775,Xtrackers World Small Cap ETF 1D,IE000ISS8DB2,https://www.ii.co.uk/etfs/xtrackers-world-small-cap-etf-1d/LSE:XSWD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1780,Vanguard USD EmMktsGovBd ETFUSDAcc,IE00BGYWCB81,https://www.ii.co.uk/etfs/vanguard-usd-emmktsgovbd-etfusdacc/LSE:VDEA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1785,iShares Global Corp Bond ETF USD H Acc,IE00BF3N6Z78,https://www.ii.co.uk/etfs/ishares-global-corp-bond-etf-usd-h-acc/LSE:CRPU,You can hold this ETF in a Trading Account,ETF
+1790,Vanguard ESG NA All Cap ETF USD Inc,IE000L2ZNB07,https://www.ii.co.uk/etfs/vanguard-esg-na-all-cap-etf-usd-inc/LSE:V3NL,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1795,Infrastructure Capital Pref Inc ETF Dis,IE0008LRGGP4,https://www.ii.co.uk/etfs/infrastructure-capital-pref-inc-etf-dis/LSE:PFFI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1800,iShares 1-3 Year Treasury Bond ETF,US4642874576,https://www.ii.co.uk/etfs/ishares-1-3-year-treasury-bond-etf/NASDAQ:SHY,You can hold this ETF in a SIPP and Trading Account,ETF
+1805,WisdomTree Eurozone Effict Cr ETF EURAcc GBP,IE000OV4XWA3,https://www.ii.co.uk/etfs/wisdomtree-eurozone-effict-cr-etf-euracc-gbp/LSE:WEEC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1810,Franklin US Mega Cap 100 ETF USD Acc GBP,IE0008M1R3N4,https://www.ii.co.uk/etfs/franklin-us-mega-cap-100-etf-usd-acc-gbp/LSE:U100,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1815,Xtrackers MSCI EM Asia Scr Swp ETF 1C,LU0292107991,https://www.ii.co.uk/etfs/xtrackers-msci-em-asia-scr-swp-etf-1c/LSE:XMAD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1820,Xtrackers MSCI EM Asia Scr Swp ETF 1C,LU0292107991,https://www.ii.co.uk/etfs/xtrackers-msci-em-asia-scr-swp-etf-1c/LSE:XMAD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1825,UBS MSCI UK IMI Sclly Rspnb ETF GBP acc,IE00BMP3HM86,https://www.ii.co.uk/etfs/ubs-msci-uk-imi-sclly-rspnb-etf-gbp-acc/LSE:UKSA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1830,Invesco Emerging Markets Enh Eq ETF $Acc,IE000U07IGB1,https://www.ii.co.uk/etfs/invesco-emerging-markets-enh-eq-etf-acc/LSE:IQMA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1835,IShares S&P 500 Top 20 ETF USD Dist GBP,IE000HIHKYJ1,https://www.ii.co.uk/etfs/ishares-sp-500-top-20-etf-usd-dist-gbp/LSE:S2P0,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1840,L&G Digital Payments ETF,IE00BF92J153,https://www.ii.co.uk/etfs/lg-digital-payments-etf/LSE:DPAY,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1845,Amundi Global Govt Bd ETF Dist GBP,LU2099288503,https://www.ii.co.uk/etfs/amundi-global-govt-bd-etf-dist-gbp/LSE:GOUD,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1850,Vanguard ESG EUR Corporate Bd ETF EURDis GBP,IE000F37PGZ3,https://www.ii.co.uk/etfs/vanguard-esg-eur-corporate-bd-etf-eurdis-gbp/LSE:V3RF,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1855,First Trust Capital Stngth ETF A USD Acc,IE00BL0L0D23,https://www.ii.co.uk/etfs/first-trust-capital-stngth-etf-a-usd-acc/LSE:FTCS,You can hold this ETF in a Trading Account,ETF
+1860,Amundi Stoxx Europe Defense UCITS ETFAcc USD,LU3038520774,https://www.ii.co.uk/etfs/amundi-stoxx-europe-defense-ucits-etfacc-usd/LSE:DEFS,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1865,Amundi US Treasury 7-10Y ETF GBP HDist,LU1407888483,https://www.ii.co.uk/etfs/amundi-us-treasury-7-10y-etf-gbp-hdist/LSE:U71H,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1870,JPM Global Eqy Prm Inc Act UC ETF USDAcc,IE000WX7BVB0,https://www.ii.co.uk/etfs/jpm-global-eqy-prm-inc-act-uc-etf-usdacc/LSE:JEGA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1875,First Trust US Equity Income ETF A,IE00BZBW4Z27,https://www.ii.co.uk/etfs/first-trust-us-equity-income-etf-a/LSE:UIND,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1880,Amerant Latin American Debt ETF Dis,IE000Y187J49,https://www.ii.co.uk/etfs/amerant-latin-american-debt-etf-dis/LSE:RNTA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1885,JH US Enhanced Infla ETF GBP H,IE00BN0T9H70,https://www.ii.co.uk/etfs/jh-us-enhanced-infla-etf-gbp-h/LSE:TING,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1890,Franklin European Qual Div UCITS ETF€Acc USD,IE000IMGE5W5,https://www.ii.co.uk/etfs/franklin-european-qual-div-ucits-etfacc-usd/LSE:DVDE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1895,Avantis Emerging Markets Eq ETF USD Acc EUR,IE000K975W13,https://www.ii.co.uk/etfs/avantis-emerging-markets-eq-etf-usd-acc-eur/XETRA:AVEM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1900,Schroder Glb IG Corp Bd Act ETF Acc USD,IE000FGFJT15,https://www.ii.co.uk/etfs/schroder-glb-ig-corp-bd-act-etf-acc-usd/LSE:SGIG,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1905,Invesco Hydrogen Economy ETF USD Acc GBP,IE00053WDH64,https://www.ii.co.uk/etfs/invesco-hydrogen-economy-etf-usd-acc-gbp/LSE:HYDN.L,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1910,Global Core Equity UCITS ETF USD Acc,IE000EGGFVG6,https://www.ii.co.uk/etfs/global-core-equity-ucits-etf-usd-acc/LSE:DDGC,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1915,KRC Cat Bond ETF USD Acc,IE000UWJUW87,https://www.ii.co.uk/etfs/krc-cat-bond-etf-usd-acc/LSE:CATB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1920,WisdomTree Eurozone Effict Cr ETF EURAcc,IE000OV4XWA3,https://www.ii.co.uk/etfs/wisdomtree-eurozone-effict-cr-etf-euracc/LSE:NTSZ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1925,iShares € Govt Bond 20y TgtDur ETF€ Dist,IE00BSKRJX20,https://www.ii.co.uk/etfs/ishares-govt-bond-20y-tgtdur-etf-dist/LSE:E20Y,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1930,JPM Europe Rsrch Enh Eq Act ETF EUR Acc USD,IE00BF4G7183,https://www.ii.co.uk/etfs/jpm-europe-rsrch-enh-eq-act-etf-eur-acc-usd/LSE:JERA,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1935,Jupiter Global Govt Bd Act ETF H GBP Acc,IE000U00VD47,https://www.ii.co.uk/etfs/jupiter-global-govt-bd-act-etf-h-gbp-acc/LSE:GOVH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1940,Amundi MSCI Digital Economy ETF Acc,LU2023678878,https://www.ii.co.uk/etfs/amundi-msci-digital-economy-etf-acc/LSE:DIGE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1945,Xtrackers MSCI World Quality ESG ETF 1C,IE0003NQ0IY5,https://www.ii.co.uk/etfs/xtrackers-msci-world-quality-esg-etf-1c/LSE:XWEQ,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1950,Fidelity US Equity Rsh Enh ETF USD Acc GBP,IE00BKSBGS44,https://www.ii.co.uk/etfs/fidelity-us-equity-rsh-enh-etf-usd-acc-gbp/LSE:FUSS,You can hold this ETF in a Trading Account,ETF
+1955,JPM EM Lcl Ccy Bd Act ETF USD Dis GBP,IE000BS9KP42,https://www.ii.co.uk/etfs/jpm-em-lcl-ccy-bd-act-etf-usd-dis-gbp/LSE:JLDO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1960,iShares € Corp Bond BBB-BB ETF EUR Dist,IE00BSKRK281,https://www.ii.co.uk/etfs/ishares-corp-bond-bbb-bb-etf-eur-dist/LSE:IEBB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1965,GS Alp Enh Eurp Eq Actv ETF EUR (Acc) GBP,IE000RITWOD4,https://www.ii.co.uk/etfs/gs-alp-enh-eurp-eq-actv-etf-eur-acc-gbp/LSE:GQEU,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1970,iShares Italy Govt Bond ETF EUR Dist EUR,IE00B7LW6Y90,https://www.ii.co.uk/etfs/ishares-italy-govt-bond-etf-eur-dist-eur/LSE:IITB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1975,Janus Henderson Jpn Hi Convct Eq ETF ACC USD,IE000CV0WWL4,https://www.ii.co.uk/etfs/janus-henderson-jpn-hi-convct-eq-etf-acc-usd/LSE:JCPN,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1980,Xtrackers India Govt Bd ETF 1C USD,IE000QVYFUT7,https://www.ii.co.uk/etfs/xtrackers-india-govt-bd-etf-1c-usd/LSE:XIGB,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1985,Franklin FTSE Emerging Markets ETF Acc,IE0004I037N4,https://www.ii.co.uk/etfs/franklin-ftse-emerging-markets-etf-acc/LSE:EMGM,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1990,First Trust IPOX® Europe Equity Opps ETF GBP,IE00BFD26097,https://www.ii.co.uk/etfs/first-trust-ipox-europe-equity-opps-etf-gbp/LSE:FPXE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+1995,iShares Core Global Aggt Bd ETF EUR HAcc,IE00BDBRDM35,https://www.ii.co.uk/etfs/ishares-core-global-aggt-bd-etf-eur-hacc/LSE:AGGH,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+2000,Xtrackers US Treas Ultrashort ETF 1C,IE00BM97MR69,https://www.ii.co.uk/etfs/xtrackers-us-treas-ultrashort-etf-1c/LSE:XT0D,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+2005,BNPP E Alpha Enh Wld USD ETF USD,IE0009WYJCP8,https://www.ii.co.uk/etfs/bnpp-e-alpha-enh-wld-usd-etf-usd/LSE:QGLO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+2010,WisdomTree Global Quality Gr ETF USD Acc,IE000Y83YZ44,https://www.ii.co.uk/etfs/wisdomtree-global-quality-gr-etf-usd-acc/LSE:WGRO,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+2015,Xtrackers Global Govt Bd ETF 3C USD,LU0641006456,https://www.ii.co.uk/etfs/xtrackers-global-govt-bd-etf-3c-usd/LSE:XGSI,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
+2020,Franklin Euro Short Maturity ETF GBP,IE00BFWXDY69,https://www.ii.co.uk/etfs/franklin-euro-short-maturity-etf-gbp/LSE:FRXE,"You can hold this ETF in a SIPP, ISA, JISA and Trading Account",ETF
