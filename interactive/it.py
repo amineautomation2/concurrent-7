@@ -35,6 +35,6 @@ def funds_investment(headers: dict) -> list[dict]:
                 data.append(dict(name=name, isin=isin, url=url))
             delay(1.5, 3)
         # REMOVE
-        # break
+        break
         ###############
     return data

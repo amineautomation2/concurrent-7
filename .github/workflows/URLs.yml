@@ -33,12 +33,6 @@ jobs:
           path: spreadsheet/interactive_investor.xlsx
           if-no-files-found: error
 
-      - name: Pull latest changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
