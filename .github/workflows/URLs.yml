@@ -11,18 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v4
         with:
           python-version: '3.12.3'
 
-      - name: Pull latest changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+
         
       - name: Install Dependencies
         run: pip install -r requirements.txt
@@ -31,11 +29,17 @@ jobs:
         run: python main.py --url
 
       - name: Upload Base Spreadsheet
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
           name: base-investment
           path: spreadsheet/interactive_investor.xlsx
           if-no-files-found: error
+
+      - name: Pull latest changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
