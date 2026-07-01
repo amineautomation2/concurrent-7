@@ -51,6 +51,7 @@ jobs:
           path: csv/ii_${{matrix.chunk}}_${{env.sheet}}.csv
           if-no-files-found: error
 
+ 
   merge-results:
     needs: worker
     runs-on: ubuntu-latest
@@ -75,6 +76,7 @@ jobs:
           pattern: results-${{env.sheet}}-csv-*
           merge-multiple: true
 
+      # 1. Run merge code
       - name: Merge and Commit
         run: python main.py --merge --sheet ${{env.sheet}}
 
@@ -85,14 +87,15 @@ jobs:
           path: spreadsheet
           if-no-files-found: error
 
+      # 2. Pull immediately before committing with autostash enabled
       - name: Pull latest changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Updated: spreadsheet"
- 
+          branch: main

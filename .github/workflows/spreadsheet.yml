@@ -8,27 +8,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12.3'
 
       - name: Install Dependencies
         run: pip install -r requirements.txt
 
+      # 1. Run Scraper first (creates untracked/modified files)
       - name: Run Scraper Chunk
         run: python main.py --fresh
 
       - name: Upload Fresh Spreadsheet
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
           name: base-investment
           path: spreadsheet/interactive_investor.xlsx
           if-no-files-found: error
 
+      # 2. Pull with autostash to hide spreadsheet modifications during rebase sync
+      - name: Pull latest changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "update: refresh spreadsheet"
+          branch: main
