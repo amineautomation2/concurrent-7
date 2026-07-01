@@ -25,6 +25,11 @@ jobs:
         with:
           python-version: '3.12.3'
 
+      - name: Pull latest changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
 
       - name: Install Dependencies
         run: pip install -r requirements.txt
@@ -52,8 +57,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -70,7 +79,6 @@ jobs:
           pattern: results-${{env.sheet}}-csv-*
           merge-multiple: true
 
-      # 1. Run merge code
       - name: Merge and Commit
         run: python main.py --merge --sheet ${{env.sheet}}
 
@@ -81,10 +89,8 @@ jobs:
           path: spreadsheet
           if-no-files-found: error
 
-      # 2. Pull immediately before committing with autostash enabled
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Updated: spreadsheet"
-          branch: main

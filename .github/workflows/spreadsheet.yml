@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.12.3'
 
@@ -27,19 +27,11 @@ jobs:
       - name: Upload Fresh Spreadsheet
         uses: actions/upload-artifact@v4
         with:
-          name: base-investment
+          name: interactive-investor-spreadsheet 
           path: spreadsheet/interactive_investor.xlsx
           if-no-files-found: error
-
-      # 2. Pull with autostash to hide spreadsheet modifications during rebase sync
-      - name: Pull latest changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash origin main
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "update: refresh spreadsheet"
-          branch: main
